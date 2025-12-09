@@ -1,0 +1,1001 @@
+id,date,incident_type,severity,status,description,reported_by,created_at
+1,2023-08-03,Malware,Critical,Resolved,Malicious software found on workstation 102,bob,2023-08-03 14:18:00
+2,2024-06-22,Ransomware,Medium,In Progress,Encryption malware detected - 420 files affected,bob,2024-06-22 14:19:00
+3,2024-04-02,XSS Attack,Low,Open,Cross-site scripting vulnerability exploited in comment section,charlie,2024-04-02 03:22:00
+4,2024-04-01,Unauthorized Access,Critical,Open,Failed login attempts from IP 218.172.156.37,david,2024-04-01 23:44:00
+5,2023-10-20,XSS Attack,Medium,In Progress,Cross-site scripting vulnerability exploited in comment section,alice,2023-10-20 01:12:00
+6,2023-05-14,Phishing,High,Open,Suspicious email detected targeting finance department,david,2023-05-14 00:01:00
+7,2023-06-06,SQL Injection,Medium,Closed,SQL injection attempt detected on login page,system,2023-06-06 02:50:00
+8,2023-12-05,Phishing,Low,Resolved,Suspicious email detected targeting HR department,admin,2023-12-05 06:59:00
+9,2024-09-24,Ransomware,Medium,In Progress,Encryption malware detected - 35 files affected,emma,2024-09-24 08:08:00
+10,2023-02-09,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in search bar,emma,2023-02-09 08:23:00
+11,2024-11-23,DDoS,Medium,Open,Distributed denial of service attack on database,admin,2024-11-23 02:59:00
+12,2024-03-19,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in user profile,david,2024-03-19 07:52:00
+13,2024-04-15,Data Breach,Low,Open,Unauthorized data access - 842 records exposed,david,2024-04-15 01:09:00
+14,2023-02-21,Data Breach,High,Resolved,Unauthorized data access - 8846 records exposed,emma,2023-02-21 03:34:00
+15,2024-06-11,SQL Injection,Critical,Resolved,SQL injection attempt detected on API endpoint,charlie,2024-06-11 16:23:00
+16,2024-11-04,Malware,Medium,Closed,Malicious software found on workstation 837,alice,2024-11-04 02:07:00
+17,2023-06-17,Data Breach,Low,Open,Unauthorized data access - 5751 records exposed,emma,2023-06-17 00:42:00
+18,2024-07-08,Malware,High,In Progress,Malicious software found on workstation 923,alice,2024-07-08 05:37:00
+19,2024-09-19,XSS Attack,Medium,In Progress,Cross-site scripting vulnerability exploited in user profile,charlie,2024-09-19 14:38:00
+20,2024-10-06,Unauthorized Access,High,In Progress,Failed login attempts from IP 32.29.205.206,david,2024-10-06 19:42:00
+21,2024-10-12,XSS Attack,Critical,Open,Cross-site scripting vulnerability exploited in user profile,system,2024-10-12 01:51:00
+22,2024-07-12,Malware,Critical,Closed,Malicious software found on workstation 134,alice,2024-07-12 22:12:00
+23,2023-08-22,Brute Force,Low,Closed,Multiple password attempts detected - 452 attempts in 21 minutes,system,2023-08-22 08:13:00
+24,2024-07-16,Brute Force,Low,In Progress,Multiple password attempts detected - 225 attempts in 53 minutes,alice,2024-07-16 19:55:00
+25,2024-05-13,DDoS,Critical,Resolved,Distributed denial of service attack on API gateway,system,2024-05-13 03:46:00
+26,2023-05-01,Malware,Medium,Open,Malicious software found on workstation 952,emma,2023-05-01 05:13:00
+27,2024-06-05,Phishing,High,Resolved,Suspicious email detected targeting HR department,emma,2024-06-05 19:59:00
+28,2024-08-03,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 234.197.23.194,emma,2024-08-03 22:30:00
+29,2024-04-13,XSS Attack,High,Resolved,Cross-site scripting vulnerability exploited in user profile,emma,2024-04-13 03:10:00
+30,2023-12-03,Unauthorized Access,High,Open,Failed login attempts from IP 24.185.83.190,system,2023-12-03 12:05:00
+31,2023-11-03,Phishing,Medium,In Progress,Suspicious email detected targeting finance department,system,2023-11-03 19:08:00
+32,2023-08-12,Ransomware,Critical,Open,Encryption malware detected - 104 files affected,bob,2023-08-12 08:03:00
+33,2023-03-24,Ransomware,Medium,Resolved,Encryption malware detected - 291 files affected,charlie,2023-03-24 14:59:00
+34,2023-02-21,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 3.8.213.216,charlie,2023-02-21 17:36:00
+35,2024-03-13,DDoS,Critical,Resolved,Distributed denial of service attack on web server,bob,2024-03-13 07:57:00
+36,2023-11-29,Social Engineering,Low,Resolved,Employee reported suspicious text message requesting credentials,charlie,2023-11-29 21:46:00
+37,2024-04-16,XSS Attack,Critical,In Progress,Cross-site scripting vulnerability exploited in comment section,alice,2024-04-16 12:48:00
+38,2023-07-10,DDoS,High,Closed,Distributed denial of service attack on web server,bob,2023-07-10 05:44:00
+39,2023-06-30,SQL Injection,Low,Open,SQL injection attempt detected on login page,admin,2023-06-30 15:00:00
+40,2024-01-04,Brute Force,Low,Closed,Multiple password attempts detected - 464 attempts in 34 minutes,david,2024-01-04 05:43:00
+41,2024-01-17,Brute Force,Medium,Resolved,Multiple password attempts detected - 303 attempts in 37 minutes,charlie,2024-01-17 09:59:00
+42,2023-11-15,Ransomware,Medium,Resolved,Encryption malware detected - 241 files affected,charlie,2023-11-15 15:44:00
+43,2023-06-21,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in comment section,admin,2023-06-21 02:10:00
+44,2024-08-29,Brute Force,High,Closed,Multiple password attempts detected - 69 attempts in 59 minutes,alice,2024-08-29 05:16:00
+45,2023-09-23,Brute Force,Medium,Open,Multiple password attempts detected - 101 attempts in 17 minutes,admin,2023-09-23 08:05:00
+46,2024-01-29,Social Engineering,High,Open,Employee reported suspicious email requesting credentials,charlie,2024-01-29 18:04:00
+47,2024-11-25,Brute Force,Medium,Open,Multiple password attempts detected - 427 attempts in 13 minutes,david,2024-11-25 16:37:00
+48,2023-01-22,Social Engineering,Low,Open,Employee reported suspicious phone call requesting credentials,bob,2023-01-22 16:24:00
+49,2023-10-15,Data Breach,Critical,In Progress,Unauthorized data access - 6356 records exposed,david,2023-10-15 19:30:00
+50,2024-05-28,Phishing,Critical,Open,Suspicious email detected targeting HR department,system,2024-05-28 02:37:00
+51,2024-11-21,Brute Force,Critical,Resolved,Multiple password attempts detected - 165 attempts in 35 minutes,system,2024-11-21 18:53:00
+52,2023-09-10,SQL Injection,Critical,Resolved,SQL injection attempt detected on API endpoint,alice,2023-09-10 09:05:00
+53,2024-06-19,SQL Injection,Critical,Open,SQL injection attempt detected on search form,charlie,2024-06-19 01:57:00
+54,2024-09-15,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in user profile,admin,2024-09-15 08:21:00
+55,2024-09-21,SQL Injection,Medium,Open,SQL injection attempt detected on search form,bob,2024-09-21 04:24:00
+56,2024-06-08,Unauthorized Access,Low,Resolved,Failed login attempts from IP 119.197.155.66,emma,2024-06-08 20:34:00
+57,2023-03-23,Ransomware,Medium,Open,Encryption malware detected - 48 files affected,emma,2023-03-23 07:17:00
+58,2024-02-21,Phishing,Low,In Progress,Suspicious email detected targeting HR department,alice,2024-02-21 20:40:00
+59,2024-03-06,Malware,Medium,Closed,Malicious software found on workstation 790,system,2024-03-06 21:13:00
+60,2023-08-20,DDoS,Medium,Resolved,Distributed denial of service attack on database,charlie,2023-08-20 00:30:00
+61,2023-08-29,XSS Attack,Critical,Resolved,Cross-site scripting vulnerability exploited in user profile,alice,2023-08-29 04:21:00
+62,2024-07-26,DDoS,Low,In Progress,Distributed denial of service attack on web server,alice,2024-07-26 23:56:00
+63,2023-12-12,Malware,Low,In Progress,Malicious software found on workstation 395,alice,2023-12-12 22:03:00
+64,2024-03-25,Brute Force,Critical,Resolved,Multiple password attempts detected - 323 attempts in 23 minutes,emma,2024-03-25 23:47:00
+65,2024-06-06,Phishing,Medium,Resolved,Suspicious email detected targeting IT department,alice,2024-06-06 22:54:00
+66,2023-02-14,Unauthorized Access,Medium,Closed,Failed login attempts from IP 200.252.153.132,bob,2023-02-14 20:56:00
+67,2023-05-12,Social Engineering,Critical,Resolved,Employee reported suspicious phone call requesting credentials,bob,2023-05-12 18:36:00
+68,2024-08-28,SQL Injection,Medium,Closed,SQL injection attempt detected on login page,system,2024-08-28 12:10:00
+69,2023-03-02,Social Engineering,Low,Open,Employee reported suspicious email requesting credentials,system,2023-03-02 04:01:00
+70,2024-02-14,Phishing,Medium,In Progress,Suspicious email detected targeting finance department,admin,2024-02-14 11:54:00
+71,2023-09-14,Phishing,Critical,Closed,Suspicious email detected targeting HR department,admin,2023-09-14 00:02:00
+72,2024-03-10,Malware,Critical,In Progress,Malicious software found on workstation 156,emma,2024-03-10 11:13:00
+73,2023-01-20,Phishing,Critical,Resolved,Suspicious email detected targeting IT department,emma,2023-01-20 18:12:00
+74,2023-09-29,Phishing,High,Resolved,Suspicious email detected targeting finance department,david,2023-09-29 05:44:00
+75,2024-01-20,Brute Force,Critical,In Progress,Multiple password attempts detected - 292 attempts in 20 minutes,system,2024-01-20 20:18:00
+76,2024-06-09,Ransomware,Critical,Closed,Encryption malware detected - 313 files affected,david,2024-06-09 11:23:00
+77,2024-04-17,SQL Injection,High,Closed,SQL injection attempt detected on login page,system,2024-04-17 14:21:00
+78,2024-06-05,DDoS,Critical,In Progress,Distributed denial of service attack on API gateway,bob,2024-06-05 12:11:00
+79,2023-01-04,SQL Injection,Critical,In Progress,SQL injection attempt detected on API endpoint,david,2023-01-04 05:44:00
+80,2023-11-13,Ransomware,High,Open,Encryption malware detected - 189 files affected,alice,2023-11-13 11:51:00
+81,2024-05-19,Unauthorized Access,High,Closed,Failed login attempts from IP 218.25.149.100,alice,2024-05-19 17:39:00
+82,2024-03-10,Brute Force,High,Closed,Multiple password attempts detected - 245 attempts in 36 minutes,system,2024-03-10 15:15:00
+83,2023-10-30,Unauthorized Access,Critical,Open,Failed login attempts from IP 228.29.118.172,system,2023-10-30 17:40:00
+84,2023-05-18,Ransomware,Critical,Closed,Encryption malware detected - 209 files affected,system,2023-05-18 17:28:00
+85,2024-09-20,Social Engineering,Critical,In Progress,Employee reported suspicious phone call requesting credentials,david,2024-09-20 20:40:00
+86,2023-01-06,Social Engineering,Low,In Progress,Employee reported suspicious email requesting credentials,charlie,2023-01-06 12:13:00
+87,2023-06-23,Phishing,Critical,Open,Suspicious email detected targeting finance department,bob,2023-06-23 11:09:00
+88,2023-07-14,SQL Injection,Low,Open,SQL injection attempt detected on login page,charlie,2023-07-14 23:08:00
+89,2024-02-03,DDoS,Medium,Open,Distributed denial of service attack on database,system,2024-02-03 10:57:00
+90,2023-09-06,DDoS,Critical,In Progress,Distributed denial of service attack on API gateway,bob,2023-09-06 06:18:00
+91,2023-09-29,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 84.169.231.203,admin,2023-09-29 06:24:00
+92,2023-03-06,Malware,Critical,Resolved,Malicious software found on workstation 882,alice,2023-03-06 15:51:00
+93,2024-03-11,Phishing,Medium,Closed,Suspicious email detected targeting finance department,system,2024-03-11 16:55:00
+94,2023-04-20,Social Engineering,Low,Resolved,Employee reported suspicious text message requesting credentials,bob,2023-04-20 10:58:00
+95,2024-05-17,Malware,High,Closed,Malicious software found on workstation 272,david,2024-05-17 08:49:00
+96,2024-03-17,Unauthorized Access,Low,Open,Failed login attempts from IP 76.5.33.18,system,2024-03-17 14:09:00
+97,2024-12-01,Brute Force,Medium,Resolved,Multiple password attempts detected - 289 attempts in 38 minutes,system,2024-12-01 10:15:00
+98,2023-07-22,DDoS,High,Open,Distributed denial of service attack on API gateway,emma,2023-07-22 20:28:00
+99,2024-08-20,Social Engineering,Critical,Closed,Employee reported suspicious phone call requesting credentials,alice,2024-08-20 17:38:00
+100,2023-02-13,Unauthorized Access,High,In Progress,Failed login attempts from IP 130.78.41.147,alice,2023-02-13 02:49:00
+101,2023-07-13,Phishing,Low,In Progress,Suspicious email detected targeting finance department,alice,2023-07-13 11:19:00
+102,2023-02-22,Social Engineering,High,Open,Employee reported suspicious email requesting credentials,charlie,2023-02-22 03:59:00
+103,2024-09-24,Social Engineering,High,Open,Employee reported suspicious text message requesting credentials,bob,2024-09-24 01:15:00
+104,2023-01-17,Social Engineering,Low,Open,Employee reported suspicious phone call requesting credentials,bob,2023-01-17 07:00:00
+105,2023-02-09,DDoS,Critical,Resolved,Distributed denial of service attack on web server,david,2023-02-09 22:30:00
+106,2024-04-02,Data Breach,Low,Resolved,Unauthorized data access - 3341 records exposed,system,2024-04-02 23:20:00
+107,2023-04-08,DDoS,Medium,Closed,Distributed denial of service attack on API gateway,david,2023-04-08 15:52:00
+108,2023-06-12,Ransomware,Critical,Resolved,Encryption malware detected - 436 files affected,system,2023-06-12 03:16:00
+109,2024-11-17,DDoS,Critical,Open,Distributed denial of service attack on web server,system,2024-11-17 05:18:00
+110,2024-06-09,Ransomware,High,Closed,Encryption malware detected - 341 files affected,charlie,2024-06-09 18:39:00
+111,2024-05-27,Phishing,Medium,In Progress,Suspicious email detected targeting IT department,bob,2024-05-27 22:33:00
+112,2023-05-20,Data Breach,Medium,Open,Unauthorized data access - 1771 records exposed,admin,2023-05-20 08:04:00
+113,2023-07-18,Unauthorized Access,High,In Progress,Failed login attempts from IP 33.43.54.86,charlie,2023-07-18 17:19:00
+114,2024-07-15,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 54.78.200.214,system,2024-07-15 09:54:00
+115,2023-03-24,DDoS,Critical,Open,Distributed denial of service attack on database,emma,2023-03-24 07:46:00
+116,2023-03-07,Social Engineering,Critical,In Progress,Employee reported suspicious email requesting credentials,emma,2023-03-07 12:42:00
+117,2023-02-25,Data Breach,Critical,In Progress,Unauthorized data access - 1926 records exposed,emma,2023-02-25 16:44:00
+118,2023-07-24,SQL Injection,Critical,In Progress,SQL injection attempt detected on login page,system,2023-07-24 04:38:00
+119,2023-05-16,Brute Force,Low,Closed,Multiple password attempts detected - 438 attempts in 40 minutes,charlie,2023-05-16 00:20:00
+120,2023-04-30,Phishing,Critical,In Progress,Suspicious email detected targeting IT department,david,2023-04-30 20:10:00
+121,2024-05-14,Malware,Medium,Open,Malicious software found on workstation 145,alice,2024-05-14 20:28:00
+122,2023-08-12,Data Breach,High,Closed,Unauthorized data access - 2891 records exposed,charlie,2023-08-12 15:04:00
+123,2023-03-14,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 236.66.28.37,emma,2023-03-14 12:09:00
+124,2023-12-25,Social Engineering,Critical,Resolved,Employee reported suspicious email requesting credentials,alice,2023-12-25 00:51:00
+125,2024-07-11,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 122.82.88.71,emma,2024-07-11 00:18:00
+126,2024-10-25,Social Engineering,Low,Resolved,Employee reported suspicious text message requesting credentials,bob,2024-10-25 21:33:00
+127,2023-07-21,Malware,Low,Closed,Malicious software found on workstation 242,david,2023-07-21 14:39:00
+128,2024-09-26,Brute Force,Critical,Resolved,Multiple password attempts detected - 102 attempts in 26 minutes,david,2024-09-26 01:41:00
+129,2023-08-26,Data Breach,Critical,In Progress,Unauthorized data access - 9612 records exposed,bob,2023-08-26 20:20:00
+130,2024-03-22,Ransomware,Critical,In Progress,Encryption malware detected - 498 files affected,david,2024-03-22 14:42:00
+131,2024-04-30,SQL Injection,Medium,Open,SQL injection attempt detected on login page,system,2024-04-30 19:13:00
+132,2023-02-08,Unauthorized Access,Low,In Progress,Failed login attempts from IP 219.72.126.130,bob,2023-02-08 15:45:00
+133,2023-05-24,Malware,Medium,In Progress,Malicious software found on workstation 846,david,2023-05-24 16:44:00
+134,2024-05-29,Ransomware,Critical,In Progress,Encryption malware detected - 198 files affected,admin,2024-05-29 06:45:00
+135,2023-03-15,Brute Force,Low,Closed,Multiple password attempts detected - 378 attempts in 33 minutes,admin,2023-03-15 01:18:00
+136,2023-08-26,Phishing,Medium,In Progress,Suspicious email detected targeting HR department,charlie,2023-08-26 17:59:00
+137,2024-03-31,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in comment section,system,2024-03-31 18:46:00
+138,2023-02-04,SQL Injection,Low,Closed,SQL injection attempt detected on API endpoint,bob,2023-02-04 02:47:00
+139,2024-11-11,Phishing,Low,Resolved,Suspicious email detected targeting IT department,charlie,2024-11-11 16:37:00
+140,2023-09-24,Social Engineering,Medium,Resolved,Employee reported suspicious phone call requesting credentials,system,2023-09-24 07:11:00
+141,2023-06-06,Malware,High,Closed,Malicious software found on workstation 706,admin,2023-06-06 21:25:00
+142,2024-11-03,Social Engineering,High,In Progress,Employee reported suspicious email requesting credentials,alice,2024-11-03 17:53:00
+143,2024-06-24,Phishing,Medium,Resolved,Suspicious email detected targeting HR department,alice,2024-06-24 01:25:00
+144,2024-08-23,SQL Injection,Low,In Progress,SQL injection attempt detected on login page,system,2024-08-23 04:44:00
+145,2023-09-26,Unauthorized Access,Medium,Open,Failed login attempts from IP 249.26.46.172,emma,2023-09-26 03:46:00
+146,2023-01-29,Social Engineering,Critical,Resolved,Employee reported suspicious email requesting credentials,system,2023-01-29 03:17:00
+147,2024-10-26,Ransomware,Low,Closed,Encryption malware detected - 397 files affected,admin,2024-10-26 15:32:00
+148,2024-06-23,SQL Injection,Critical,Open,SQL injection attempt detected on search form,bob,2024-06-23 20:28:00
+149,2023-01-14,Brute Force,Low,Open,Multiple password attempts detected - 117 attempts in 52 minutes,emma,2023-01-14 01:45:00
+150,2024-06-30,Malware,Critical,Open,Malicious software found on workstation 352,bob,2024-06-30 05:56:00
+151,2023-04-25,Brute Force,Critical,In Progress,Multiple password attempts detected - 57 attempts in 51 minutes,system,2023-04-25 20:07:00
+152,2023-08-21,Unauthorized Access,Medium,Open,Failed login attempts from IP 224.253.75.74,david,2023-08-21 14:43:00
+153,2023-07-30,Malware,High,Open,Malicious software found on workstation 261,emma,2023-07-30 07:38:00
+154,2024-07-26,Brute Force,High,In Progress,Multiple password attempts detected - 469 attempts in 59 minutes,system,2024-07-26 19:36:00
+155,2023-07-12,Data Breach,Critical,Open,Unauthorized data access - 7822 records exposed,system,2023-07-12 00:12:00
+156,2023-06-12,Social Engineering,Medium,In Progress,Employee reported suspicious text message requesting credentials,david,2023-06-12 03:37:00
+157,2023-09-24,DDoS,Low,Closed,Distributed denial of service attack on web server,system,2023-09-24 15:13:00
+158,2024-08-13,SQL Injection,High,Closed,SQL injection attempt detected on login page,bob,2024-08-13 19:57:00
+159,2023-10-21,Malware,Critical,Resolved,Malicious software found on workstation 593,david,2023-10-21 06:29:00
+160,2023-07-31,Data Breach,High,Closed,Unauthorized data access - 7155 records exposed,charlie,2023-07-31 11:43:00
+161,2023-12-11,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 46.15.70.209,admin,2023-12-11 11:50:00
+162,2023-07-11,Ransomware,Critical,Open,Encryption malware detected - 259 files affected,emma,2023-07-11 07:21:00
+163,2024-04-08,Social Engineering,High,Closed,Employee reported suspicious phone call requesting credentials,david,2024-04-08 11:10:00
+164,2023-12-24,Ransomware,Low,Closed,Encryption malware detected - 52 files affected,admin,2023-12-24 00:25:00
+165,2023-02-16,Phishing,Medium,In Progress,Suspicious email detected targeting finance department,emma,2023-02-16 00:37:00
+166,2023-06-05,XSS Attack,Low,Open,Cross-site scripting vulnerability exploited in search bar,david,2023-06-05 05:45:00
+167,2024-09-02,Ransomware,Low,Resolved,Encryption malware detected - 214 files affected,david,2024-09-02 10:51:00
+168,2024-01-25,Malware,Low,Closed,Malicious software found on workstation 208,admin,2024-01-25 03:16:00
+169,2023-06-20,Malware,Low,Closed,Malicious software found on workstation 918,admin,2023-06-20 12:17:00
+170,2024-12-01,Social Engineering,Critical,Closed,Employee reported suspicious text message requesting credentials,david,2024-12-01 16:59:00
+171,2024-06-11,Social Engineering,Critical,In Progress,Employee reported suspicious email requesting credentials,charlie,2024-06-11 22:53:00
+172,2024-04-25,Ransomware,Low,Open,Encryption malware detected - 226 files affected,bob,2024-04-25 17:17:00
+173,2024-08-12,SQL Injection,Medium,Closed,SQL injection attempt detected on login page,system,2024-08-12 17:35:00
+174,2023-12-22,Ransomware,Critical,Closed,Encryption malware detected - 24 files affected,charlie,2023-12-22 16:28:00
+175,2024-03-31,Social Engineering,Low,Closed,Employee reported suspicious email requesting credentials,david,2024-03-31 16:51:00
+176,2023-03-30,SQL Injection,Critical,Closed,SQL injection attempt detected on login page,bob,2023-03-30 04:10:00
+177,2024-06-18,Phishing,Medium,In Progress,Suspicious email detected targeting HR department,admin,2024-06-18 16:09:00
+178,2024-11-05,Brute Force,Low,Open,Multiple password attempts detected - 205 attempts in 52 minutes,admin,2024-11-05 09:11:00
+179,2023-04-16,Malware,High,Resolved,Malicious software found on workstation 840,admin,2023-04-16 09:47:00
+180,2024-09-04,Data Breach,Medium,Resolved,Unauthorized data access - 9528 records exposed,alice,2024-09-04 01:25:00
+181,2023-03-29,Social Engineering,Medium,Resolved,Employee reported suspicious phone call requesting credentials,bob,2023-03-29 01:05:00
+182,2023-10-22,DDoS,High,Open,Distributed denial of service attack on API gateway,bob,2023-10-22 09:58:00
+183,2024-01-26,Unauthorized Access,Low,Closed,Failed login attempts from IP 151.110.253.41,bob,2024-01-26 21:42:00
+184,2024-01-16,DDoS,High,Open,Distributed denial of service attack on database,bob,2024-01-16 06:17:00
+185,2023-04-09,SQL Injection,Low,Closed,SQL injection attempt detected on search form,alice,2023-04-09 03:12:00
+186,2023-10-17,Malware,Low,In Progress,Malicious software found on workstation 788,alice,2023-10-17 21:58:00
+187,2023-08-24,Brute Force,Critical,Resolved,Multiple password attempts detected - 337 attempts in 57 minutes,alice,2023-08-24 20:46:00
+188,2024-01-21,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 193.229.169.102,charlie,2024-01-21 07:16:00
+189,2024-07-24,XSS Attack,Medium,In Progress,Cross-site scripting vulnerability exploited in comment section,bob,2024-07-24 06:52:00
+190,2024-08-04,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in search bar,system,2024-08-04 03:36:00
+191,2024-09-17,Malware,Low,Open,Malicious software found on workstation 914,emma,2024-09-17 15:01:00
+192,2024-08-30,Ransomware,Low,Resolved,Encryption malware detected - 148 files affected,emma,2024-08-30 23:03:00
+193,2023-07-18,DDoS,Medium,Open,Distributed denial of service attack on API gateway,alice,2023-07-18 15:56:00
+194,2023-03-16,Malware,Medium,Resolved,Malicious software found on workstation 579,alice,2023-03-16 05:54:00
+195,2023-05-04,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in user profile,charlie,2023-05-04 08:07:00
+196,2023-06-20,DDoS,High,Closed,Distributed denial of service attack on API gateway,bob,2023-06-20 11:43:00
+197,2023-05-28,XSS Attack,Medium,In Progress,Cross-site scripting vulnerability exploited in user profile,admin,2023-05-28 04:41:00
+198,2024-11-18,Data Breach,Low,Open,Unauthorized data access - 6230 records exposed,bob,2024-11-18 06:42:00
+199,2024-03-12,Ransomware,Medium,In Progress,Encryption malware detected - 324 files affected,david,2024-03-12 03:50:00
+200,2024-04-07,Phishing,High,Open,Suspicious email detected targeting IT department,david,2024-04-07 19:04:00
+201,2023-07-19,XSS Attack,Low,In Progress,Cross-site scripting vulnerability exploited in user profile,emma,2023-07-19 15:30:00
+202,2023-09-13,SQL Injection,High,In Progress,SQL injection attempt detected on login page,bob,2023-09-13 00:49:00
+203,2023-02-03,SQL Injection,Medium,In Progress,SQL injection attempt detected on search form,charlie,2023-02-03 18:12:00
+204,2023-08-25,Data Breach,Medium,Resolved,Unauthorized data access - 3727 records exposed,alice,2023-08-25 06:51:00
+205,2024-09-23,Social Engineering,Critical,Closed,Employee reported suspicious text message requesting credentials,bob,2024-09-23 14:57:00
+206,2024-03-07,XSS Attack,Critical,Resolved,Cross-site scripting vulnerability exploited in user profile,david,2024-03-07 07:17:00
+207,2023-06-27,Unauthorized Access,Low,Closed,Failed login attempts from IP 98.80.225.169,bob,2023-06-27 09:50:00
+208,2023-09-22,Malware,Low,In Progress,Malicious software found on workstation 450,system,2023-09-22 11:45:00
+209,2023-07-20,Brute Force,Low,Closed,Multiple password attempts detected - 373 attempts in 44 minutes,bob,2023-07-20 21:54:00
+210,2024-10-26,Brute Force,Low,Open,Multiple password attempts detected - 465 attempts in 37 minutes,system,2024-10-26 23:12:00
+211,2023-03-19,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 6.216.100.106,admin,2023-03-19 18:13:00
+212,2023-08-16,Social Engineering,Low,Resolved,Employee reported suspicious email requesting credentials,system,2023-08-16 16:51:00
+213,2024-05-19,Social Engineering,Low,Resolved,Employee reported suspicious text message requesting credentials,charlie,2024-05-19 12:21:00
+214,2023-04-20,Brute Force,Critical,Resolved,Multiple password attempts detected - 449 attempts in 23 minutes,charlie,2023-04-20 22:48:00
+215,2023-01-19,Phishing,Low,Closed,Suspicious email detected targeting finance department,emma,2023-01-19 21:22:00
+216,2024-02-29,Brute Force,Critical,In Progress,Multiple password attempts detected - 145 attempts in 13 minutes,david,2024-02-29 22:14:00
+217,2023-02-07,Social Engineering,Critical,Open,Employee reported suspicious text message requesting credentials,bob,2023-02-07 08:20:00
+218,2023-12-16,Phishing,Medium,Resolved,Suspicious email detected targeting IT department,bob,2023-12-16 20:56:00
+219,2024-02-26,Phishing,Critical,Resolved,Suspicious email detected targeting finance department,system,2024-02-26 07:27:00
+220,2023-04-07,Social Engineering,Critical,Resolved,Employee reported suspicious phone call requesting credentials,bob,2023-04-07 12:54:00
+221,2023-07-09,Unauthorized Access,High,In Progress,Failed login attempts from IP 107.159.202.200,admin,2023-07-09 19:30:00
+222,2023-05-18,SQL Injection,Medium,Closed,SQL injection attempt detected on API endpoint,bob,2023-05-18 03:22:00
+223,2023-06-09,Phishing,Medium,In Progress,Suspicious email detected targeting finance department,emma,2023-06-09 11:12:00
+224,2023-04-01,SQL Injection,High,Open,SQL injection attempt detected on search form,admin,2023-04-01 05:31:00
+225,2023-12-25,Malware,Critical,Resolved,Malicious software found on workstation 809,david,2023-12-25 04:17:00
+226,2024-02-19,Data Breach,Critical,In Progress,Unauthorized data access - 8155 records exposed,david,2024-02-19 01:45:00
+227,2023-12-21,DDoS,Critical,In Progress,Distributed denial of service attack on database,emma,2023-12-21 08:17:00
+228,2024-01-11,DDoS,Low,Resolved,Distributed denial of service attack on database,charlie,2024-01-11 23:45:00
+229,2024-08-25,Ransomware,Medium,Closed,Encryption malware detected - 373 files affected,charlie,2024-08-25 19:37:00
+230,2023-03-03,Ransomware,Medium,Closed,Encryption malware detected - 62 files affected,david,2023-03-03 00:03:00
+231,2024-07-25,SQL Injection,Critical,Resolved,SQL injection attempt detected on API endpoint,emma,2024-07-25 16:18:00
+232,2024-07-22,SQL Injection,Medium,In Progress,SQL injection attempt detected on search form,emma,2024-07-22 20:07:00
+233,2023-11-16,SQL Injection,Critical,In Progress,SQL injection attempt detected on search form,emma,2023-11-16 08:09:00
+234,2023-12-30,Ransomware,Critical,Resolved,Encryption malware detected - 217 files affected,alice,2023-12-30 18:22:00
+235,2023-01-06,Ransomware,Critical,Resolved,Encryption malware detected - 185 files affected,bob,2023-01-06 16:23:00
+236,2023-08-22,SQL Injection,Medium,Resolved,SQL injection attempt detected on login page,system,2023-08-22 01:17:00
+237,2023-10-05,Malware,High,Open,Malicious software found on workstation 493,emma,2023-10-05 17:41:00
+238,2023-11-10,XSS Attack,Low,Open,Cross-site scripting vulnerability exploited in search bar,charlie,2023-11-10 07:03:00
+239,2024-04-19,Phishing,Low,Closed,Suspicious email detected targeting IT department,system,2024-04-19 16:25:00
+240,2023-07-30,Unauthorized Access,High,Closed,Failed login attempts from IP 1.155.171.187,bob,2023-07-30 13:11:00
+241,2023-08-05,Ransomware,Medium,Resolved,Encryption malware detected - 109 files affected,alice,2023-08-05 09:12:00
+242,2024-08-25,SQL Injection,Critical,Open,SQL injection attempt detected on search form,charlie,2024-08-25 16:23:00
+243,2024-01-03,Unauthorized Access,Low,Closed,Failed login attempts from IP 156.91.146.195,emma,2024-01-03 17:07:00
+244,2023-04-21,Phishing,High,Closed,Suspicious email detected targeting IT department,alice,2023-04-21 10:41:00
+245,2024-10-15,Unauthorized Access,Medium,Closed,Failed login attempts from IP 68.226.161.65,bob,2024-10-15 15:37:00
+246,2023-09-06,Brute Force,Critical,Closed,Multiple password attempts detected - 314 attempts in 51 minutes,bob,2023-09-06 22:02:00
+247,2024-11-23,XSS Attack,Medium,In Progress,Cross-site scripting vulnerability exploited in user profile,alice,2024-11-23 03:20:00
+248,2023-08-04,Data Breach,Medium,In Progress,Unauthorized data access - 906 records exposed,admin,2023-08-04 08:42:00
+249,2024-10-11,Social Engineering,High,Open,Employee reported suspicious email requesting credentials,bob,2024-10-11 09:15:00
+250,2023-02-24,SQL Injection,Low,In Progress,SQL injection attempt detected on API endpoint,bob,2023-02-24 11:21:00
+251,2023-04-03,Ransomware,High,Resolved,Encryption malware detected - 248 files affected,admin,2023-04-03 20:35:00
+252,2024-07-27,Data Breach,Critical,In Progress,Unauthorized data access - 516 records exposed,admin,2024-07-27 12:15:00
+253,2023-06-26,Data Breach,Low,Open,Unauthorized data access - 9920 records exposed,bob,2023-06-26 08:47:00
+254,2024-05-14,Data Breach,Critical,Closed,Unauthorized data access - 1709 records exposed,emma,2024-05-14 21:02:00
+255,2023-07-10,Social Engineering,Critical,Resolved,Employee reported suspicious phone call requesting credentials,alice,2023-07-10 10:16:00
+256,2023-02-22,DDoS,High,Open,Distributed denial of service attack on database,charlie,2023-02-22 22:40:00
+257,2023-12-24,Social Engineering,High,Open,Employee reported suspicious email requesting credentials,david,2023-12-24 18:24:00
+258,2024-03-20,Phishing,Low,Closed,Suspicious email detected targeting IT department,alice,2024-03-20 19:58:00
+259,2023-10-09,Data Breach,High,In Progress,Unauthorized data access - 8215 records exposed,bob,2023-10-09 13:22:00
+260,2023-02-03,Unauthorized Access,High,In Progress,Failed login attempts from IP 22.11.87.128,david,2023-02-03 09:00:00
+261,2023-02-03,Data Breach,Low,Closed,Unauthorized data access - 8923 records exposed,alice,2023-02-03 20:19:00
+262,2024-08-07,Malware,High,Closed,Malicious software found on workstation 915,charlie,2024-08-07 17:24:00
+263,2023-01-29,DDoS,Critical,Open,Distributed denial of service attack on database,david,2023-01-29 04:05:00
+264,2023-12-24,DDoS,Low,Closed,Distributed denial of service attack on database,system,2023-12-24 09:07:00
+265,2024-04-17,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in search bar,david,2024-04-17 17:37:00
+266,2023-04-17,Unauthorized Access,Medium,Closed,Failed login attempts from IP 216.148.241.178,charlie,2023-04-17 17:04:00
+267,2024-04-13,Ransomware,Medium,Open,Encryption malware detected - 235 files affected,alice,2024-04-13 10:53:00
+268,2023-07-24,Unauthorized Access,Low,Closed,Failed login attempts from IP 95.30.106.240,alice,2023-07-24 16:54:00
+269,2023-10-27,Malware,Low,In Progress,Malicious software found on workstation 925,admin,2023-10-27 20:21:00
+270,2023-02-14,Ransomware,Medium,In Progress,Encryption malware detected - 173 files affected,system,2023-02-14 22:35:00
+271,2023-07-17,Ransomware,Medium,Open,Encryption malware detected - 73 files affected,david,2023-07-17 18:34:00
+272,2023-05-01,Malware,Critical,Open,Malicious software found on workstation 113,admin,2023-05-01 10:26:00
+273,2023-11-02,DDoS,Medium,Open,Distributed denial of service attack on database,admin,2023-11-02 18:00:00
+274,2023-08-03,Data Breach,Medium,Closed,Unauthorized data access - 9587 records exposed,david,2023-08-03 19:40:00
+275,2024-10-30,Ransomware,High,In Progress,Encryption malware detected - 357 files affected,charlie,2024-10-30 09:05:00
+276,2023-04-27,DDoS,High,Closed,Distributed denial of service attack on API gateway,alice,2023-04-27 00:15:00
+277,2023-08-04,Brute Force,Medium,Open,Multiple password attempts detected - 104 attempts in 51 minutes,emma,2023-08-04 18:14:00
+278,2023-08-20,Malware,Medium,Open,Malicious software found on workstation 821,emma,2023-08-20 14:03:00
+279,2023-08-21,Unauthorized Access,Low,Closed,Failed login attempts from IP 9.168.19.147,charlie,2023-08-21 18:58:00
+280,2024-09-18,Brute Force,Medium,Resolved,Multiple password attempts detected - 79 attempts in 11 minutes,system,2024-09-18 00:25:00
+281,2024-05-10,Social Engineering,Critical,Resolved,Employee reported suspicious text message requesting credentials,bob,2024-05-10 17:55:00
+282,2024-02-06,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in search bar,bob,2024-02-06 08:42:00
+283,2023-03-05,Brute Force,Critical,Closed,Multiple password attempts detected - 427 attempts in 60 minutes,charlie,2023-03-05 05:50:00
+284,2023-12-16,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in search bar,alice,2023-12-16 21:35:00
+285,2023-03-12,Phishing,Low,Resolved,Suspicious email detected targeting HR department,charlie,2023-03-12 13:59:00
+286,2023-05-01,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in search bar,emma,2023-05-01 10:04:00
+287,2024-05-19,Ransomware,Low,Resolved,Encryption malware detected - 292 files affected,bob,2024-05-19 18:22:00
+288,2023-07-06,DDoS,Critical,Closed,Distributed denial of service attack on web server,admin,2023-07-06 17:34:00
+289,2023-04-24,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in comment section,charlie,2023-04-24 18:32:00
+290,2024-10-21,Malware,High,Open,Malicious software found on workstation 852,admin,2024-10-21 05:18:00
+291,2023-03-09,Social Engineering,Low,Open,Employee reported suspicious phone call requesting credentials,charlie,2023-03-09 01:31:00
+292,2024-09-16,Ransomware,High,Resolved,Encryption malware detected - 97 files affected,alice,2024-09-16 22:54:00
+293,2023-07-24,Data Breach,Low,Open,Unauthorized data access - 4115 records exposed,admin,2023-07-24 22:34:00
+294,2024-11-23,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in user profile,alice,2024-11-23 16:56:00
+295,2024-04-17,Brute Force,Low,Closed,Multiple password attempts detected - 401 attempts in 46 minutes,system,2024-04-17 06:30:00
+296,2024-10-06,DDoS,High,Closed,Distributed denial of service attack on web server,charlie,2024-10-06 14:42:00
+297,2023-09-24,Ransomware,Low,In Progress,Encryption malware detected - 376 files affected,admin,2023-09-24 13:38:00
+298,2023-08-03,SQL Injection,Low,Closed,SQL injection attempt detected on search form,emma,2023-08-03 09:32:00
+299,2024-03-08,Malware,High,Open,Malicious software found on workstation 355,admin,2024-03-08 00:04:00
+300,2023-09-24,SQL Injection,High,Closed,SQL injection attempt detected on API endpoint,system,2023-09-24 08:15:00
+301,2024-09-02,DDoS,Low,In Progress,Distributed denial of service attack on database,david,2024-09-02 04:48:00
+302,2024-02-29,Social Engineering,High,Resolved,Employee reported suspicious email requesting credentials,emma,2024-02-29 10:43:00
+303,2023-10-21,Malware,Medium,In Progress,Malicious software found on workstation 890,david,2023-10-21 01:33:00
+304,2023-07-17,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 69.251.71.206,david,2023-07-17 18:59:00
+305,2024-04-06,Unauthorized Access,Low,In Progress,Failed login attempts from IP 58.156.29.198,charlie,2024-04-06 17:14:00
+306,2023-12-09,DDoS,High,Open,Distributed denial of service attack on database,system,2023-12-09 20:05:00
+307,2023-10-16,Phishing,Medium,Resolved,Suspicious email detected targeting IT department,david,2023-10-16 06:02:00
+308,2023-12-06,Unauthorized Access,High,Closed,Failed login attempts from IP 26.67.243.65,alice,2023-12-06 03:34:00
+309,2023-05-30,Brute Force,Low,In Progress,Multiple password attempts detected - 286 attempts in 10 minutes,admin,2023-05-30 10:53:00
+310,2023-12-03,Phishing,Critical,In Progress,Suspicious email detected targeting HR department,system,2023-12-03 00:41:00
+311,2023-09-04,Social Engineering,Medium,Open,Employee reported suspicious email requesting credentials,system,2023-09-04 10:15:00
+312,2023-04-29,Brute Force,Low,Resolved,Multiple password attempts detected - 390 attempts in 18 minutes,admin,2023-04-29 06:12:00
+313,2023-06-04,DDoS,High,In Progress,Distributed denial of service attack on web server,emma,2023-06-04 23:40:00
+314,2024-05-28,Phishing,Medium,Open,Suspicious email detected targeting IT department,system,2024-05-28 16:38:00
+315,2023-06-25,SQL Injection,High,In Progress,SQL injection attempt detected on API endpoint,system,2023-06-25 02:08:00
+316,2023-03-08,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in search bar,bob,2023-03-08 20:47:00
+317,2023-10-13,Data Breach,Medium,Closed,Unauthorized data access - 2368 records exposed,david,2023-10-13 14:59:00
+318,2024-04-12,DDoS,Low,Resolved,Distributed denial of service attack on API gateway,admin,2024-04-12 05:46:00
+319,2023-12-15,Malware,High,Open,Malicious software found on workstation 270,david,2023-12-15 17:46:00
+320,2023-09-08,Social Engineering,High,In Progress,Employee reported suspicious phone call requesting credentials,david,2023-09-08 01:06:00
+321,2023-01-04,Phishing,Critical,In Progress,Suspicious email detected targeting HR department,bob,2023-01-04 05:59:00
+322,2024-03-04,Ransomware,High,Open,Encryption malware detected - 220 files affected,bob,2024-03-04 12:52:00
+323,2023-04-30,Social Engineering,Critical,Open,Employee reported suspicious email requesting credentials,admin,2023-04-30 12:37:00
+324,2024-04-25,Phishing,Critical,Open,Suspicious email detected targeting IT department,bob,2024-04-25 21:45:00
+325,2024-09-19,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 220.135.139.135,bob,2024-09-19 02:48:00
+326,2023-08-04,DDoS,High,Closed,Distributed denial of service attack on API gateway,admin,2023-08-04 05:34:00
+327,2023-11-08,SQL Injection,Low,Open,SQL injection attempt detected on login page,system,2023-11-08 01:25:00
+328,2024-10-29,Phishing,High,Closed,Suspicious email detected targeting IT department,admin,2024-10-29 16:15:00
+329,2024-10-13,Phishing,Low,Closed,Suspicious email detected targeting IT department,charlie,2024-10-13 06:08:00
+330,2023-12-11,Phishing,Critical,Open,Suspicious email detected targeting finance department,bob,2023-12-11 20:40:00
+331,2024-08-05,Unauthorized Access,High,Resolved,Failed login attempts from IP 213.62.109.54,alice,2024-08-05 23:02:00
+332,2023-03-16,Phishing,Critical,In Progress,Suspicious email detected targeting IT department,emma,2023-03-16 22:03:00
+333,2024-07-08,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 29.249.169.126,admin,2024-07-08 03:03:00
+334,2024-03-21,SQL Injection,Medium,Resolved,SQL injection attempt detected on API endpoint,alice,2024-03-21 06:41:00
+335,2023-02-17,Phishing,High,Closed,Suspicious email detected targeting HR department,system,2023-02-17 17:05:00
+336,2023-12-09,SQL Injection,Critical,Open,SQL injection attempt detected on search form,system,2023-12-09 01:00:00
+337,2024-07-10,DDoS,Medium,Resolved,Distributed denial of service attack on API gateway,bob,2024-07-10 14:35:00
+338,2024-07-28,Malware,Medium,Resolved,Malicious software found on workstation 440,system,2024-07-28 20:02:00
+339,2023-05-25,Unauthorized Access,Low,Open,Failed login attempts from IP 154.88.143.106,david,2023-05-25 04:45:00
+340,2024-08-15,Data Breach,Medium,Open,Unauthorized data access - 5474 records exposed,admin,2024-08-15 12:48:00
+341,2023-05-17,SQL Injection,Low,Closed,SQL injection attempt detected on login page,charlie,2023-05-17 04:34:00
+342,2023-10-15,Ransomware,Low,In Progress,Encryption malware detected - 100 files affected,bob,2023-10-15 06:23:00
+343,2023-11-03,Social Engineering,High,Resolved,Employee reported suspicious phone call requesting credentials,bob,2023-11-03 18:28:00
+344,2024-07-01,XSS Attack,High,Resolved,Cross-site scripting vulnerability exploited in search bar,system,2024-07-01 21:15:00
+345,2023-10-17,XSS Attack,Critical,Closed,Cross-site scripting vulnerability exploited in search bar,admin,2023-10-17 21:03:00
+346,2023-04-08,Brute Force,Critical,Open,Multiple password attempts detected - 143 attempts in 18 minutes,admin,2023-04-08 20:29:00
+347,2023-07-01,DDoS,Critical,Open,Distributed denial of service attack on database,system,2023-07-01 09:41:00
+348,2023-04-19,Brute Force,High,In Progress,Multiple password attempts detected - 412 attempts in 19 minutes,bob,2023-04-19 04:19:00
+349,2024-04-17,Social Engineering,Medium,Resolved,Employee reported suspicious text message requesting credentials,bob,2024-04-17 09:08:00
+350,2024-11-26,Social Engineering,Medium,In Progress,Employee reported suspicious email requesting credentials,alice,2024-11-26 15:38:00
+351,2023-07-25,Social Engineering,Low,Resolved,Employee reported suspicious text message requesting credentials,admin,2023-07-25 02:48:00
+352,2023-12-04,XSS Attack,Medium,Resolved,Cross-site scripting vulnerability exploited in comment section,bob,2023-12-04 13:44:00
+353,2024-08-05,Data Breach,Critical,Closed,Unauthorized data access - 3874 records exposed,emma,2024-08-05 01:13:00
+354,2024-04-19,Brute Force,Critical,Closed,Multiple password attempts detected - 423 attempts in 60 minutes,charlie,2024-04-19 18:53:00
+355,2023-05-28,Data Breach,Critical,Closed,Unauthorized data access - 3668 records exposed,system,2023-05-28 05:47:00
+356,2023-05-04,Phishing,High,Resolved,Suspicious email detected targeting HR department,bob,2023-05-04 15:02:00
+357,2024-08-15,XSS Attack,High,Resolved,Cross-site scripting vulnerability exploited in user profile,alice,2024-08-15 00:10:00
+358,2023-02-10,SQL Injection,Critical,In Progress,SQL injection attempt detected on search form,alice,2023-02-10 09:46:00
+359,2023-07-11,XSS Attack,Low,Resolved,Cross-site scripting vulnerability exploited in user profile,alice,2023-07-11 17:26:00
+360,2024-11-20,DDoS,Low,Closed,Distributed denial of service attack on web server,system,2024-11-20 06:47:00
+361,2024-09-11,Ransomware,Critical,In Progress,Encryption malware detected - 314 files affected,alice,2024-09-11 20:27:00
+362,2023-09-13,XSS Attack,Critical,Resolved,Cross-site scripting vulnerability exploited in user profile,admin,2023-09-13 17:28:00
+363,2023-01-01,Brute Force,High,Resolved,Multiple password attempts detected - 388 attempts in 4 minutes,alice,2023-01-01 13:00:00
+364,2023-01-14,Phishing,High,Resolved,Suspicious email detected targeting HR department,emma,2023-01-14 00:48:00
+365,2024-03-22,Brute Force,High,Open,Multiple password attempts detected - 83 attempts in 3 minutes,bob,2024-03-22 07:16:00
+366,2023-10-17,Phishing,High,Resolved,Suspicious email detected targeting finance department,alice,2023-10-17 11:24:00
+367,2024-05-22,Social Engineering,Critical,In Progress,Employee reported suspicious phone call requesting credentials,emma,2024-05-22 16:40:00
+368,2023-09-30,Malware,Medium,Resolved,Malicious software found on workstation 256,system,2023-09-30 06:50:00
+369,2023-06-23,Unauthorized Access,High,Open,Failed login attempts from IP 212.220.33.233,bob,2023-06-23 01:55:00
+370,2023-03-20,Brute Force,High,Closed,Multiple password attempts detected - 462 attempts in 10 minutes,charlie,2023-03-20 06:02:00
+371,2024-09-12,Unauthorized Access,Critical,Closed,Failed login attempts from IP 253.123.25.200,system,2024-09-12 02:51:00
+372,2023-06-11,Malware,Low,Open,Malicious software found on workstation 221,david,2023-06-11 04:36:00
+373,2023-06-17,DDoS,High,Resolved,Distributed denial of service attack on web server,bob,2023-06-17 21:09:00
+374,2023-03-03,SQL Injection,Critical,In Progress,SQL injection attempt detected on search form,charlie,2023-03-03 01:43:00
+375,2023-09-18,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in comment section,charlie,2023-09-18 23:48:00
+376,2023-09-20,Data Breach,Medium,Closed,Unauthorized data access - 2181 records exposed,charlie,2023-09-20 20:09:00
+377,2024-04-02,Ransomware,Low,Resolved,Encryption malware detected - 67 files affected,bob,2024-04-02 08:36:00
+378,2024-01-27,DDoS,Critical,Open,Distributed denial of service attack on API gateway,emma,2024-01-27 13:46:00
+379,2024-01-06,SQL Injection,High,Resolved,SQL injection attempt detected on login page,admin,2024-01-06 09:29:00
+380,2023-01-25,XSS Attack,Medium,Open,Cross-site scripting vulnerability exploited in search bar,david,2023-01-25 14:54:00
+381,2024-06-24,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 158.210.111.136,alice,2024-06-24 21:27:00
+382,2024-01-12,Data Breach,Medium,In Progress,Unauthorized data access - 9744 records exposed,alice,2024-01-12 15:21:00
+383,2023-02-15,Data Breach,High,Open,Unauthorized data access - 5221 records exposed,david,2023-02-15 10:00:00
+384,2023-07-02,Malware,Low,In Progress,Malicious software found on workstation 672,bob,2023-07-02 14:35:00
+385,2023-12-21,Social Engineering,Low,Open,Employee reported suspicious text message requesting credentials,admin,2023-12-21 17:00:00
+386,2023-11-10,Data Breach,Critical,Closed,Unauthorized data access - 8309 records exposed,alice,2023-11-10 23:17:00
+387,2024-09-16,Phishing,Critical,Open,Suspicious email detected targeting HR department,emma,2024-09-16 06:26:00
+388,2023-05-31,Phishing,Medium,Resolved,Suspicious email detected targeting finance department,admin,2023-05-31 20:29:00
+389,2023-12-28,Phishing,Critical,Closed,Suspicious email detected targeting IT department,emma,2023-12-28 06:33:00
+390,2024-09-11,Ransomware,High,In Progress,Encryption malware detected - 91 files affected,alice,2024-09-11 04:09:00
+391,2023-01-14,DDoS,Critical,Closed,Distributed denial of service attack on web server,alice,2023-01-14 14:15:00
+392,2023-07-02,Ransomware,High,In Progress,Encryption malware detected - 295 files affected,admin,2023-07-02 17:25:00
+393,2023-05-14,DDoS,High,Resolved,Distributed denial of service attack on API gateway,bob,2023-05-14 23:32:00
+394,2023-10-02,Brute Force,Medium,Resolved,Multiple password attempts detected - 274 attempts in 13 minutes,david,2023-10-02 03:26:00
+395,2024-10-20,Ransomware,High,Open,Encryption malware detected - 413 files affected,bob,2024-10-20 01:17:00
+396,2024-09-18,SQL Injection,Medium,In Progress,SQL injection attempt detected on API endpoint,admin,2024-09-18 12:42:00
+397,2024-09-13,Malware,Critical,Resolved,Malicious software found on workstation 817,charlie,2024-09-13 08:43:00
+398,2023-01-17,SQL Injection,Low,Resolved,SQL injection attempt detected on search form,system,2023-01-17 22:28:00
+399,2024-03-06,Malware,High,Open,Malicious software found on workstation 921,david,2024-03-06 11:54:00
+400,2023-06-20,DDoS,Medium,Resolved,Distributed denial of service attack on API gateway,charlie,2023-06-20 10:34:00
+401,2024-06-21,Ransomware,Medium,In Progress,Encryption malware detected - 299 files affected,emma,2024-06-21 00:59:00
+402,2023-02-07,DDoS,Medium,In Progress,Distributed denial of service attack on web server,admin,2023-02-07 16:46:00
+403,2024-01-28,Ransomware,Critical,In Progress,Encryption malware detected - 269 files affected,alice,2024-01-28 02:54:00
+404,2023-12-18,XSS Attack,Low,In Progress,Cross-site scripting vulnerability exploited in comment section,charlie,2023-12-18 23:19:00
+405,2024-08-04,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in user profile,alice,2024-08-04 22:32:00
+406,2024-11-21,SQL Injection,High,In Progress,SQL injection attempt detected on search form,system,2024-11-21 04:51:00
+407,2023-02-17,Social Engineering,High,In Progress,Employee reported suspicious text message requesting credentials,system,2023-02-17 10:54:00
+408,2024-03-24,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in search bar,admin,2024-03-24 12:09:00
+409,2024-07-10,Unauthorized Access,Critical,Closed,Failed login attempts from IP 73.65.83.244,charlie,2024-07-10 10:48:00
+410,2023-08-13,Malware,Critical,Open,Malicious software found on workstation 947,david,2023-08-13 03:04:00
+411,2024-07-18,Social Engineering,Medium,In Progress,Employee reported suspicious text message requesting credentials,system,2024-07-18 23:17:00
+412,2023-08-19,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 114.44.27.248,admin,2023-08-19 23:23:00
+413,2023-08-29,DDoS,High,Closed,Distributed denial of service attack on API gateway,emma,2023-08-29 09:55:00
+414,2023-07-12,Phishing,Critical,Resolved,Suspicious email detected targeting HR department,charlie,2023-07-12 01:40:00
+415,2024-03-29,Phishing,High,Closed,Suspicious email detected targeting finance department,alice,2024-03-29 15:43:00
+416,2024-08-17,Malware,Medium,In Progress,Malicious software found on workstation 942,bob,2024-08-17 07:15:00
+417,2024-02-29,DDoS,Critical,Open,Distributed denial of service attack on database,system,2024-02-29 18:04:00
+418,2024-03-10,Ransomware,High,Resolved,Encryption malware detected - 241 files affected,charlie,2024-03-10 13:18:00
+419,2024-05-29,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 17.178.8.63,charlie,2024-05-29 19:47:00
+420,2024-11-10,DDoS,Low,Open,Distributed denial of service attack on API gateway,admin,2024-11-10 10:16:00
+421,2024-09-01,Phishing,Low,In Progress,Suspicious email detected targeting finance department,alice,2024-09-01 06:13:00
+422,2023-08-08,SQL Injection,Critical,Resolved,SQL injection attempt detected on search form,system,2023-08-08 16:06:00
+423,2023-03-19,Brute Force,High,Resolved,Multiple password attempts detected - 322 attempts in 1 minutes,admin,2023-03-19 02:30:00
+424,2024-06-16,SQL Injection,High,In Progress,SQL injection attempt detected on login page,emma,2024-06-16 16:27:00
+425,2023-09-08,Malware,High,In Progress,Malicious software found on workstation 168,charlie,2023-09-08 20:48:00
+426,2023-10-13,Unauthorized Access,Low,In Progress,Failed login attempts from IP 105.119.154.14,admin,2023-10-13 21:51:00
+427,2024-03-14,Ransomware,Medium,Resolved,Encryption malware detected - 409 files affected,david,2024-03-14 19:55:00
+428,2024-01-19,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in comment section,emma,2024-01-19 18:06:00
+429,2023-10-21,Unauthorized Access,Low,Closed,Failed login attempts from IP 209.150.54.182,alice,2023-10-21 11:34:00
+430,2023-08-12,Ransomware,High,In Progress,Encryption malware detected - 125 files affected,system,2023-08-12 15:16:00
+431,2023-06-28,Data Breach,Medium,Closed,Unauthorized data access - 2077 records exposed,charlie,2023-06-28 20:20:00
+432,2023-05-26,Ransomware,Critical,In Progress,Encryption malware detected - 92 files affected,charlie,2023-05-26 01:12:00
+433,2023-12-02,SQL Injection,Critical,In Progress,SQL injection attempt detected on API endpoint,system,2023-12-02 10:55:00
+434,2023-08-31,Social Engineering,Low,In Progress,Employee reported suspicious email requesting credentials,emma,2023-08-31 07:11:00
+435,2023-12-11,Malware,Low,Closed,Malicious software found on workstation 175,emma,2023-12-11 23:10:00
+436,2024-09-17,Ransomware,Critical,Resolved,Encryption malware detected - 18 files affected,admin,2024-09-17 18:29:00
+437,2023-04-17,Ransomware,Medium,Resolved,Encryption malware detected - 366 files affected,bob,2023-04-17 00:17:00
+438,2023-05-30,Data Breach,Low,Open,Unauthorized data access - 6197 records exposed,system,2023-05-30 16:37:00
+439,2023-06-17,Social Engineering,Medium,Open,Employee reported suspicious phone call requesting credentials,charlie,2023-06-17 08:08:00
+440,2024-03-26,DDoS,Medium,In Progress,Distributed denial of service attack on database,charlie,2024-03-26 17:55:00
+441,2024-04-07,Social Engineering,Critical,Resolved,Employee reported suspicious phone call requesting credentials,david,2024-04-07 11:19:00
+442,2024-11-02,DDoS,Critical,Open,Distributed denial of service attack on web server,emma,2024-11-02 15:23:00
+443,2023-05-19,Phishing,Critical,Closed,Suspicious email detected targeting HR department,emma,2023-05-19 15:01:00
+444,2024-07-15,Ransomware,High,Closed,Encryption malware detected - 36 files affected,charlie,2024-07-15 06:35:00
+445,2023-06-15,XSS Attack,Critical,Open,Cross-site scripting vulnerability exploited in comment section,admin,2023-06-15 07:16:00
+446,2023-11-25,DDoS,Critical,Closed,Distributed denial of service attack on API gateway,bob,2023-11-25 07:26:00
+447,2023-04-27,Phishing,Medium,Closed,Suspicious email detected targeting HR department,bob,2023-04-27 19:19:00
+448,2024-09-03,XSS Attack,Low,In Progress,Cross-site scripting vulnerability exploited in comment section,david,2024-09-03 20:48:00
+449,2024-10-26,Social Engineering,Medium,Resolved,Employee reported suspicious phone call requesting credentials,alice,2024-10-26 13:46:00
+450,2023-07-23,Social Engineering,Medium,Open,Employee reported suspicious email requesting credentials,admin,2023-07-23 17:26:00
+451,2024-10-03,DDoS,High,Closed,Distributed denial of service attack on API gateway,admin,2024-10-03 04:10:00
+452,2023-10-18,Malware,Medium,In Progress,Malicious software found on workstation 402,system,2023-10-18 02:16:00
+453,2024-03-11,DDoS,Critical,In Progress,Distributed denial of service attack on database,system,2024-03-11 05:31:00
+454,2024-01-11,Data Breach,Medium,Resolved,Unauthorized data access - 833 records exposed,emma,2024-01-11 00:02:00
+455,2024-05-12,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in search bar,charlie,2024-05-12 17:22:00
+456,2023-10-14,DDoS,Critical,Closed,Distributed denial of service attack on database,charlie,2023-10-14 15:42:00
+457,2024-08-01,Unauthorized Access,High,Resolved,Failed login attempts from IP 79.111.9.132,system,2024-08-01 05:12:00
+458,2024-02-24,XSS Attack,Critical,Closed,Cross-site scripting vulnerability exploited in search bar,charlie,2024-02-24 05:32:00
+459,2024-09-16,DDoS,High,Closed,Distributed denial of service attack on API gateway,admin,2024-09-16 07:24:00
+460,2023-11-22,Phishing,High,Open,Suspicious email detected targeting HR department,bob,2023-11-22 02:33:00
+461,2023-02-23,Ransomware,Medium,In Progress,Encryption malware detected - 137 files affected,charlie,2023-02-23 21:17:00
+462,2024-08-18,Phishing,Critical,Closed,Suspicious email detected targeting HR department,alice,2024-08-18 22:26:00
+463,2024-09-28,Data Breach,Low,Open,Unauthorized data access - 7921 records exposed,alice,2024-09-28 13:28:00
+464,2023-03-19,Brute Force,High,In Progress,Multiple password attempts detected - 50 attempts in 18 minutes,alice,2023-03-19 17:08:00
+465,2024-09-30,Social Engineering,Low,Open,Employee reported suspicious text message requesting credentials,charlie,2024-09-30 16:58:00
+466,2023-11-20,Brute Force,High,Closed,Multiple password attempts detected - 311 attempts in 50 minutes,emma,2023-11-20 04:59:00
+467,2023-01-25,Malware,Critical,Closed,Malicious software found on workstation 903,david,2023-01-25 00:36:00
+468,2023-06-16,DDoS,Low,Closed,Distributed denial of service attack on API gateway,charlie,2023-06-16 03:41:00
+469,2024-12-01,Ransomware,Low,In Progress,Encryption malware detected - 53 files affected,emma,2024-12-01 07:40:00
+470,2024-09-01,Malware,Low,Open,Malicious software found on workstation 919,charlie,2024-09-01 15:24:00
+471,2023-03-28,XSS Attack,Low,Open,Cross-site scripting vulnerability exploited in comment section,david,2023-03-28 14:07:00
+472,2023-11-20,Unauthorized Access,Low,In Progress,Failed login attempts from IP 192.176.23.115,system,2023-11-20 09:41:00
+473,2023-11-18,Ransomware,High,Closed,Encryption malware detected - 105 files affected,system,2023-11-18 23:00:00
+474,2024-01-21,Social Engineering,Medium,In Progress,Employee reported suspicious email requesting credentials,emma,2024-01-21 18:19:00
+475,2024-05-09,SQL Injection,Medium,Resolved,SQL injection attempt detected on API endpoint,david,2024-05-09 10:52:00
+476,2023-11-08,Data Breach,High,Resolved,Unauthorized data access - 7239 records exposed,system,2023-11-08 12:26:00
+477,2024-02-21,SQL Injection,Low,Open,SQL injection attempt detected on search form,emma,2024-02-21 04:35:00
+478,2023-01-16,Brute Force,Low,In Progress,Multiple password attempts detected - 159 attempts in 12 minutes,charlie,2023-01-16 18:15:00
+479,2023-06-23,SQL Injection,Critical,Resolved,SQL injection attempt detected on login page,system,2023-06-23 13:47:00
+480,2024-08-27,Social Engineering,Medium,Open,Employee reported suspicious text message requesting credentials,alice,2024-08-27 08:40:00
+481,2023-03-17,DDoS,High,Open,Distributed denial of service attack on database,alice,2023-03-17 03:35:00
+482,2024-04-16,Brute Force,Critical,In Progress,Multiple password attempts detected - 352 attempts in 21 minutes,charlie,2024-04-16 07:48:00
+483,2024-11-07,Malware,Low,Open,Malicious software found on workstation 111,charlie,2024-11-07 13:13:00
+484,2024-11-12,SQL Injection,Low,Resolved,SQL injection attempt detected on login page,charlie,2024-11-12 23:38:00
+485,2024-02-15,Malware,Medium,Resolved,Malicious software found on workstation 267,charlie,2024-02-15 05:20:00
+486,2024-02-16,Brute Force,Critical,Resolved,Multiple password attempts detected - 337 attempts in 42 minutes,david,2024-02-16 20:00:00
+487,2024-01-28,Phishing,High,In Progress,Suspicious email detected targeting HR department,david,2024-01-28 18:06:00
+488,2023-12-19,SQL Injection,High,Resolved,SQL injection attempt detected on login page,bob,2023-12-19 15:12:00
+489,2024-03-20,SQL Injection,Critical,In Progress,SQL injection attempt detected on login page,system,2024-03-20 17:56:00
+490,2023-10-15,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in user profile,charlie,2023-10-15 15:49:00
+491,2023-11-18,Ransomware,Critical,Open,Encryption malware detected - 315 files affected,david,2023-11-18 17:06:00
+492,2024-06-24,Brute Force,Critical,Open,Multiple password attempts detected - 368 attempts in 34 minutes,emma,2024-06-24 14:54:00
+493,2023-01-23,SQL Injection,High,Open,SQL injection attempt detected on API endpoint,emma,2023-01-23 21:14:00
+494,2023-04-19,Phishing,Low,In Progress,Suspicious email detected targeting finance department,charlie,2023-04-19 21:27:00
+495,2023-06-02,Malware,High,In Progress,Malicious software found on workstation 874,alice,2023-06-02 01:25:00
+496,2024-07-26,Ransomware,Medium,Closed,Encryption malware detected - 211 files affected,admin,2024-07-26 13:36:00
+497,2023-12-17,Malware,High,Open,Malicious software found on workstation 316,bob,2023-12-17 03:39:00
+498,2023-01-28,Ransomware,High,In Progress,Encryption malware detected - 86 files affected,admin,2023-01-28 03:22:00
+499,2023-03-13,Data Breach,Low,Open,Unauthorized data access - 1995 records exposed,bob,2023-03-13 13:32:00
+500,2024-10-27,SQL Injection,Medium,Closed,SQL injection attempt detected on API endpoint,system,2024-10-27 01:53:00
+501,2023-10-28,DDoS,Medium,Closed,Distributed denial of service attack on database,emma,2023-10-28 00:32:00
+502,2023-02-20,Data Breach,Medium,Open,Unauthorized data access - 3755 records exposed,charlie,2023-02-20 22:02:00
+503,2024-11-29,Phishing,Critical,Open,Suspicious email detected targeting IT department,bob,2024-11-29 14:36:00
+504,2024-01-08,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in search bar,david,2024-01-08 18:50:00
+505,2024-03-13,XSS Attack,Critical,Resolved,Cross-site scripting vulnerability exploited in user profile,bob,2024-03-13 01:06:00
+506,2024-07-03,XSS Attack,Critical,Open,Cross-site scripting vulnerability exploited in user profile,alice,2024-07-03 12:03:00
+507,2023-11-08,Data Breach,High,In Progress,Unauthorized data access - 8405 records exposed,system,2023-11-08 14:10:00
+508,2023-11-20,Data Breach,Medium,Resolved,Unauthorized data access - 8121 records exposed,emma,2023-11-20 10:40:00
+509,2024-04-12,Social Engineering,High,Open,Employee reported suspicious email requesting credentials,david,2024-04-12 23:03:00
+510,2024-10-31,Social Engineering,Medium,Closed,Employee reported suspicious email requesting credentials,system,2024-10-31 09:28:00
+511,2023-02-24,Social Engineering,Low,In Progress,Employee reported suspicious text message requesting credentials,alice,2023-02-24 05:03:00
+512,2023-07-30,Malware,Medium,Open,Malicious software found on workstation 762,charlie,2023-07-30 10:00:00
+513,2024-04-24,Unauthorized Access,High,Open,Failed login attempts from IP 45.233.100.112,alice,2024-04-24 21:09:00
+514,2024-08-13,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 131.198.44.183,emma,2024-08-13 12:51:00
+515,2024-07-03,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 51.168.6.178,admin,2024-07-03 18:43:00
+516,2023-08-01,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 133.22.202.15,charlie,2023-08-01 03:03:00
+517,2024-11-25,Phishing,Medium,Closed,Suspicious email detected targeting IT department,alice,2024-11-25 23:22:00
+518,2023-01-21,Ransomware,High,Open,Encryption malware detected - 317 files affected,charlie,2023-01-21 07:09:00
+519,2023-05-20,Social Engineering,Medium,Open,Employee reported suspicious phone call requesting credentials,system,2023-05-20 12:06:00
+520,2024-01-05,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in comment section,system,2024-01-05 23:36:00
+521,2023-04-26,SQL Injection,High,Resolved,SQL injection attempt detected on API endpoint,alice,2023-04-26 05:56:00
+522,2024-03-20,SQL Injection,Low,In Progress,SQL injection attempt detected on search form,david,2024-03-20 17:10:00
+523,2024-04-18,SQL Injection,High,Open,SQL injection attempt detected on search form,david,2024-04-18 00:39:00
+524,2024-02-20,Phishing,Critical,Closed,Suspicious email detected targeting finance department,admin,2024-02-20 12:03:00
+525,2023-06-26,DDoS,High,Closed,Distributed denial of service attack on database,admin,2023-06-26 07:53:00
+526,2023-10-14,Data Breach,Low,Resolved,Unauthorized data access - 8019 records exposed,emma,2023-10-14 15:04:00
+527,2024-04-01,Phishing,High,In Progress,Suspicious email detected targeting finance department,alice,2024-04-01 20:34:00
+528,2023-11-17,SQL Injection,Low,Resolved,SQL injection attempt detected on login page,alice,2023-11-17 20:52:00
+529,2024-09-02,Social Engineering,Low,Closed,Employee reported suspicious email requesting credentials,admin,2024-09-02 12:36:00
+530,2024-01-05,Brute Force,Medium,In Progress,Multiple password attempts detected - 481 attempts in 10 minutes,alice,2024-01-05 18:42:00
+531,2024-05-14,Ransomware,High,Resolved,Encryption malware detected - 41 files affected,bob,2024-05-14 06:37:00
+532,2024-09-10,Social Engineering,High,Open,Employee reported suspicious text message requesting credentials,admin,2024-09-10 15:42:00
+533,2024-06-03,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 183.161.253.237,emma,2024-06-03 15:44:00
+534,2024-08-19,Phishing,Medium,Open,Suspicious email detected targeting HR department,alice,2024-08-19 00:49:00
+535,2023-07-08,Unauthorized Access,Low,Closed,Failed login attempts from IP 48.85.97.238,emma,2023-07-08 01:57:00
+536,2023-09-17,Data Breach,Low,In Progress,Unauthorized data access - 7635 records exposed,charlie,2023-09-17 22:29:00
+537,2024-07-30,DDoS,Medium,Resolved,Distributed denial of service attack on database,bob,2024-07-30 08:15:00
+538,2024-10-12,Malware,Low,Open,Malicious software found on workstation 986,bob,2024-10-12 08:48:00
+539,2024-04-09,Data Breach,Critical,In Progress,Unauthorized data access - 5164 records exposed,alice,2024-04-09 23:13:00
+540,2024-03-04,DDoS,Low,Closed,Distributed denial of service attack on API gateway,system,2024-03-04 23:16:00
+541,2023-10-02,Ransomware,Low,Resolved,Encryption malware detected - 96 files affected,admin,2023-10-02 14:03:00
+542,2023-01-13,Phishing,Critical,Resolved,Suspicious email detected targeting IT department,bob,2023-01-13 18:14:00
+543,2023-02-01,DDoS,High,In Progress,Distributed denial of service attack on API gateway,david,2023-02-01 14:04:00
+544,2023-12-21,Malware,Low,Resolved,Malicious software found on workstation 719,david,2023-12-21 10:56:00
+545,2024-11-28,Brute Force,Low,Open,Multiple password attempts detected - 135 attempts in 11 minutes,system,2024-11-28 16:42:00
+546,2024-03-31,Malware,Critical,In Progress,Malicious software found on workstation 554,emma,2024-03-31 14:32:00
+547,2023-03-18,Malware,Critical,Closed,Malicious software found on workstation 358,admin,2023-03-18 05:00:00
+548,2023-10-15,DDoS,Medium,Closed,Distributed denial of service attack on web server,emma,2023-10-15 11:10:00
+549,2023-11-17,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 106.74.218.251,charlie,2023-11-17 07:05:00
+550,2024-08-08,DDoS,High,In Progress,Distributed denial of service attack on API gateway,alice,2024-08-08 15:32:00
+551,2023-10-08,DDoS,High,Resolved,Distributed denial of service attack on database,admin,2023-10-08 13:46:00
+552,2023-03-13,DDoS,Critical,Open,Distributed denial of service attack on web server,charlie,2023-03-13 07:10:00
+553,2024-06-08,Malware,Low,In Progress,Malicious software found on workstation 756,bob,2024-06-08 15:10:00
+554,2023-08-27,Brute Force,Critical,Open,Multiple password attempts detected - 64 attempts in 50 minutes,alice,2023-08-27 09:39:00
+555,2023-10-26,SQL Injection,Critical,Resolved,SQL injection attempt detected on search form,system,2023-10-26 06:57:00
+556,2023-10-25,DDoS,Critical,Resolved,Distributed denial of service attack on database,admin,2023-10-25 10:59:00
+557,2023-01-13,DDoS,High,Closed,Distributed denial of service attack on database,charlie,2023-01-13 12:02:00
+558,2024-02-02,Phishing,High,Closed,Suspicious email detected targeting HR department,admin,2024-02-02 00:04:00
+559,2023-10-04,Social Engineering,Medium,Open,Employee reported suspicious email requesting credentials,system,2023-10-04 11:18:00
+560,2024-01-21,Unauthorized Access,Critical,Open,Failed login attempts from IP 72.28.64.186,alice,2024-01-21 03:45:00
+561,2024-11-10,Social Engineering,Critical,Closed,Employee reported suspicious phone call requesting credentials,bob,2024-11-10 17:16:00
+562,2023-11-06,Ransomware,Low,Open,Encryption malware detected - 264 files affected,david,2023-11-06 11:50:00
+563,2024-10-08,Ransomware,High,Open,Encryption malware detected - 255 files affected,charlie,2024-10-08 07:27:00
+564,2024-11-09,Social Engineering,Critical,Resolved,Employee reported suspicious phone call requesting credentials,charlie,2024-11-09 01:40:00
+565,2023-05-09,Social Engineering,High,Resolved,Employee reported suspicious text message requesting credentials,system,2023-05-09 07:03:00
+566,2023-12-07,Malware,Low,Closed,Malicious software found on workstation 332,david,2023-12-07 19:53:00
+567,2024-01-12,DDoS,Medium,Closed,Distributed denial of service attack on web server,david,2024-01-12 16:09:00
+568,2023-10-15,Malware,Critical,Open,Malicious software found on workstation 608,system,2023-10-15 17:09:00
+569,2024-09-27,Unauthorized Access,Medium,Open,Failed login attempts from IP 234.226.115.45,emma,2024-09-27 02:06:00
+570,2023-07-31,Brute Force,Medium,Resolved,Multiple password attempts detected - 393 attempts in 8 minutes,emma,2023-07-31 09:22:00
+571,2024-10-26,Phishing,Medium,Open,Suspicious email detected targeting HR department,emma,2024-10-26 20:16:00
+572,2024-04-01,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in search bar,bob,2024-04-01 08:34:00
+573,2024-07-31,XSS Attack,Medium,Open,Cross-site scripting vulnerability exploited in search bar,emma,2024-07-31 10:37:00
+574,2023-02-04,DDoS,Critical,In Progress,Distributed denial of service attack on database,charlie,2023-02-04 09:06:00
+575,2023-10-24,XSS Attack,Critical,In Progress,Cross-site scripting vulnerability exploited in search bar,bob,2023-10-24 02:29:00
+576,2023-10-29,Phishing,Medium,Open,Suspicious email detected targeting finance department,bob,2023-10-29 22:31:00
+577,2023-05-21,Phishing,Low,Resolved,Suspicious email detected targeting HR department,system,2023-05-21 01:18:00
+578,2023-03-19,Malware,Critical,Resolved,Malicious software found on workstation 279,emma,2023-03-19 18:06:00
+579,2023-05-07,DDoS,High,Resolved,Distributed denial of service attack on API gateway,emma,2023-05-07 11:07:00
+580,2023-12-03,Data Breach,Critical,Resolved,Unauthorized data access - 2879 records exposed,david,2023-12-03 03:42:00
+581,2023-11-05,DDoS,Low,In Progress,Distributed denial of service attack on database,emma,2023-11-05 19:07:00
+582,2023-10-30,Brute Force,Critical,Resolved,Multiple password attempts detected - 312 attempts in 27 minutes,bob,2023-10-30 16:27:00
+583,2024-07-02,SQL Injection,High,In Progress,SQL injection attempt detected on search form,alice,2024-07-02 01:48:00
+584,2023-12-14,DDoS,High,Resolved,Distributed denial of service attack on web server,charlie,2023-12-14 19:13:00
+585,2023-07-04,Brute Force,High,Resolved,Multiple password attempts detected - 245 attempts in 24 minutes,alice,2023-07-04 02:58:00
+586,2024-02-21,Ransomware,Low,In Progress,Encryption malware detected - 451 files affected,emma,2024-02-21 02:24:00
+587,2023-03-31,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in comment section,alice,2023-03-31 04:29:00
+588,2024-11-19,Social Engineering,Critical,Closed,Employee reported suspicious phone call requesting credentials,admin,2024-11-19 03:25:00
+589,2023-04-14,Social Engineering,Low,Resolved,Employee reported suspicious email requesting credentials,system,2023-04-14 16:04:00
+590,2024-07-09,Data Breach,Low,Closed,Unauthorized data access - 1656 records exposed,charlie,2024-07-09 13:53:00
+591,2023-12-02,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 3.105.98.250,emma,2023-12-02 09:32:00
+592,2023-05-26,Malware,Critical,Closed,Malicious software found on workstation 525,charlie,2023-05-26 12:36:00
+593,2024-04-18,Ransomware,Medium,Closed,Encryption malware detected - 300 files affected,charlie,2024-04-18 15:08:00
+594,2023-10-22,DDoS,Low,Resolved,Distributed denial of service attack on database,emma,2023-10-22 22:55:00
+595,2024-07-08,Malware,Low,In Progress,Malicious software found on workstation 653,system,2024-07-08 11:02:00
+596,2023-11-25,Brute Force,Low,In Progress,Multiple password attempts detected - 362 attempts in 25 minutes,alice,2023-11-25 02:13:00
+597,2023-02-27,SQL Injection,Critical,Resolved,SQL injection attempt detected on search form,david,2023-02-27 00:00:00
+598,2023-04-12,SQL Injection,High,Closed,SQL injection attempt detected on search form,admin,2023-04-12 13:12:00
+599,2024-07-31,Brute Force,Medium,Closed,Multiple password attempts detected - 101 attempts in 57 minutes,bob,2024-07-31 16:16:00
+600,2023-10-11,Malware,Low,In Progress,Malicious software found on workstation 790,charlie,2023-10-11 11:37:00
+601,2024-09-14,Data Breach,Low,Open,Unauthorized data access - 1630 records exposed,david,2024-09-14 22:11:00
+602,2024-02-17,Malware,Low,Open,Malicious software found on workstation 350,admin,2024-02-17 15:28:00
+603,2024-01-14,Malware,Critical,Closed,Malicious software found on workstation 339,alice,2024-01-14 21:15:00
+604,2024-11-20,Data Breach,High,Closed,Unauthorized data access - 7532 records exposed,bob,2024-11-20 17:31:00
+605,2023-01-14,Data Breach,Medium,Closed,Unauthorized data access - 8065 records exposed,charlie,2023-01-14 09:38:00
+606,2023-05-24,Brute Force,Critical,Resolved,Multiple password attempts detected - 225 attempts in 32 minutes,bob,2023-05-24 06:51:00
+607,2023-05-25,Brute Force,Critical,Closed,Multiple password attempts detected - 412 attempts in 15 minutes,bob,2023-05-25 00:35:00
+608,2023-04-09,Brute Force,Medium,Closed,Multiple password attempts detected - 498 attempts in 15 minutes,system,2023-04-09 08:23:00
+609,2023-02-01,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in comment section,david,2023-02-01 18:33:00
+610,2023-06-11,Phishing,Critical,Resolved,Suspicious email detected targeting HR department,david,2023-06-11 04:33:00
+611,2023-04-30,Ransomware,Low,Open,Encryption malware detected - 116 files affected,david,2023-04-30 00:16:00
+612,2023-05-17,Brute Force,Medium,Resolved,Multiple password attempts detected - 378 attempts in 53 minutes,admin,2023-05-17 01:12:00
+613,2024-01-01,Social Engineering,Critical,Open,Employee reported suspicious email requesting credentials,alice,2024-01-01 08:46:00
+614,2024-02-10,Malware,High,Open,Malicious software found on workstation 525,emma,2024-02-10 21:15:00
+615,2024-10-04,XSS Attack,Low,Open,Cross-site scripting vulnerability exploited in user profile,david,2024-10-04 03:20:00
+616,2024-10-03,Social Engineering,High,In Progress,Employee reported suspicious text message requesting credentials,bob,2024-10-03 04:51:00
+617,2023-04-14,Data Breach,High,Closed,Unauthorized data access - 8400 records exposed,emma,2023-04-14 18:12:00
+618,2024-09-21,Brute Force,Medium,Closed,Multiple password attempts detected - 453 attempts in 51 minutes,charlie,2024-09-21 00:46:00
+619,2024-05-02,SQL Injection,Low,Closed,SQL injection attempt detected on login page,system,2024-05-02 09:00:00
+620,2023-03-29,XSS Attack,Medium,Resolved,Cross-site scripting vulnerability exploited in comment section,system,2023-03-29 21:02:00
+621,2024-07-06,Ransomware,High,In Progress,Encryption malware detected - 319 files affected,admin,2024-07-06 17:13:00
+622,2023-02-13,Data Breach,Low,Closed,Unauthorized data access - 3527 records exposed,david,2023-02-13 03:47:00
+623,2023-07-15,Social Engineering,Medium,Closed,Employee reported suspicious text message requesting credentials,bob,2023-07-15 08:07:00
+624,2023-01-18,Ransomware,Low,Resolved,Encryption malware detected - 49 files affected,system,2023-01-18 12:31:00
+625,2024-04-15,Data Breach,Low,Open,Unauthorized data access - 5538 records exposed,admin,2024-04-15 00:59:00
+626,2024-05-25,XSS Attack,Critical,Open,Cross-site scripting vulnerability exploited in search bar,system,2024-05-25 02:58:00
+627,2023-09-20,Ransomware,High,Open,Encryption malware detected - 344 files affected,admin,2023-09-20 22:28:00
+628,2024-01-12,Brute Force,Medium,In Progress,Multiple password attempts detected - 99 attempts in 36 minutes,charlie,2024-01-12 06:02:00
+629,2024-06-19,XSS Attack,Critical,Open,Cross-site scripting vulnerability exploited in user profile,admin,2024-06-19 11:26:00
+630,2023-03-12,Ransomware,Low,Open,Encryption malware detected - 233 files affected,bob,2023-03-12 15:54:00
+631,2024-06-23,SQL Injection,Low,Open,SQL injection attempt detected on login page,emma,2024-06-23 18:52:00
+632,2024-07-05,Unauthorized Access,High,Closed,Failed login attempts from IP 86.59.47.126,emma,2024-07-05 23:54:00
+633,2024-05-28,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in comment section,system,2024-05-28 00:44:00
+634,2023-09-12,Ransomware,Low,Closed,Encryption malware detected - 242 files affected,emma,2023-09-12 10:25:00
+635,2023-09-02,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 210.14.101.164,alice,2023-09-02 08:15:00
+636,2024-05-20,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 84.64.160.149,bob,2024-05-20 21:53:00
+637,2023-04-11,DDoS,Critical,Open,Distributed denial of service attack on database,alice,2023-04-11 08:39:00
+638,2024-11-16,Ransomware,Critical,In Progress,Encryption malware detected - 305 files affected,charlie,2024-11-16 14:34:00
+639,2024-03-20,SQL Injection,Medium,Resolved,SQL injection attempt detected on login page,charlie,2024-03-20 22:43:00
+640,2023-11-14,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in search bar,emma,2023-11-14 05:14:00
+641,2023-08-24,Social Engineering,Critical,Open,Employee reported suspicious email requesting credentials,emma,2023-08-24 12:10:00
+642,2024-07-15,SQL Injection,Medium,Closed,SQL injection attempt detected on API endpoint,charlie,2024-07-15 14:35:00
+643,2023-12-20,Data Breach,High,Closed,Unauthorized data access - 2256 records exposed,system,2023-12-20 03:46:00
+644,2024-08-12,Data Breach,Low,In Progress,Unauthorized data access - 3913 records exposed,bob,2024-08-12 12:18:00
+645,2024-03-11,Malware,High,Resolved,Malicious software found on workstation 346,alice,2024-03-11 00:32:00
+646,2023-07-18,Data Breach,High,In Progress,Unauthorized data access - 2810 records exposed,charlie,2023-07-18 07:24:00
+647,2024-06-09,Phishing,High,Closed,Suspicious email detected targeting finance department,david,2024-06-09 15:28:00
+648,2024-04-03,DDoS,Critical,Resolved,Distributed denial of service attack on web server,david,2024-04-03 07:04:00
+649,2024-04-21,XSS Attack,Critical,In Progress,Cross-site scripting vulnerability exploited in search bar,admin,2024-04-21 22:25:00
+650,2023-01-11,Brute Force,Medium,Open,Multiple password attempts detected - 208 attempts in 51 minutes,david,2023-01-11 00:04:00
+651,2023-09-25,Brute Force,High,Open,Multiple password attempts detected - 200 attempts in 24 minutes,admin,2023-09-25 14:09:00
+652,2023-11-17,Phishing,Medium,Resolved,Suspicious email detected targeting finance department,alice,2023-11-17 19:23:00
+653,2024-09-16,Phishing,Critical,Closed,Suspicious email detected targeting finance department,alice,2024-09-16 07:25:00
+654,2023-09-07,Data Breach,High,Resolved,Unauthorized data access - 1628 records exposed,bob,2023-09-07 00:19:00
+655,2023-05-17,Phishing,Low,Resolved,Suspicious email detected targeting HR department,alice,2023-05-17 17:41:00
+656,2023-10-24,Unauthorized Access,Critical,Closed,Failed login attempts from IP 58.134.36.77,david,2023-10-24 03:02:00
+657,2024-11-11,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in user profile,bob,2024-11-11 18:08:00
+658,2023-05-07,Data Breach,High,In Progress,Unauthorized data access - 7096 records exposed,bob,2023-05-07 10:05:00
+659,2024-04-08,Phishing,Medium,Resolved,Suspicious email detected targeting HR department,admin,2024-04-08 03:38:00
+660,2024-05-03,Ransomware,Critical,Closed,Encryption malware detected - 142 files affected,admin,2024-05-03 12:27:00
+661,2023-10-02,Social Engineering,Critical,Resolved,Employee reported suspicious phone call requesting credentials,charlie,2023-10-02 21:05:00
+662,2023-06-23,SQL Injection,Low,Resolved,SQL injection attempt detected on search form,charlie,2023-06-23 05:15:00
+663,2024-01-27,DDoS,Low,Resolved,Distributed denial of service attack on database,admin,2024-01-27 09:37:00
+664,2024-03-12,Ransomware,Low,Closed,Encryption malware detected - 190 files affected,charlie,2024-03-12 06:21:00
+665,2023-07-23,Social Engineering,Low,Closed,Employee reported suspicious text message requesting credentials,system,2023-07-23 10:15:00
+666,2024-02-08,SQL Injection,Critical,In Progress,SQL injection attempt detected on search form,admin,2024-02-08 23:25:00
+667,2024-04-15,Phishing,Critical,Open,Suspicious email detected targeting HR department,admin,2024-04-15 04:13:00
+668,2024-06-17,Malware,Low,Open,Malicious software found on workstation 382,bob,2024-06-17 04:35:00
+669,2023-10-14,Malware,Critical,Open,Malicious software found on workstation 953,alice,2023-10-14 11:12:00
+670,2023-10-20,Data Breach,Critical,Closed,Unauthorized data access - 3145 records exposed,alice,2023-10-20 04:42:00
+671,2023-03-22,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in comment section,charlie,2023-03-22 00:22:00
+672,2023-03-05,SQL Injection,Medium,Resolved,SQL injection attempt detected on API endpoint,alice,2023-03-05 13:06:00
+673,2023-06-03,SQL Injection,Medium,Resolved,SQL injection attempt detected on API endpoint,charlie,2023-06-03 12:33:00
+674,2023-01-06,Social Engineering,Medium,Closed,Employee reported suspicious text message requesting credentials,emma,2023-01-06 17:56:00
+675,2023-04-30,Ransomware,Medium,Closed,Encryption malware detected - 148 files affected,david,2023-04-30 09:11:00
+676,2024-09-09,Ransomware,High,Open,Encryption malware detected - 367 files affected,system,2024-09-09 01:16:00
+677,2023-09-11,Malware,High,Resolved,Malicious software found on workstation 602,charlie,2023-09-11 17:11:00
+678,2024-02-06,DDoS,Low,Resolved,Distributed denial of service attack on API gateway,system,2024-02-06 11:14:00
+679,2023-05-29,SQL Injection,Low,In Progress,SQL injection attempt detected on login page,charlie,2023-05-29 12:00:00
+680,2023-09-29,Unauthorized Access,Low,In Progress,Failed login attempts from IP 163.176.83.183,alice,2023-09-29 23:06:00
+681,2023-12-17,DDoS,Critical,Open,Distributed denial of service attack on web server,david,2023-12-17 05:54:00
+682,2024-04-07,Phishing,Medium,Closed,Suspicious email detected targeting HR department,david,2024-04-07 23:49:00
+683,2023-07-03,Brute Force,Medium,Resolved,Multiple password attempts detected - 383 attempts in 6 minutes,charlie,2023-07-03 21:08:00
+684,2023-04-09,Unauthorized Access,Critical,Open,Failed login attempts from IP 31.54.231.37,system,2023-04-09 07:39:00
+685,2024-05-30,Malware,Low,Closed,Malicious software found on workstation 820,emma,2024-05-30 13:16:00
+686,2024-07-20,Data Breach,Critical,Open,Unauthorized data access - 625 records exposed,admin,2024-07-20 09:05:00
+687,2023-04-25,DDoS,High,Open,Distributed denial of service attack on database,admin,2023-04-25 23:51:00
+688,2023-01-25,SQL Injection,Critical,In Progress,SQL injection attempt detected on login page,charlie,2023-01-25 21:43:00
+689,2024-09-03,Ransomware,Medium,Resolved,Encryption malware detected - 290 files affected,david,2024-09-03 15:14:00
+690,2024-07-15,Brute Force,Medium,Closed,Multiple password attempts detected - 446 attempts in 60 minutes,system,2024-07-15 21:44:00
+691,2023-02-02,Brute Force,Critical,Closed,Multiple password attempts detected - 81 attempts in 3 minutes,emma,2023-02-02 23:34:00
+692,2024-05-20,Malware,High,Closed,Malicious software found on workstation 176,david,2024-05-20 20:05:00
+693,2024-09-24,Ransomware,Low,In Progress,Encryption malware detected - 384 files affected,emma,2024-09-24 08:27:00
+694,2024-10-31,Unauthorized Access,Low,Closed,Failed login attempts from IP 232.10.189.89,admin,2024-10-31 02:31:00
+695,2024-04-27,Ransomware,Low,Closed,Encryption malware detected - 411 files affected,admin,2024-04-27 12:16:00
+696,2023-12-28,Social Engineering,Critical,Closed,Employee reported suspicious email requesting credentials,bob,2023-12-28 23:34:00
+697,2023-04-16,Brute Force,Low,In Progress,Multiple password attempts detected - 159 attempts in 57 minutes,admin,2023-04-16 20:55:00
+698,2023-05-11,Malware,High,Closed,Malicious software found on workstation 408,alice,2023-05-11 04:59:00
+699,2024-09-18,Ransomware,Critical,Closed,Encryption malware detected - 367 files affected,emma,2024-09-18 06:26:00
+700,2024-01-03,Data Breach,Low,Closed,Unauthorized data access - 9550 records exposed,admin,2024-01-03 20:51:00
+701,2023-12-19,Phishing,Critical,Closed,Suspicious email detected targeting HR department,system,2023-12-19 22:49:00
+702,2024-01-30,Data Breach,Low,Resolved,Unauthorized data access - 9823 records exposed,bob,2024-01-30 05:02:00
+703,2023-11-07,Data Breach,Low,Closed,Unauthorized data access - 6205 records exposed,emma,2023-11-07 17:33:00
+704,2024-03-06,Unauthorized Access,Critical,Closed,Failed login attempts from IP 18.94.222.99,charlie,2024-03-06 01:29:00
+705,2023-10-26,Ransomware,Medium,In Progress,Encryption malware detected - 176 files affected,david,2023-10-26 01:27:00
+706,2023-08-31,XSS Attack,Critical,In Progress,Cross-site scripting vulnerability exploited in search bar,emma,2023-08-31 13:22:00
+707,2023-06-27,SQL Injection,Critical,In Progress,SQL injection attempt detected on API endpoint,admin,2023-06-27 16:24:00
+708,2023-04-18,Social Engineering,Medium,In Progress,Employee reported suspicious email requesting credentials,bob,2023-04-18 09:26:00
+709,2023-05-31,Social Engineering,Medium,In Progress,Employee reported suspicious email requesting credentials,bob,2023-05-31 23:24:00
+710,2024-03-20,Brute Force,Low,Resolved,Multiple password attempts detected - 387 attempts in 24 minutes,alice,2024-03-20 06:12:00
+711,2024-08-17,XSS Attack,Critical,Closed,Cross-site scripting vulnerability exploited in comment section,bob,2024-08-17 03:18:00
+712,2024-04-12,Phishing,Critical,Closed,Suspicious email detected targeting IT department,alice,2024-04-12 13:47:00
+713,2023-04-03,Malware,High,Resolved,Malicious software found on workstation 330,charlie,2023-04-03 11:46:00
+714,2023-01-27,DDoS,Medium,Resolved,Distributed denial of service attack on database,charlie,2023-01-27 07:26:00
+715,2023-03-19,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 97.209.81.205,charlie,2023-03-19 17:37:00
+716,2023-01-12,Ransomware,Critical,Resolved,Encryption malware detected - 312 files affected,alice,2023-01-12 02:21:00
+717,2024-10-06,SQL Injection,Medium,In Progress,SQL injection attempt detected on search form,david,2024-10-06 04:54:00
+718,2024-06-29,XSS Attack,Critical,Resolved,Cross-site scripting vulnerability exploited in user profile,alice,2024-06-29 16:46:00
+719,2024-06-11,DDoS,Low,Resolved,Distributed denial of service attack on API gateway,system,2024-06-11 09:30:00
+720,2023-01-12,SQL Injection,Critical,Open,SQL injection attempt detected on search form,system,2023-01-12 11:55:00
+721,2023-10-11,Data Breach,Critical,Open,Unauthorized data access - 5304 records exposed,system,2023-10-11 05:11:00
+722,2024-11-30,XSS Attack,Medium,Closed,Cross-site scripting vulnerability exploited in comment section,charlie,2024-11-30 10:07:00
+723,2024-05-31,Data Breach,High,Open,Unauthorized data access - 8012 records exposed,bob,2024-05-31 03:58:00
+724,2024-03-06,XSS Attack,Medium,Open,Cross-site scripting vulnerability exploited in comment section,alice,2024-03-06 22:07:00
+725,2023-11-26,XSS Attack,Medium,Open,Cross-site scripting vulnerability exploited in comment section,system,2023-11-26 05:44:00
+726,2024-07-03,Phishing,Medium,Open,Suspicious email detected targeting finance department,bob,2024-07-03 15:35:00
+727,2024-10-23,DDoS,High,Closed,Distributed denial of service attack on web server,bob,2024-10-23 13:11:00
+728,2024-03-16,SQL Injection,Low,Resolved,SQL injection attempt detected on API endpoint,charlie,2024-03-16 10:21:00
+729,2023-01-24,Phishing,High,Open,Suspicious email detected targeting IT department,alice,2023-01-24 16:13:00
+730,2024-10-22,Social Engineering,High,Closed,Employee reported suspicious text message requesting credentials,bob,2024-10-22 12:04:00
+731,2023-04-19,Data Breach,Low,In Progress,Unauthorized data access - 4067 records exposed,bob,2023-04-19 06:15:00
+732,2024-09-30,Brute Force,Medium,In Progress,Multiple password attempts detected - 362 attempts in 29 minutes,emma,2024-09-30 10:31:00
+733,2023-10-25,Malware,Critical,Resolved,Malicious software found on workstation 471,emma,2023-10-25 06:29:00
+734,2024-01-27,Ransomware,High,Closed,Encryption malware detected - 425 files affected,emma,2024-01-27 08:48:00
+735,2024-01-02,Unauthorized Access,Low,Open,Failed login attempts from IP 214.167.239.83,emma,2024-01-02 02:58:00
+736,2023-08-17,Phishing,Critical,In Progress,Suspicious email detected targeting HR department,bob,2023-08-17 07:47:00
+737,2023-04-17,Social Engineering,Medium,Open,Employee reported suspicious phone call requesting credentials,alice,2023-04-17 04:56:00
+738,2023-06-03,SQL Injection,Critical,In Progress,SQL injection attempt detected on search form,bob,2023-06-03 21:43:00
+739,2023-07-05,DDoS,Critical,Open,Distributed denial of service attack on web server,admin,2023-07-05 18:22:00
+740,2024-10-11,DDoS,High,Resolved,Distributed denial of service attack on database,emma,2024-10-11 08:09:00
+741,2024-06-15,Data Breach,Medium,In Progress,Unauthorized data access - 6935 records exposed,charlie,2024-06-15 13:55:00
+742,2024-03-17,Data Breach,Low,Resolved,Unauthorized data access - 5377 records exposed,admin,2024-03-17 06:55:00
+743,2024-03-11,SQL Injection,Low,In Progress,SQL injection attempt detected on API endpoint,system,2024-03-11 15:35:00
+744,2024-05-28,Brute Force,Critical,In Progress,Multiple password attempts detected - 346 attempts in 10 minutes,emma,2024-05-28 15:38:00
+745,2023-05-01,Social Engineering,Critical,Open,Employee reported suspicious text message requesting credentials,emma,2023-05-01 05:57:00
+746,2023-07-01,Ransomware,Low,Open,Encryption malware detected - 219 files affected,system,2023-07-01 06:53:00
+747,2023-11-05,Data Breach,Low,In Progress,Unauthorized data access - 592 records exposed,bob,2023-11-05 00:16:00
+748,2023-10-25,SQL Injection,Critical,In Progress,SQL injection attempt detected on API endpoint,david,2023-10-25 23:07:00
+749,2023-10-18,Malware,High,Closed,Malicious software found on workstation 753,alice,2023-10-18 16:25:00
+750,2023-04-04,DDoS,Medium,Open,Distributed denial of service attack on API gateway,david,2023-04-04 08:16:00
+751,2023-06-09,Unauthorized Access,High,Resolved,Failed login attempts from IP 38.110.103.175,emma,2023-06-09 15:28:00
+752,2024-06-14,Malware,Low,Closed,Malicious software found on workstation 856,david,2024-06-14 23:57:00
+753,2024-10-12,Social Engineering,Medium,Open,Employee reported suspicious phone call requesting credentials,emma,2024-10-12 16:48:00
+754,2024-04-18,SQL Injection,Low,Closed,SQL injection attempt detected on login page,alice,2024-04-18 10:09:00
+755,2024-06-29,Social Engineering,Low,Closed,Employee reported suspicious email requesting credentials,admin,2024-06-29 04:30:00
+756,2023-02-19,Phishing,Medium,Open,Suspicious email detected targeting HR department,admin,2023-02-19 12:23:00
+757,2024-01-04,Malware,Medium,Resolved,Malicious software found on workstation 862,david,2024-01-04 06:19:00
+758,2023-04-10,SQL Injection,Low,Resolved,SQL injection attempt detected on API endpoint,david,2023-04-10 17:49:00
+759,2024-11-12,DDoS,Critical,Open,Distributed denial of service attack on API gateway,emma,2024-11-12 07:15:00
+760,2023-12-28,DDoS,Critical,Open,Distributed denial of service attack on web server,admin,2023-12-28 03:58:00
+761,2023-10-20,Malware,Low,Closed,Malicious software found on workstation 991,charlie,2023-10-20 12:55:00
+762,2024-01-29,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 87.4.246.78,emma,2024-01-29 02:17:00
+763,2023-03-02,Social Engineering,Low,Closed,Employee reported suspicious email requesting credentials,emma,2023-03-02 08:13:00
+764,2023-08-28,Ransomware,Low,In Progress,Encryption malware detected - 96 files affected,system,2023-08-28 00:57:00
+765,2024-11-08,Data Breach,Low,In Progress,Unauthorized data access - 9515 records exposed,admin,2024-11-08 03:12:00
+766,2023-06-03,SQL Injection,Critical,Open,SQL injection attempt detected on API endpoint,charlie,2023-06-03 11:28:00
+767,2023-11-10,DDoS,Low,Resolved,Distributed denial of service attack on web server,emma,2023-11-10 20:16:00
+768,2023-11-26,Unauthorized Access,Low,Open,Failed login attempts from IP 161.180.49.87,bob,2023-11-26 20:22:00
+769,2023-04-27,Unauthorized Access,Low,Closed,Failed login attempts from IP 207.144.195.43,alice,2023-04-27 02:06:00
+770,2023-05-31,Unauthorized Access,Critical,Open,Failed login attempts from IP 75.169.185.111,charlie,2023-05-31 17:42:00
+771,2023-02-09,Social Engineering,Critical,Closed,Employee reported suspicious email requesting credentials,admin,2023-02-09 01:17:00
+772,2023-03-07,DDoS,Low,Resolved,Distributed denial of service attack on API gateway,david,2023-03-07 00:08:00
+773,2023-02-24,Data Breach,Low,Resolved,Unauthorized data access - 9313 records exposed,admin,2023-02-24 01:22:00
+774,2024-03-20,Ransomware,Critical,Closed,Encryption malware detected - 101 files affected,alice,2024-03-20 18:21:00
+775,2024-04-11,Social Engineering,Medium,Closed,Employee reported suspicious phone call requesting credentials,bob,2024-04-11 06:01:00
+776,2023-10-16,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in user profile,system,2023-10-16 18:04:00
+777,2023-01-20,Brute Force,Low,Closed,Multiple password attempts detected - 376 attempts in 26 minutes,emma,2023-01-20 18:03:00
+778,2023-06-02,Data Breach,Low,Closed,Unauthorized data access - 2250 records exposed,david,2023-06-02 01:55:00
+779,2024-02-23,Brute Force,High,In Progress,Multiple password attempts detected - 241 attempts in 13 minutes,alice,2024-02-23 18:56:00
+780,2023-10-06,SQL Injection,Critical,Resolved,SQL injection attempt detected on API endpoint,david,2023-10-06 20:13:00
+781,2023-11-21,Social Engineering,Medium,Resolved,Employee reported suspicious phone call requesting credentials,david,2023-11-21 13:33:00
+782,2023-03-23,SQL Injection,Critical,In Progress,SQL injection attempt detected on login page,bob,2023-03-23 00:45:00
+783,2023-11-19,Social Engineering,Medium,In Progress,Employee reported suspicious email requesting credentials,system,2023-11-19 12:26:00
+784,2023-04-19,SQL Injection,High,Open,SQL injection attempt detected on login page,charlie,2023-04-19 13:54:00
+785,2023-03-19,Phishing,Medium,Closed,Suspicious email detected targeting IT department,charlie,2023-03-19 04:37:00
+786,2024-11-08,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in user profile,david,2024-11-08 14:43:00
+787,2023-11-30,XSS Attack,Medium,Open,Cross-site scripting vulnerability exploited in user profile,charlie,2023-11-30 07:58:00
+788,2023-08-28,DDoS,Critical,Closed,Distributed denial of service attack on web server,system,2023-08-28 16:05:00
+789,2023-11-15,Ransomware,Critical,In Progress,Encryption malware detected - 143 files affected,david,2023-11-15 19:30:00
+790,2024-03-21,XSS Attack,Critical,Closed,Cross-site scripting vulnerability exploited in search bar,emma,2024-03-21 08:57:00
+791,2023-04-15,Malware,Low,Open,Malicious software found on workstation 722,charlie,2023-04-15 05:43:00
+792,2023-01-10,Ransomware,High,Open,Encryption malware detected - 327 files affected,charlie,2023-01-10 20:31:00
+793,2023-12-02,Malware,Medium,Open,Malicious software found on workstation 942,charlie,2023-12-02 00:15:00
+794,2023-06-05,Phishing,Critical,In Progress,Suspicious email detected targeting IT department,alice,2023-06-05 13:52:00
+795,2024-01-10,DDoS,Low,Closed,Distributed denial of service attack on web server,alice,2024-01-10 19:23:00
+796,2023-01-31,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 237.32.239.44,system,2023-01-31 20:15:00
+797,2024-07-26,Malware,Critical,Open,Malicious software found on workstation 326,emma,2024-07-26 18:26:00
+798,2024-05-17,Social Engineering,Medium,Resolved,Employee reported suspicious text message requesting credentials,system,2024-05-17 10:36:00
+799,2024-06-02,Social Engineering,Low,Closed,Employee reported suspicious phone call requesting credentials,admin,2024-06-02 19:56:00
+800,2023-02-13,Unauthorized Access,Critical,Open,Failed login attempts from IP 87.43.149.133,admin,2023-02-13 17:48:00
+801,2024-03-14,Malware,Critical,Open,Malicious software found on workstation 553,emma,2024-03-14 20:16:00
+802,2024-02-13,Phishing,High,Resolved,Suspicious email detected targeting IT department,system,2024-02-13 01:22:00
+803,2023-03-20,Brute Force,Critical,Closed,Multiple password attempts detected - 441 attempts in 19 minutes,david,2023-03-20 20:25:00
+804,2024-05-27,Data Breach,High,In Progress,Unauthorized data access - 9440 records exposed,system,2024-05-27 05:55:00
+805,2024-05-20,Phishing,Critical,Open,Suspicious email detected targeting IT department,emma,2024-05-20 09:57:00
+806,2024-03-23,Malware,Critical,Open,Malicious software found on workstation 443,david,2024-03-23 17:41:00
+807,2024-01-04,Social Engineering,Low,Closed,Employee reported suspicious phone call requesting credentials,charlie,2024-01-04 07:18:00
+808,2023-07-09,Ransomware,Medium,Resolved,Encryption malware detected - 219 files affected,charlie,2023-07-09 01:20:00
+809,2023-01-01,Malware,High,Resolved,Malicious software found on workstation 633,system,2023-01-01 22:27:00
+810,2024-04-22,Ransomware,High,In Progress,Encryption malware detected - 286 files affected,charlie,2024-04-22 03:17:00
+811,2024-11-23,Phishing,Critical,In Progress,Suspicious email detected targeting IT department,admin,2024-11-23 06:55:00
+812,2023-12-21,Unauthorized Access,High,Resolved,Failed login attempts from IP 80.226.78.66,admin,2023-12-21 03:05:00
+813,2024-10-12,DDoS,High,Resolved,Distributed denial of service attack on database,alice,2024-10-12 21:23:00
+814,2024-01-18,Brute Force,Low,Closed,Multiple password attempts detected - 236 attempts in 56 minutes,system,2024-01-18 13:56:00
+815,2023-05-28,SQL Injection,Critical,Open,SQL injection attempt detected on search form,admin,2023-05-28 17:43:00
+816,2023-01-11,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 141.226.129.222,bob,2023-01-11 23:41:00
+817,2023-02-13,Ransomware,Medium,Open,Encryption malware detected - 73 files affected,alice,2023-02-13 14:02:00
+818,2023-12-30,Ransomware,Low,Open,Encryption malware detected - 467 files affected,admin,2023-12-30 01:51:00
+819,2024-08-05,Phishing,Medium,Resolved,Suspicious email detected targeting HR department,charlie,2024-08-05 15:05:00
+820,2023-08-09,Unauthorized Access,Medium,Resolved,Failed login attempts from IP 236.137.126.17,charlie,2023-08-09 04:49:00
+821,2023-02-08,Ransomware,Low,Open,Encryption malware detected - 266 files affected,emma,2023-02-08 23:51:00
+822,2023-03-31,DDoS,Medium,Open,Distributed denial of service attack on database,system,2023-03-31 18:16:00
+823,2023-04-18,Data Breach,Medium,Open,Unauthorized data access - 7241 records exposed,alice,2023-04-18 07:08:00
+824,2024-05-01,Brute Force,Critical,Closed,Multiple password attempts detected - 447 attempts in 38 minutes,bob,2024-05-01 23:48:00
+825,2023-10-02,SQL Injection,Low,Closed,SQL injection attempt detected on API endpoint,bob,2023-10-02 21:01:00
+826,2024-07-18,Social Engineering,Medium,Resolved,Employee reported suspicious email requesting credentials,bob,2024-07-18 06:07:00
+827,2024-02-23,SQL Injection,High,Open,SQL injection attempt detected on search form,bob,2024-02-23 06:51:00
+828,2024-04-09,Social Engineering,Low,Open,Employee reported suspicious phone call requesting credentials,bob,2024-04-09 03:52:00
+829,2024-06-16,Data Breach,Critical,Resolved,Unauthorized data access - 4068 records exposed,david,2024-06-16 10:11:00
+830,2023-05-07,XSS Attack,High,Resolved,Cross-site scripting vulnerability exploited in search bar,emma,2023-05-07 10:55:00
+831,2024-05-26,Data Breach,High,Closed,Unauthorized data access - 1660 records exposed,david,2024-05-26 18:47:00
+832,2023-06-20,Brute Force,High,Closed,Multiple password attempts detected - 109 attempts in 35 minutes,david,2023-06-20 18:07:00
+833,2023-11-01,Unauthorized Access,High,Closed,Failed login attempts from IP 115.25.121.102,admin,2023-11-01 05:53:00
+834,2023-12-26,Unauthorized Access,Low,In Progress,Failed login attempts from IP 58.159.159.5,emma,2023-12-26 13:40:00
+835,2024-06-13,Brute Force,Medium,Resolved,Multiple password attempts detected - 339 attempts in 45 minutes,alice,2024-06-13 15:22:00
+836,2024-07-04,Malware,Low,Closed,Malicious software found on workstation 139,admin,2024-07-04 23:52:00
+837,2024-09-15,Phishing,Critical,In Progress,Suspicious email detected targeting HR department,charlie,2024-09-15 06:53:00
+838,2023-01-17,Phishing,Medium,Resolved,Suspicious email detected targeting HR department,bob,2023-01-17 12:34:00
+839,2024-05-17,Ransomware,Medium,Closed,Encryption malware detected - 123 files affected,system,2024-05-17 16:56:00
+840,2024-02-23,Brute Force,Medium,In Progress,Multiple password attempts detected - 313 attempts in 15 minutes,emma,2024-02-23 20:11:00
+841,2024-08-30,Social Engineering,Low,In Progress,Employee reported suspicious email requesting credentials,david,2024-08-30 19:34:00
+842,2024-02-10,Ransomware,Medium,Closed,Encryption malware detected - 109 files affected,bob,2024-02-10 07:31:00
+843,2023-04-23,Brute Force,Critical,Closed,Multiple password attempts detected - 343 attempts in 18 minutes,alice,2023-04-23 23:07:00
+844,2024-02-29,Social Engineering,High,Closed,Employee reported suspicious phone call requesting credentials,charlie,2024-02-29 11:52:00
+845,2023-05-18,Malware,Low,In Progress,Malicious software found on workstation 626,emma,2023-05-18 12:42:00
+846,2023-05-23,Unauthorized Access,Low,Open,Failed login attempts from IP 26.86.14.56,charlie,2023-05-23 02:43:00
+847,2024-06-30,Brute Force,Low,Resolved,Multiple password attempts detected - 115 attempts in 37 minutes,alice,2024-06-30 21:30:00
+848,2023-07-09,Ransomware,Critical,Closed,Encryption malware detected - 178 files affected,bob,2023-07-09 18:38:00
+849,2024-07-27,Unauthorized Access,Medium,Closed,Failed login attempts from IP 114.56.219.29,charlie,2024-07-27 22:44:00
+850,2023-06-15,Phishing,Critical,Resolved,Suspicious email detected targeting IT department,emma,2023-06-15 01:49:00
+851,2024-10-24,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in user profile,admin,2024-10-24 18:25:00
+852,2024-05-04,Data Breach,Medium,Open,Unauthorized data access - 3468 records exposed,alice,2024-05-04 02:35:00
+853,2023-08-02,Ransomware,High,In Progress,Encryption malware detected - 412 files affected,charlie,2023-08-02 21:41:00
+854,2024-10-03,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in user profile,alice,2024-10-03 18:30:00
+855,2023-08-16,DDoS,High,Resolved,Distributed denial of service attack on API gateway,admin,2023-08-16 18:29:00
+856,2024-08-05,Social Engineering,Low,Resolved,Employee reported suspicious phone call requesting credentials,charlie,2024-08-05 22:39:00
+857,2023-05-05,Ransomware,Low,In Progress,Encryption malware detected - 471 files affected,emma,2023-05-05 01:13:00
+858,2023-02-21,Data Breach,Low,Open,Unauthorized data access - 1290 records exposed,alice,2023-02-21 10:23:00
+859,2024-11-22,DDoS,Critical,Closed,Distributed denial of service attack on web server,charlie,2024-11-22 04:08:00
+860,2024-03-24,Phishing,Medium,In Progress,Suspicious email detected targeting finance department,charlie,2024-03-24 17:44:00
+861,2023-03-06,Ransomware,Critical,In Progress,Encryption malware detected - 156 files affected,charlie,2023-03-06 19:08:00
+862,2023-05-05,Ransomware,Low,Closed,Encryption malware detected - 327 files affected,bob,2023-05-05 18:10:00
+863,2023-03-24,Social Engineering,Low,Closed,Employee reported suspicious phone call requesting credentials,bob,2023-03-24 00:48:00
+864,2023-08-08,Ransomware,Low,In Progress,Encryption malware detected - 482 files affected,alice,2023-08-08 04:59:00
+865,2023-05-23,Data Breach,Low,In Progress,Unauthorized data access - 8161 records exposed,system,2023-05-23 00:23:00
+866,2024-02-12,Ransomware,High,Resolved,Encryption malware detected - 371 files affected,emma,2024-02-12 00:20:00
+867,2024-01-01,Phishing,Critical,Resolved,Suspicious email detected targeting IT department,bob,2024-01-01 17:07:00
+868,2024-07-29,Ransomware,Critical,In Progress,Encryption malware detected - 196 files affected,admin,2024-07-29 16:55:00
+869,2023-09-12,Data Breach,High,In Progress,Unauthorized data access - 8304 records exposed,system,2023-09-12 21:25:00
+870,2023-02-26,Data Breach,Critical,Open,Unauthorized data access - 6855 records exposed,alice,2023-02-26 11:34:00
+871,2023-12-07,Social Engineering,High,Closed,Employee reported suspicious email requesting credentials,system,2023-12-07 06:02:00
+872,2023-07-23,SQL Injection,High,Resolved,SQL injection attempt detected on search form,david,2023-07-23 05:05:00
+873,2024-08-08,Unauthorized Access,Medium,Open,Failed login attempts from IP 132.52.97.7,emma,2024-08-08 02:14:00
+874,2024-02-22,SQL Injection,Medium,Open,SQL injection attempt detected on API endpoint,emma,2024-02-22 13:59:00
+875,2024-01-11,Ransomware,High,Closed,Encryption malware detected - 259 files affected,david,2024-01-11 14:44:00
+876,2024-01-01,SQL Injection,Critical,Open,SQL injection attempt detected on search form,admin,2024-01-01 20:56:00
+877,2023-06-01,Brute Force,High,Open,Multiple password attempts detected - 457 attempts in 60 minutes,david,2023-06-01 22:16:00
+878,2024-05-11,DDoS,Medium,Open,Distributed denial of service attack on API gateway,charlie,2024-05-11 05:49:00
+879,2023-12-03,Social Engineering,High,Resolved,Employee reported suspicious email requesting credentials,alice,2023-12-03 13:51:00
+880,2023-09-29,Malware,Low,Open,Malicious software found on workstation 387,david,2023-09-29 00:23:00
+881,2024-04-15,Malware,Medium,Closed,Malicious software found on workstation 441,admin,2024-04-15 21:56:00
+882,2023-04-08,Brute Force,Low,Resolved,Multiple password attempts detected - 187 attempts in 58 minutes,alice,2023-04-08 19:16:00
+883,2024-05-16,Brute Force,Critical,Closed,Multiple password attempts detected - 428 attempts in 23 minutes,david,2024-05-16 18:46:00
+884,2023-09-23,Malware,High,Open,Malicious software found on workstation 731,emma,2023-09-23 01:44:00
+885,2024-01-18,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 218.104.174.50,system,2024-01-18 22:53:00
+886,2024-02-04,Unauthorized Access,Medium,Closed,Failed login attempts from IP 200.16.224.240,emma,2024-02-04 07:09:00
+887,2024-07-01,Unauthorized Access,Medium,Closed,Failed login attempts from IP 225.15.36.248,bob,2024-07-01 00:18:00
+888,2024-02-22,Social Engineering,Medium,Open,Employee reported suspicious phone call requesting credentials,alice,2024-02-22 06:19:00
+889,2023-06-30,SQL Injection,Low,Closed,SQL injection attempt detected on login page,alice,2023-06-30 14:00:00
+890,2023-01-06,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in search bar,david,2023-01-06 12:40:00
+891,2023-06-16,DDoS,Critical,Resolved,Distributed denial of service attack on web server,david,2023-06-16 23:00:00
+892,2024-10-29,Brute Force,Medium,In Progress,Multiple password attempts detected - 208 attempts in 43 minutes,david,2024-10-29 14:02:00
+893,2024-04-24,XSS Attack,Critical,Resolved,Cross-site scripting vulnerability exploited in user profile,emma,2024-04-24 07:49:00
+894,2024-08-14,SQL Injection,Low,Open,SQL injection attempt detected on search form,charlie,2024-08-14 16:14:00
+895,2024-05-15,XSS Attack,High,Resolved,Cross-site scripting vulnerability exploited in comment section,admin,2024-05-15 07:21:00
+896,2023-08-06,Malware,High,Closed,Malicious software found on workstation 451,system,2023-08-06 01:25:00
+897,2023-04-09,Ransomware,Low,Open,Encryption malware detected - 273 files affected,alice,2023-04-09 13:10:00
+898,2024-05-24,XSS Attack,High,In Progress,Cross-site scripting vulnerability exploited in search bar,system,2024-05-24 18:18:00
+899,2024-06-24,Brute Force,Medium,Closed,Multiple password attempts detected - 85 attempts in 25 minutes,alice,2024-06-24 15:11:00
+900,2024-10-25,Unauthorized Access,High,In Progress,Failed login attempts from IP 197.165.68.156,david,2024-10-25 00:46:00
+901,2024-06-02,Ransomware,High,Closed,Encryption malware detected - 423 files affected,charlie,2024-06-02 01:49:00
+902,2023-11-07,Malware,Medium,In Progress,Malicious software found on workstation 891,charlie,2023-11-07 21:05:00
+903,2024-09-28,Brute Force,Low,In Progress,Multiple password attempts detected - 318 attempts in 29 minutes,david,2024-09-28 21:01:00
+904,2024-05-23,Data Breach,High,In Progress,Unauthorized data access - 8853 records exposed,system,2024-05-23 20:59:00
+905,2023-07-24,Brute Force,High,In Progress,Multiple password attempts detected - 389 attempts in 11 minutes,charlie,2023-07-24 10:55:00
+906,2023-10-02,DDoS,Medium,Closed,Distributed denial of service attack on database,alice,2023-10-02 20:11:00
+907,2024-10-20,Social Engineering,Low,Open,Employee reported suspicious email requesting credentials,admin,2024-10-20 16:25:00
+908,2023-10-10,Data Breach,High,In Progress,Unauthorized data access - 6588 records exposed,emma,2023-10-10 10:45:00
+909,2024-05-12,Brute Force,Medium,Open,Multiple password attempts detected - 275 attempts in 54 minutes,alice,2024-05-12 03:26:00
+910,2023-11-30,Malware,Critical,In Progress,Malicious software found on workstation 704,charlie,2023-11-30 05:21:00
+911,2023-01-27,Unauthorized Access,Low,Closed,Failed login attempts from IP 19.170.100.96,alice,2023-01-27 07:00:00
+912,2024-04-13,XSS Attack,High,Open,Cross-site scripting vulnerability exploited in search bar,charlie,2024-04-13 16:13:00
+913,2023-09-29,Malware,Critical,Resolved,Malicious software found on workstation 803,emma,2023-09-29 23:53:00
+914,2024-09-01,XSS Attack,Low,In Progress,Cross-site scripting vulnerability exploited in comment section,admin,2024-09-01 13:20:00
+915,2023-10-09,Ransomware,Low,Closed,Encryption malware detected - 233 files affected,emma,2023-10-09 23:48:00
+916,2023-12-28,Brute Force,High,In Progress,Multiple password attempts detected - 339 attempts in 48 minutes,system,2023-12-28 02:07:00
+917,2023-07-03,Brute Force,Medium,Closed,Multiple password attempts detected - 224 attempts in 39 minutes,emma,2023-07-03 22:06:00
+918,2023-06-09,Data Breach,Medium,Resolved,Unauthorized data access - 1722 records exposed,admin,2023-06-09 04:52:00
+919,2024-11-30,Malware,High,Open,Malicious software found on workstation 877,david,2024-11-30 10:25:00
+920,2023-08-26,Phishing,Medium,Resolved,Suspicious email detected targeting finance department,alice,2023-08-26 06:53:00
+921,2024-07-22,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in comment section,charlie,2024-07-22 18:25:00
+922,2023-05-01,XSS Attack,High,Closed,Cross-site scripting vulnerability exploited in user profile,alice,2023-05-01 07:11:00
+923,2023-11-23,Ransomware,Low,Closed,Encryption malware detected - 491 files affected,emma,2023-11-23 10:57:00
+924,2023-03-05,XSS Attack,Critical,Open,Cross-site scripting vulnerability exploited in search bar,admin,2023-03-05 15:02:00
+925,2024-04-01,SQL Injection,Low,Closed,SQL injection attempt detected on login page,alice,2024-04-01 14:07:00
+926,2024-04-24,Unauthorized Access,Low,Open,Failed login attempts from IP 127.100.138.200,charlie,2024-04-24 18:15:00
+927,2024-10-09,XSS Attack,Low,Resolved,Cross-site scripting vulnerability exploited in user profile,system,2024-10-09 03:58:00
+928,2024-04-05,Social Engineering,Critical,Resolved,Employee reported suspicious text message requesting credentials,admin,2024-04-05 14:14:00
+929,2023-09-25,DDoS,Critical,Resolved,Distributed denial of service attack on API gateway,emma,2023-09-25 00:49:00
+930,2024-02-16,SQL Injection,Medium,In Progress,SQL injection attempt detected on API endpoint,system,2024-02-16 02:22:00
+931,2024-06-19,Malware,Low,Open,Malicious software found on workstation 861,alice,2024-06-19 06:59:00
+932,2024-02-25,DDoS,Low,Resolved,Distributed denial of service attack on web server,charlie,2024-02-25 05:25:00
+933,2024-08-26,Unauthorized Access,Medium,In Progress,Failed login attempts from IP 122.19.32.217,system,2024-08-26 11:23:00
+934,2023-11-10,Malware,Critical,In Progress,Malicious software found on workstation 491,charlie,2023-11-10 06:04:00
+935,2024-09-07,Phishing,High,Open,Suspicious email detected targeting IT department,emma,2024-09-07 07:41:00
+936,2024-11-06,DDoS,Medium,In Progress,Distributed denial of service attack on database,system,2024-11-06 03:53:00
+937,2024-06-13,Data Breach,Low,Closed,Unauthorized data access - 9922 records exposed,admin,2024-06-13 07:18:00
+938,2024-02-01,Data Breach,Critical,In Progress,Unauthorized data access - 9908 records exposed,system,2024-02-01 16:11:00
+939,2024-08-17,Brute Force,Low,In Progress,Multiple password attempts detected - 309 attempts in 50 minutes,bob,2024-08-17 09:14:00
+940,2024-01-21,Malware,Critical,Resolved,Malicious software found on workstation 339,bob,2024-01-21 06:55:00
+941,2024-01-03,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 96.126.247.93,admin,2024-01-03 02:46:00
+942,2024-02-16,DDoS,High,Resolved,Distributed denial of service attack on web server,emma,2024-02-16 15:26:00
+943,2024-10-24,Phishing,Medium,In Progress,Suspicious email detected targeting finance department,admin,2024-10-24 01:46:00
+944,2024-03-03,Malware,Critical,Resolved,Malicious software found on workstation 261,david,2024-03-03 02:58:00
+945,2023-04-02,DDoS,Critical,In Progress,Distributed denial of service attack on API gateway,admin,2023-04-02 16:21:00
+946,2023-01-21,DDoS,Medium,Open,Distributed denial of service attack on database,emma,2023-01-21 00:15:00
+947,2023-07-12,Brute Force,Medium,In Progress,Multiple password attempts detected - 362 attempts in 8 minutes,emma,2023-07-12 11:52:00
+948,2023-05-28,DDoS,High,Resolved,Distributed denial of service attack on web server,admin,2023-05-28 20:40:00
+949,2024-10-04,Malware,Low,In Progress,Malicious software found on workstation 473,admin,2024-10-04 23:53:00
+950,2023-07-23,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 111.127.40.170,bob,2023-07-23 17:31:00
+951,2024-05-25,SQL Injection,High,In Progress,SQL injection attempt detected on API endpoint,system,2024-05-25 12:26:00
+952,2023-06-10,SQL Injection,Low,Open,SQL injection attempt detected on login page,admin,2023-06-10 09:35:00
+953,2023-10-22,SQL Injection,Critical,Closed,SQL injection attempt detected on API endpoint,charlie,2023-10-22 19:21:00
+954,2023-01-18,SQL Injection,Low,Closed,SQL injection attempt detected on login page,alice,2023-01-18 12:34:00
+955,2024-08-09,Phishing,Critical,In Progress,Suspicious email detected targeting finance department,bob,2024-08-09 16:08:00
+956,2024-05-11,Data Breach,Critical,In Progress,Unauthorized data access - 7627 records exposed,admin,2024-05-11 05:24:00
+957,2024-09-24,SQL Injection,Critical,Closed,SQL injection attempt detected on API endpoint,emma,2024-09-24 12:59:00
+958,2024-09-20,DDoS,Medium,Open,Distributed denial of service attack on API gateway,charlie,2024-09-20 04:03:00
+959,2024-03-18,XSS Attack,Medium,Resolved,Cross-site scripting vulnerability exploited in user profile,bob,2024-03-18 21:45:00
+960,2024-02-29,DDoS,Critical,Open,Distributed denial of service attack on API gateway,admin,2024-02-29 19:17:00
+961,2024-01-27,Malware,Medium,Open,Malicious software found on workstation 490,bob,2024-01-27 15:25:00
+962,2023-10-30,Malware,High,Resolved,Malicious software found on workstation 596,emma,2023-10-30 22:11:00
+963,2024-04-06,DDoS,Medium,In Progress,Distributed denial of service attack on web server,alice,2024-04-06 21:32:00
+964,2024-11-19,DDoS,Critical,Resolved,Distributed denial of service attack on API gateway,emma,2024-11-19 02:34:00
+965,2023-03-04,Social Engineering,Medium,Resolved,Employee reported suspicious email requesting credentials,system,2023-03-04 06:56:00
+966,2024-07-17,Unauthorized Access,Critical,Resolved,Failed login attempts from IP 47.165.29.71,david,2024-07-17 08:16:00
+967,2024-02-25,Ransomware,Critical,Open,Encryption malware detected - 267 files affected,alice,2024-02-25 11:42:00
+968,2024-04-13,Phishing,Medium,Resolved,Suspicious email detected targeting finance department,david,2024-04-13 21:15:00
+969,2024-05-07,Data Breach,High,Resolved,Unauthorized data access - 3506 records exposed,alice,2024-05-07 20:07:00
+970,2023-11-20,XSS Attack,Low,In Progress,Cross-site scripting vulnerability exploited in user profile,system,2023-11-20 23:52:00
+971,2024-03-20,XSS Attack,Low,Closed,Cross-site scripting vulnerability exploited in comment section,bob,2024-03-20 05:37:00
+972,2023-08-06,Malware,Medium,Resolved,Malicious software found on workstation 476,system,2023-08-06 09:01:00
+973,2023-01-23,Data Breach,High,Resolved,Unauthorized data access - 3739 records exposed,system,2023-01-23 23:06:00
+974,2024-04-26,Phishing,Low,Resolved,Suspicious email detected targeting finance department,david,2024-04-26 02:38:00
+975,2023-01-30,Ransomware,High,Closed,Encryption malware detected - 249 files affected,admin,2023-01-30 08:26:00
+976,2024-05-11,Malware,Low,In Progress,Malicious software found on workstation 505,system,2024-05-11 22:05:00
+977,2023-10-14,Brute Force,Medium,In Progress,Multiple password attempts detected - 245 attempts in 47 minutes,alice,2023-10-14 12:50:00
+978,2023-10-13,XSS Attack,Critical,In Progress,Cross-site scripting vulnerability exploited in comment section,david,2023-10-13 21:28:00
+979,2023-10-15,Malware,Critical,Resolved,Malicious software found on workstation 279,bob,2023-10-15 13:45:00
+980,2024-02-09,Brute Force,High,Resolved,Multiple password attempts detected - 343 attempts in 9 minutes,david,2024-02-09 15:34:00
+981,2023-09-24,Phishing,Low,In Progress,Suspicious email detected targeting HR department,david,2023-09-24 02:38:00
+982,2024-11-20,Malware,Low,Open,Malicious software found on workstation 616,system,2024-11-20 23:52:00
+983,2023-02-27,Ransomware,Critical,Resolved,Encryption malware detected - 140 files affected,bob,2023-02-27 02:40:00
+984,2023-07-14,Brute Force,Medium,Closed,Multiple password attempts detected - 152 attempts in 54 minutes,admin,2023-07-14 06:14:00
+985,2024-03-31,XSS Attack,Medium,In Progress,Cross-site scripting vulnerability exploited in search bar,admin,2024-03-31 14:29:00
+986,2024-08-06,Social Engineering,High,Closed,Employee reported suspicious email requesting credentials,emma,2024-08-06 11:22:00
+987,2023-08-30,Social Engineering,Low,Resolved,Employee reported suspicious email requesting credentials,charlie,2023-08-30 04:55:00
+988,2024-01-10,DDoS,Low,Open,Distributed denial of service attack on web server,admin,2024-01-10 00:00:00
+989,2023-01-08,Social Engineering,High,Closed,Employee reported suspicious text message requesting credentials,emma,2023-01-08 11:32:00
+990,2023-02-02,Unauthorized Access,Critical,In Progress,Failed login attempts from IP 18.77.205.77,david,2023-02-02 16:06:00
+991,2023-12-02,Malware,Low,Resolved,Malicious software found on workstation 586,admin,2023-12-02 00:27:00
+992,2024-05-13,Ransomware,Low,In Progress,Encryption malware detected - 90 files affected,system,2024-05-13 07:57:00
+993,2023-10-30,Social Engineering,Medium,Closed,Employee reported suspicious phone call requesting credentials,emma,2023-10-30 01:39:00
+994,2023-08-10,Ransomware,Low,Closed,Encryption malware detected - 283 files affected,alice,2023-08-10 20:40:00
+995,2024-07-06,Data Breach,Medium,Closed,Unauthorized data access - 3600 records exposed,alice,2024-07-06 07:10:00
+996,2023-05-13,Malware,Critical,Open,Malicious software found on workstation 155,alice,2023-05-13 16:33:00
+997,2023-09-10,Ransomware,Critical,Open,Encryption malware detected - 217 files affected,alice,2023-09-10 14:32:00
+998,2023-02-09,Malware,Medium,Resolved,Malicious software found on workstation 913,bob,2023-02-09 23:19:00
+999,2023-07-30,SQL Injection,High,In Progress,SQL injection attempt detected on login page,system,2023-07-30 22:37:00
+1000,2023-03-28,Data Breach,High,In Progress,Unauthorized data access - 3501 records exposed,bob,2023-03-28 11:53:00

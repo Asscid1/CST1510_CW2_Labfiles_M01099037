@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Environments
+.env
+venv/
+env/
+
+# IDE-specific files
+.vscode/
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Miscellaneous
+*.log
+*.tmp
+*.DS_Store

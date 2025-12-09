@@ -1,0 +1,1001 @@
+ticket_id,priority,status,category,subject,description,created_date,resolved_date,assigned_to,created_at
+TKT-000001,High,In Progress,Printer,Paper jam,Printer malfunction in Floor 2,2025-08-22,,Network Team,2025-08-22 14:20:31
+TKT-000002,Medium,Resolved,Network,WiFi not working,Network connectivity issue affecting 6 users in Remote,2025-08-25,2025-09-17,Security Team,2025-08-25 14:20:31
+TKT-000003,Medium,Closed,Database,Database connection error,Database issue affecting staging environment,2025-07-13,2025-07-24,DevOps Team,2025-07-13 14:20:31
+TKT-000004,Medium,Resolved,Server,Application deployment,Server issue on web-server-01,2025-09-22,2025-10-20,Database Team,2025-09-22 14:20:31
+TKT-000005,Medium,On Hold,Database,Query performance slow,Database issue affecting production environment,2025-12-05,,Support Team,2025-12-05 14:20:31
+TKT-000006,High,On Hold,Printer,Paper jam,Printer malfunction in Floor 1,2025-08-18,,Support Team,2025-08-18 14:20:31
+TKT-000007,High,In Progress,Security,Security audit,Security concern reported. Impact: Single user,2025-10-12,,Infrastructure Team,2025-10-12 14:20:31
+TKT-000008,High,On Hold,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-10-15,,Help Desk,2025-10-15 14:20:31
+TKT-000009,High,On Hold,Database,Data corruption,Database issue affecting production environment,2025-07-18,,Support Team,2025-07-18 14:20:31
+TKT-000010,High,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Peripheral,2025-10-28,2025-11-04,DevOps Team,2025-10-28 14:20:31
+TKT-000011,Critical,In Progress,Network,Network printer offline,Network connectivity issue affecting 7 users in Remote,2025-07-15,,Infrastructure Team,2025-07-15 14:20:31
+TKT-000012,Medium,In Progress,Network,WiFi not working,Network connectivity issue affecting 28 users in Building A,2025-06-11,,Help Desk,2025-06-11 14:20:31
+TKT-000013,High,Closed,Database,Data corruption,Database issue affecting production environment,2025-09-18,2025-10-24,Infrastructure Team,2025-09-18 14:20:31
+TKT-000014,High,On Hold,Printer,Printer not printing,Printer malfunction in Floor 2,2025-11-10,,Database Team,2025-11-10 14:20:31
+TKT-000015,Low,On Hold,Printer,Print quality issue,Printer malfunction in Reception,2025-11-20,,DevOps Team,2025-11-20 14:20:31
+TKT-000016,Critical,Resolved,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-09-09,2025-09-19,Database Team,2025-09-09 14:20:31
+TKT-000017,Low,On Hold,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-06-23,,Security Team,2025-06-23 14:20:31
+TKT-000018,Medium,In Progress,Hardware,Hard drive failure,Hardware issue reported by user. Device: Desktop,2025-11-13,,Help Desk,2025-11-13 14:20:31
+TKT-000019,Critical,Closed,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-09-29,2025-10-06,Infrastructure Team,2025-09-29 14:20:31
+TKT-000020,Critical,Open,Access,Access denied,User access issue. Type: Contractor,2025-08-16,,IT Team,2025-08-16 14:20:31
+TKT-000021,Medium,Resolved,Printer,Printer driver needed,Printer malfunction in Reception,2025-08-07,2025-08-11,Infrastructure Team,2025-08-07 14:20:31
+TKT-000022,High,Open,Hardware,Laptop not working,Hardware issue reported by user. Device: Laptop,2025-06-12,,IT Team,2025-06-12 14:20:31
+TKT-000023,High,In Progress,Security,Suspicious activity,Security concern reported. Impact: Single user,2025-07-07,,Infrastructure Team,2025-07-07 14:20:31
+TKT-000024,Critical,On Hold,Printer,Printer not printing,Printer malfunction in Floor 1,2025-06-20,,Support Team,2025-06-20 14:20:31
+TKT-000025,Critical,On Hold,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-09-16,,Security Team,2025-09-16 14:20:31
+TKT-000026,Medium,Resolved,Server,Server down,Server issue on db-server-03,2025-11-21,2025-12-20,Infrastructure Team,2025-11-21 14:20:31
+TKT-000027,High,Closed,Server,Application deployment,Server issue on app-server-02,2025-07-05,2025-08-01,Security Team,2025-07-05 14:20:31
+TKT-000028,Critical,Closed,Access,Password reset,User access issue. Type: New hire,2025-07-10,2025-07-11,DevOps Team,2025-07-10 14:20:31
+TKT-000029,Medium,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-10-05,2025-10-28,Help Desk,2025-10-05 14:20:31
+TKT-000030,High,On Hold,Database,Data corruption,Database issue affecting production environment,2025-08-03,,IT Team,2025-08-03 14:20:31
+TKT-000031,Critical,On Hold,Security,Firewall configuration,Security concern reported. Impact: Department,2025-06-26,,Database Team,2025-06-26 14:20:31
+TKT-000032,High,In Progress,Email,Attachment size limit,Email service issue. Mail client: Gmail,2025-11-06,,Database Team,2025-11-06 14:20:31
+TKT-000033,Critical,On Hold,Server,Disk space full,Server issue on app-server-02,2025-12-05,,Help Desk,2025-12-05 14:20:31
+TKT-000034,Low,Resolved,Software,Software installation request,Software problem affecting productivity. Application: Browser,2025-08-08,2025-09-09,IT Team,2025-08-08 14:20:31
+TKT-000035,High,Open,Printer,Printer not printing,Printer malfunction in Floor 2,2025-07-28,,IT Team,2025-07-28 14:20:31
+TKT-000036,Medium,Open,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-10-20,,DevOps Team,2025-10-20 14:20:31
+TKT-000037,Medium,In Progress,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-08-26,,DevOps Team,2025-08-26 14:20:31
+TKT-000038,High,Open,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-07-29,,Network Team,2025-07-29 14:20:31
+TKT-000039,Low,Closed,Printer,Paper jam,Printer malfunction in Floor 2,2025-12-04,2026-01-22,Help Desk,2025-12-04 14:20:31
+TKT-000040,Critical,In Progress,Email,Cannot send emails,Email service issue. Mail client: Outlook,2025-10-29,,Infrastructure Team,2025-10-29 14:20:31
+TKT-000041,Low,Closed,Access,Permission request,User access issue. Type: Role change,2025-09-13,2025-11-05,DevOps Team,2025-09-13 14:20:31
+TKT-000042,Medium,On Hold,Software,Update failed,Software problem affecting productivity. Application: Browser,2025-08-19,,Database Team,2025-08-19 14:20:31
+TKT-000043,Critical,On Hold,Server,High CPU usage,Server issue on app-server-02,2025-09-22,,Help Desk,2025-09-22 14:20:31
+TKT-000044,Medium,On Hold,Server,Disk space full,Server issue on web-server-01,2025-08-28,,IT Team,2025-08-28 14:20:31
+TKT-000045,Medium,In Progress,Database,Backup failed,Database issue affecting production environment,2025-07-02,,Security Team,2025-07-02 14:20:31
+TKT-000046,Critical,Open,Other,Request for help,General IT support request,2025-07-25,,Network Team,2025-07-25 14:20:31
+TKT-000047,Low,Closed,Server,Application deployment,Server issue on web-server-01,2025-11-19,2025-12-28,IT Team,2025-11-19 14:20:31
+TKT-000048,Medium,Resolved,Printer,Printer not printing,Printer malfunction in Floor 3,2025-08-28,2025-09-21,Support Team,2025-08-28 14:20:31
+TKT-000049,Medium,Closed,Other,General inquiry,General IT support request,2025-08-27,2025-09-07,Security Team,2025-08-27 14:20:31
+TKT-000050,High,Open,Email,Cannot send emails,Email service issue. Mail client: Gmail,2025-08-17,,Support Team,2025-08-17 14:20:31
+TKT-000051,Medium,On Hold,Access,Access denied,User access issue. Type: New hire,2025-10-16,,IT Team,2025-10-16 14:20:31
+TKT-000052,Critical,In Progress,Software,License renewal,Software problem affecting productivity. Application: Office Suite,2025-07-25,,Infrastructure Team,2025-07-25 14:20:31
+TKT-000053,Medium,Closed,Software,Performance issue,Software problem affecting productivity. Application: Office Suite,2025-08-05,2025-08-10,Infrastructure Team,2025-08-05 14:20:31
+TKT-000054,Medium,On Hold,Other,Documentation needed,General IT support request,2025-06-24,,Help Desk,2025-06-24 14:20:31
+TKT-000055,Critical,Open,Hardware,Hard drive failure,Hardware issue reported by user. Device: Desktop,2025-11-11,,DevOps Team,2025-11-11 14:20:31
+TKT-000056,Critical,On Hold,Network,VPN connection issues,Network connectivity issue affecting 10 users in Building A,2025-10-17,,Database Team,2025-10-17 14:20:31
+TKT-000057,Medium,On Hold,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-06-18,,DevOps Team,2025-06-18 14:20:31
+TKT-000058,Critical,On Hold,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-10-17,,DevOps Team,2025-10-17 14:20:31
+TKT-000059,Medium,On Hold,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-09-26,,Security Team,2025-09-26 14:20:31
+TKT-000060,High,Closed,Software,Software installation request,Software problem affecting productivity. Application: IDE,2025-08-28,2025-09-15,Network Team,2025-08-28 14:20:31
+TKT-000061,Low,On Hold,Printer,Print quality issue,Printer malfunction in Reception,2025-08-06,,IT Team,2025-08-06 14:20:31
+TKT-000062,Medium,Open,Network,Network printer offline,Network connectivity issue affecting 39 users in Building A,2025-10-16,,Security Team,2025-10-16 14:20:31
+TKT-000063,High,Open,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-07-25,,Infrastructure Team,2025-07-25 14:20:31
+TKT-000064,Medium,On Hold,Security,Suspicious activity,Security concern reported. Impact: Department,2025-09-13,,Security Team,2025-09-13 14:20:31
+TKT-000065,High,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-09-05,2025-10-29,Database Team,2025-09-05 14:20:31
+TKT-000066,Critical,Closed,Other,Feedback,General IT support request,2025-12-05,2025-12-30,DevOps Team,2025-12-05 14:20:31
+TKT-000067,Critical,Resolved,Security,Security audit,Security concern reported. Impact: Single user,2025-07-06,2025-07-09,Security Team,2025-07-06 14:20:31
+TKT-000068,Critical,Closed,Network,VPN connection issues,Network connectivity issue affecting 36 users in Building B,2025-07-27,2025-08-09,DevOps Team,2025-07-27 14:20:31
+TKT-000069,Critical,Resolved,Hardware,Laptop not working,Hardware issue reported by user. Device: Laptop,2025-10-18,2025-10-30,Database Team,2025-10-18 14:20:31
+TKT-000070,High,Resolved,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-10-12,2025-11-11,Help Desk,2025-10-12 14:20:31
+TKT-000071,Medium,On Hold,Access,Access denied,User access issue. Type: Contractor,2025-09-20,,IT Team,2025-09-20 14:20:31
+TKT-000072,Low,Closed,Database,Query performance slow,Database issue affecting staging environment,2025-07-03,2025-07-04,Support Team,2025-07-03 14:20:31
+TKT-000073,Critical,Resolved,Printer,Paper jam,Printer malfunction in Floor 2,2025-10-10,2025-11-06,IT Team,2025-10-10 14:20:31
+TKT-000074,Medium,Resolved,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-09-23,2025-10-05,Help Desk,2025-09-23 14:20:31
+TKT-000075,Medium,Closed,Software,Application crash,Software problem affecting productivity. Application: Custom App,2025-06-27,2025-07-17,Support Team,2025-06-27 14:20:31
+TKT-000076,High,On Hold,Server,Server down,Server issue on web-server-01,2025-08-05,,IT Team,2025-08-05 14:20:31
+TKT-000077,Medium,In Progress,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-09-27,,Database Team,2025-09-27 14:20:31
+TKT-000078,High,Resolved,Network,WiFi not working,Network connectivity issue affecting 17 users in Building A,2025-10-21,2025-12-01,DevOps Team,2025-10-21 14:20:31
+TKT-000079,Critical,In Progress,Printer,Toner replacement,Printer malfunction in Floor 3,2025-08-30,,Security Team,2025-08-30 14:20:31
+TKT-000080,Medium,In Progress,Other,Feedback,General IT support request,2025-09-11,,Help Desk,2025-09-11 14:20:31
+TKT-000081,Critical,Open,Server,Application deployment,Server issue on web-server-01,2025-07-14,,Support Team,2025-07-14 14:20:31
+TKT-000082,Critical,Closed,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-11-08,2025-11-30,Security Team,2025-11-08 14:20:31
+TKT-000083,Low,Resolved,Software,Application crash,Software problem affecting productivity. Application: Browser,2025-10-12,2025-12-03,DevOps Team,2025-10-12 14:20:31
+TKT-000084,Medium,On Hold,Printer,Toner replacement,Printer malfunction in Reception,2025-08-19,,DevOps Team,2025-08-19 14:20:31
+TKT-000085,High,Open,Printer,Printer driver needed,Printer malfunction in Floor 3,2025-12-02,,Database Team,2025-12-02 14:20:31
+TKT-000086,Critical,Resolved,Network,Network printer offline,Network connectivity issue affecting 45 users in Remote,2025-10-13,2025-10-26,Support Team,2025-10-13 14:20:31
+TKT-000087,Low,In Progress,Access,Access denied,User access issue. Type: Contractor,2025-08-15,,Security Team,2025-08-15 14:20:31
+TKT-000088,Critical,Closed,Printer,Printer not printing,Printer malfunction in Reception,2025-10-05,2025-10-12,IT Team,2025-10-05 14:20:31
+TKT-000089,Critical,Open,Server,High CPU usage,Server issue on web-server-01,2025-09-02,,Help Desk,2025-09-02 14:20:31
+TKT-000090,High,Resolved,Email,Attachment size limit,Email service issue. Mail client: Gmail,2025-11-16,2026-01-14,Help Desk,2025-11-16 14:20:31
+TKT-000091,High,Resolved,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-10-19,2025-12-16,DevOps Team,2025-10-19 14:20:31
+TKT-000092,Medium,On Hold,Network,Network printer offline,Network connectivity issue affecting 9 users in Building A,2025-09-05,,Support Team,2025-09-05 14:20:31
+TKT-000093,Critical,Resolved,Server,High CPU usage,Server issue on db-server-03,2025-11-23,2025-11-27,Infrastructure Team,2025-11-23 14:20:31
+TKT-000094,Low,In Progress,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-10-02,,Support Team,2025-10-02 14:20:31
+TKT-000095,Low,Resolved,Email,Email not syncing,Email service issue. Mail client: Outlook,2025-06-24,2025-06-30,IT Team,2025-06-24 14:20:31
+TKT-000096,High,Open,Printer,Printer not printing,Printer malfunction in Reception,2025-11-25,,IT Team,2025-11-25 14:20:31
+TKT-000097,Low,Open,Printer,Toner replacement,Printer malfunction in Floor 3,2025-09-13,,Network Team,2025-09-13 14:20:31
+TKT-000098,High,Closed,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-11-30,2026-01-21,DevOps Team,2025-11-30 14:20:31
+TKT-000099,High,Open,Software,Software installation request,Software problem affecting productivity. Application: Office Suite,2025-12-03,,Security Team,2025-12-03 14:20:31
+TKT-000100,Critical,Closed,Server,High CPU usage,Server issue on web-server-01,2025-06-24,2025-07-19,Network Team,2025-06-24 14:20:31
+TKT-000101,Low,In Progress,Printer,Print quality issue,Printer malfunction in Floor 2,2025-08-27,,DevOps Team,2025-08-27 14:20:31
+TKT-000102,Low,On Hold,Database,Database connection error,Database issue affecting staging environment,2025-07-16,,Infrastructure Team,2025-07-16 14:20:31
+TKT-000103,High,Resolved,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-11-28,2026-01-10,Help Desk,2025-11-28 14:20:31
+TKT-000104,High,Open,Printer,Paper jam,Printer malfunction in Reception,2025-07-26,,IT Team,2025-07-26 14:20:31
+TKT-000105,High,In Progress,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-11-22,,Help Desk,2025-11-22 14:20:31
+TKT-000106,High,In Progress,Software,Software installation request,Software problem affecting productivity. Application: Office Suite,2025-10-31,,Security Team,2025-10-31 14:20:31
+TKT-000107,High,On Hold,Email,Email account setup,Email service issue. Mail client: Gmail,2025-08-04,,Help Desk,2025-08-04 14:20:31
+TKT-000108,Critical,Resolved,Hardware,Monitor flickering,Hardware issue reported by user. Device: Laptop,2025-08-20,2025-08-21,Help Desk,2025-08-20 14:20:31
+TKT-000109,Medium,Resolved,Access,Account locked,User access issue. Type: New hire,2025-12-02,2026-01-28,Help Desk,2025-12-02 14:20:31
+TKT-000110,Medium,Open,Database,Access permission,Database issue affecting development environment,2025-06-11,,Help Desk,2025-06-11 14:20:31
+TKT-000111,Critical,Resolved,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-10-29,2025-11-23,IT Team,2025-10-29 14:20:31
+TKT-000112,Medium,Closed,Printer,Printer not printing,Printer malfunction in Floor 2,2025-06-25,2025-08-10,Support Team,2025-06-25 14:20:31
+TKT-000113,Medium,On Hold,Network,Cannot access shared drive,Network connectivity issue affecting 15 users in Remote,2025-08-17,,Database Team,2025-08-17 14:20:31
+TKT-000114,High,On Hold,Network,Network printer offline,Network connectivity issue affecting 22 users in Building B,2025-07-13,,Network Team,2025-07-13 14:20:31
+TKT-000115,High,Closed,Access,Account locked,User access issue. Type: Department transfer,2025-06-12,2025-07-28,DevOps Team,2025-06-12 14:20:31
+TKT-000116,Critical,Closed,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-11-28,2025-12-17,Infrastructure Team,2025-11-28 14:20:31
+TKT-000117,High,In Progress,Other,General inquiry,General IT support request,2025-07-01,,Database Team,2025-07-01 14:20:31
+TKT-000118,Low,In Progress,Security,SSL certificate expired,Security concern reported. Impact: Organization-wide,2025-09-04,,Support Team,2025-09-04 14:20:31
+TKT-000119,Low,Open,Printer,Toner replacement,Printer malfunction in Floor 2,2025-11-03,,IT Team,2025-11-03 14:20:31
+TKT-000120,Medium,Closed,Network,WiFi not working,Network connectivity issue affecting 48 users in Building A,2025-09-12,2025-10-16,Security Team,2025-09-12 14:20:31
+TKT-000121,Critical,On Hold,Server,Application deployment,Server issue on app-server-02,2025-07-02,,Support Team,2025-07-02 14:20:31
+TKT-000122,Critical,Closed,Database,Query performance slow,Database issue affecting staging environment,2025-09-20,2025-09-24,Help Desk,2025-09-20 14:20:31
+TKT-000123,High,Closed,Printer,Printer driver needed,Printer malfunction in Floor 2,2025-09-05,2025-11-01,Network Team,2025-09-05 14:20:31
+TKT-000124,High,Resolved,Database,Access permission,Database issue affecting staging environment,2025-07-29,2025-08-29,Support Team,2025-07-29 14:20:31
+TKT-000125,High,Resolved,Server,Application deployment,Server issue on app-server-02,2025-10-03,2025-10-25,DevOps Team,2025-10-03 14:20:31
+TKT-000126,Low,Open,Printer,Printer driver needed,Printer malfunction in Floor 3,2025-10-31,,Infrastructure Team,2025-10-31 14:20:31
+TKT-000127,Critical,In Progress,Server,High CPU usage,Server issue on web-server-01,2025-07-22,,IT Team,2025-07-22 14:20:31
+TKT-000128,Critical,Resolved,Other,Documentation needed,General IT support request,2025-08-04,2025-08-31,Security Team,2025-08-04 14:20:31
+TKT-000129,Low,Closed,Database,Query performance slow,Database issue affecting production environment,2025-09-11,2025-09-25,Infrastructure Team,2025-09-11 14:20:31
+TKT-000130,Critical,Open,Network,Slow internet,Network connectivity issue affecting 12 users in Remote,2025-10-07,,Network Team,2025-10-07 14:20:31
+TKT-000131,Medium,On Hold,Hardware,Monitor flickering,Hardware issue reported by user. Device: Laptop,2025-06-19,,Infrastructure Team,2025-06-19 14:20:31
+TKT-000132,Medium,Resolved,Network,Slow internet,Network connectivity issue affecting 29 users in Remote,2025-09-02,2025-09-12,Support Team,2025-09-02 14:20:31
+TKT-000133,Critical,Open,Network,Slow internet,Network connectivity issue affecting 23 users in Building B,2025-08-22,,Support Team,2025-08-22 14:20:31
+TKT-000134,Critical,Closed,Server,Disk space full,Server issue on web-server-01,2025-06-16,2025-06-22,Help Desk,2025-06-16 14:20:31
+TKT-000135,Medium,Resolved,Security,SSL certificate expired,Security concern reported. Impact: Department,2025-09-10,2025-09-24,Security Team,2025-09-10 14:20:31
+TKT-000136,High,On Hold,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-08-11,,Network Team,2025-08-11 14:20:31
+TKT-000137,High,In Progress,Printer,Toner replacement,Printer malfunction in Floor 3,2025-06-17,,Support Team,2025-06-17 14:20:31
+TKT-000138,High,Closed,Email,Spam filtering,Email service issue. Mail client: Web Mail,2025-07-23,2025-08-22,Network Team,2025-07-23 14:20:31
+TKT-000139,Medium,On Hold,Network,Cannot access shared drive,Network connectivity issue affecting 15 users in Building B,2025-07-26,,Support Team,2025-07-26 14:20:31
+TKT-000140,Critical,Resolved,Network,Cannot access shared drive,Network connectivity issue affecting 27 users in Remote,2025-07-01,2025-07-12,Security Team,2025-07-01 14:20:31
+TKT-000141,Critical,Resolved,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-08-09,2025-08-27,IT Team,2025-08-09 14:20:31
+TKT-000142,Low,Open,Server,Application deployment,Server issue on app-server-02,2025-09-17,,Network Team,2025-09-17 14:20:31
+TKT-000143,Low,Resolved,Security,Virus detected,Security concern reported. Impact: Single user,2025-06-16,2025-07-02,Database Team,2025-06-16 14:20:31
+TKT-000144,High,In Progress,Database,Data corruption,Database issue affecting production environment,2025-08-04,,Help Desk,2025-08-04 14:20:31
+TKT-000145,Medium,On Hold,Network,WiFi not working,Network connectivity issue affecting 27 users in Building B,2025-11-15,,Support Team,2025-11-15 14:20:31
+TKT-000146,Low,On Hold,Email,Email not syncing,Email service issue. Mail client: Web Mail,2025-11-03,,Security Team,2025-11-03 14:20:31
+TKT-000147,High,Open,Server,High CPU usage,Server issue on app-server-02,2025-10-02,,Infrastructure Team,2025-10-02 14:20:31
+TKT-000148,Medium,In Progress,Server,Disk space full,Server issue on web-server-01,2025-09-08,,Support Team,2025-09-08 14:20:31
+TKT-000149,High,On Hold,Server,Server down,Server issue on web-server-01,2025-10-22,,Security Team,2025-10-22 14:20:31
+TKT-000150,Medium,Resolved,Network,VPN connection issues,Network connectivity issue affecting 27 users in Building A,2025-11-11,2025-12-04,Support Team,2025-11-11 14:20:31
+TKT-000151,Low,In Progress,Access,Account locked,User access issue. Type: Role change,2025-10-26,,Network Team,2025-10-26 14:20:31
+TKT-000152,High,In Progress,Software,Application crash,Software problem affecting productivity. Application: Office Suite,2025-09-20,,Network Team,2025-09-20 14:20:31
+TKT-000153,Critical,On Hold,Network,VPN connection issues,Network connectivity issue affecting 20 users in Building A,2025-08-28,,IT Team,2025-08-28 14:20:31
+TKT-000154,Low,Resolved,Other,Request for help,General IT support request,2025-11-17,2025-12-10,Security Team,2025-11-17 14:20:31
+TKT-000155,High,On Hold,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-11-25,,Network Team,2025-11-25 14:20:31
+TKT-000156,Low,In Progress,Network,VPN connection issues,Network connectivity issue affecting 3 users in Building B,2025-10-13,,Network Team,2025-10-13 14:20:31
+TKT-000157,Low,Resolved,Network,Network printer offline,Network connectivity issue affecting 35 users in Building B,2025-09-20,2025-10-09,IT Team,2025-09-20 14:20:31
+TKT-000158,High,In Progress,Software,Software installation request,Software problem affecting productivity. Application: Office Suite,2025-10-16,,Help Desk,2025-10-16 14:20:31
+TKT-000159,High,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Monitor,2025-08-09,2025-09-13,Database Team,2025-08-09 14:20:31
+TKT-000160,Low,Resolved,Email,Spam filtering,Email service issue. Mail client: Outlook,2025-12-06,2025-12-19,Database Team,2025-12-06 14:20:31
+TKT-000161,High,In Progress,Other,General inquiry,General IT support request,2025-08-20,,Support Team,2025-08-20 14:20:31
+TKT-000162,Critical,In Progress,Other,Feedback,General IT support request,2025-08-23,,Security Team,2025-08-23 14:20:31
+TKT-000163,High,On Hold,Network,VPN connection issues,Network connectivity issue affecting 37 users in Building A,2025-09-05,,DevOps Team,2025-09-05 14:20:31
+TKT-000164,High,In Progress,Server,Service not responding,Server issue on app-server-02,2025-07-08,,Support Team,2025-07-08 14:20:31
+TKT-000165,Critical,Closed,Server,Application deployment,Server issue on web-server-01,2025-11-15,2025-11-16,IT Team,2025-11-15 14:20:31
+TKT-000166,Critical,In Progress,Database,Database connection error,Database issue affecting staging environment,2025-09-18,,Support Team,2025-09-18 14:20:31
+TKT-000167,High,In Progress,Server,Service not responding,Server issue on db-server-03,2025-10-23,,Infrastructure Team,2025-10-23 14:20:31
+TKT-000168,Medium,On Hold,Other,General inquiry,General IT support request,2025-08-20,,Help Desk,2025-08-20 14:20:31
+TKT-000169,Medium,On Hold,Other,Documentation needed,General IT support request,2025-09-20,,IT Team,2025-09-20 14:20:31
+TKT-000170,Low,Resolved,Other,Feature request,General IT support request,2025-12-01,2026-01-09,Help Desk,2025-12-01 14:20:31
+TKT-000171,Low,On Hold,Printer,Toner replacement,Printer malfunction in Reception,2025-10-26,,Network Team,2025-10-26 14:20:31
+TKT-000172,High,In Progress,Software,Software installation request,Software problem affecting productivity. Application: IDE,2025-07-03,,Database Team,2025-07-03 14:20:31
+TKT-000173,Critical,Resolved,Database,Database connection error,Database issue affecting staging environment,2025-06-23,2025-07-14,Network Team,2025-06-23 14:20:31
+TKT-000174,High,On Hold,Printer,Print quality issue,Printer malfunction in Floor 1,2025-10-30,,Security Team,2025-10-30 14:20:31
+TKT-000175,Critical,Open,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-09-26,,Network Team,2025-09-26 14:20:31
+TKT-000176,High,Open,Access,Account locked,User access issue. Type: Contractor,2025-07-06,,IT Team,2025-07-06 14:20:31
+TKT-000177,Medium,On Hold,Printer,Print quality issue,Printer malfunction in Reception,2025-07-13,,Infrastructure Team,2025-07-13 14:20:31
+TKT-000178,Low,Resolved,Other,Documentation needed,General IT support request,2025-06-28,2025-07-18,Infrastructure Team,2025-06-28 14:20:31
+TKT-000179,High,On Hold,Security,Virus detected,Security concern reported. Impact: Department,2025-07-25,,Support Team,2025-07-25 14:20:31
+TKT-000180,High,On Hold,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-06-24,,Infrastructure Team,2025-06-24 14:20:31
+TKT-000181,High,In Progress,Network,Network printer offline,Network connectivity issue affecting 7 users in Remote,2025-07-31,,Support Team,2025-07-31 14:20:31
+TKT-000182,Low,Open,Hardware,Mouse not responding,Hardware issue reported by user. Device: Peripheral,2025-11-19,,IT Team,2025-11-19 14:20:31
+TKT-000183,High,Open,Network,Network printer offline,Network connectivity issue affecting 34 users in Remote,2025-06-19,,DevOps Team,2025-06-19 14:20:31
+TKT-000184,Medium,In Progress,Hardware,Hard drive failure,Hardware issue reported by user. Device: Desktop,2025-11-05,,Help Desk,2025-11-05 14:20:31
+TKT-000185,Critical,In Progress,Email,Email account setup,Email service issue. Mail client: Web Mail,2025-10-24,,DevOps Team,2025-10-24 14:20:31
+TKT-000186,Medium,Open,Access,Access denied,User access issue. Type: New hire,2025-08-11,,DevOps Team,2025-08-11 14:20:31
+TKT-000187,Low,On Hold,Server,Server down,Server issue on web-server-01,2025-09-09,,Support Team,2025-09-09 14:20:31
+TKT-000188,Medium,In Progress,Email,Spam filtering,Email service issue. Mail client: Outlook,2025-06-14,,Help Desk,2025-06-14 14:20:31
+TKT-000189,Medium,Open,Hardware,Laptop not working,Hardware issue reported by user. Device: Peripheral,2025-06-26,,Database Team,2025-06-26 14:20:31
+TKT-000190,Medium,In Progress,Software,Performance issue,Software problem affecting productivity. Application: Browser,2025-06-21,,Help Desk,2025-06-21 14:20:31
+TKT-000191,Medium,Closed,Server,Server down,Server issue on db-server-03,2025-08-23,2025-08-25,Security Team,2025-08-23 14:20:31
+TKT-000192,High,In Progress,Other,Feedback,General IT support request,2025-06-12,,Database Team,2025-06-12 14:20:31
+TKT-000193,High,Open,Email,Cannot send emails,Email service issue. Mail client: Outlook,2025-08-05,,Support Team,2025-08-05 14:20:31
+TKT-000194,Medium,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Peripheral,2025-09-19,,Security Team,2025-09-19 14:20:31
+TKT-000195,Low,Open,Database,Database connection error,Database issue affecting development environment,2025-11-27,,Support Team,2025-11-27 14:20:31
+TKT-000196,Medium,On Hold,Software,Application crash,Software problem affecting productivity. Application: Browser,2025-07-05,,Support Team,2025-07-05 14:20:31
+TKT-000197,High,Resolved,Printer,Printer not printing,Printer malfunction in Floor 1,2025-07-23,2025-09-11,Database Team,2025-07-23 14:20:31
+TKT-000198,Low,Open,Other,Feedback,General IT support request,2025-07-05,,Security Team,2025-07-05 14:20:31
+TKT-000199,Critical,On Hold,Access,Access denied,User access issue. Type: Role change,2025-07-10,,Support Team,2025-07-10 14:20:31
+TKT-000200,High,Resolved,Database,Access permission,Database issue affecting development environment,2025-08-22,2025-10-11,Network Team,2025-08-22 14:20:31
+TKT-000201,Critical,Closed,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-10-10,2025-10-24,Network Team,2025-10-10 14:20:31
+TKT-000202,Low,Resolved,Software,Update failed,Software problem affecting productivity. Application: Browser,2025-09-28,2025-10-05,Infrastructure Team,2025-09-28 14:20:31
+TKT-000203,Low,Open,Printer,Paper jam,Printer malfunction in Floor 2,2025-09-30,,DevOps Team,2025-09-30 14:20:31
+TKT-000204,High,In Progress,Email,Cannot send emails,Email service issue. Mail client: Gmail,2025-08-07,,Support Team,2025-08-07 14:20:31
+TKT-000205,Critical,Resolved,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-09-29,2025-10-25,IT Team,2025-09-29 14:20:31
+TKT-000206,High,Open,Database,Query performance slow,Database issue affecting production environment,2025-11-09,,Infrastructure Team,2025-11-09 14:20:31
+TKT-000207,High,Closed,Security,Suspicious activity,Security concern reported. Impact: Department,2025-08-05,2025-09-27,Network Team,2025-08-05 14:20:31
+TKT-000208,Low,In Progress,Network,Slow internet,Network connectivity issue affecting 20 users in Building A,2025-10-16,,Security Team,2025-10-16 14:20:31
+TKT-000209,Low,Resolved,Other,General inquiry,General IT support request,2025-11-19,2026-01-03,Support Team,2025-11-19 14:20:31
+TKT-000210,Medium,Closed,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-08-21,2025-10-05,IT Team,2025-08-21 14:20:31
+TKT-000211,Low,In Progress,Printer,Printer driver needed,Printer malfunction in Reception,2025-09-07,,Network Team,2025-09-07 14:20:31
+TKT-000212,High,In Progress,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-08-14,,Security Team,2025-08-14 14:20:31
+TKT-000213,Critical,On Hold,Server,Service not responding,Server issue on db-server-03,2025-12-03,,Network Team,2025-12-03 14:20:31
+TKT-000214,High,On Hold,Security,SSL certificate expired,Security concern reported. Impact: Department,2025-11-11,,Security Team,2025-11-11 14:20:31
+TKT-000215,High,Resolved,Network,Slow internet,Network connectivity issue affecting 11 users in Building B,2025-06-20,2025-08-10,Support Team,2025-06-20 14:20:31
+TKT-000216,Low,Resolved,Security,Suspicious activity,Security concern reported. Impact: Single user,2025-11-23,2025-12-03,Network Team,2025-11-23 14:20:31
+TKT-000217,Critical,Open,Network,Slow internet,Network connectivity issue affecting 15 users in Remote,2025-10-17,,Support Team,2025-10-17 14:20:31
+TKT-000218,Low,Closed,Security,Suspicious activity,Security concern reported. Impact: Organization-wide,2025-11-13,2025-12-26,Security Team,2025-11-13 14:20:31
+TKT-000219,High,On Hold,Network,Cannot access shared drive,Network connectivity issue affecting 35 users in Building B,2025-10-16,,DevOps Team,2025-10-16 14:20:31
+TKT-000220,Low,Resolved,Database,Query performance slow,Database issue affecting staging environment,2025-06-11,2025-06-23,Help Desk,2025-06-11 14:20:31
+TKT-000221,Critical,In Progress,Hardware,Mouse not responding,Hardware issue reported by user. Device: Laptop,2025-11-21,,DevOps Team,2025-11-21 14:20:31
+TKT-000222,High,Open,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-08-29,,Security Team,2025-08-29 14:20:31
+TKT-000223,High,Resolved,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-11-28,2025-12-09,Database Team,2025-11-28 14:20:31
+TKT-000224,Low,On Hold,Access,New user setup,User access issue. Type: Role change,2025-08-09,,DevOps Team,2025-08-09 14:20:31
+TKT-000225,High,Closed,Access,Access denied,User access issue. Type: New hire,2025-08-11,2025-10-02,Infrastructure Team,2025-08-11 14:20:31
+TKT-000226,Low,Resolved,Access,Access denied,User access issue. Type: New hire,2025-10-21,2025-11-28,DevOps Team,2025-10-21 14:20:31
+TKT-000227,Critical,Open,Database,Access permission,Database issue affecting production environment,2025-07-28,,Help Desk,2025-07-28 14:20:31
+TKT-000228,High,Closed,Email,Email account setup,Email service issue. Mail client: Outlook,2025-11-14,2025-11-15,Support Team,2025-11-14 14:20:31
+TKT-000229,Critical,Closed,Network,Network printer offline,Network connectivity issue affecting 2 users in Building B,2025-08-12,2025-08-19,DevOps Team,2025-08-12 14:20:31
+TKT-000230,Critical,Open,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-11-01,,Database Team,2025-11-01 14:20:31
+TKT-000231,Medium,Resolved,Server,Server down,Server issue on db-server-03,2025-08-10,2025-09-09,Support Team,2025-08-10 14:20:31
+TKT-000232,Medium,Closed,Database,Data corruption,Database issue affecting development environment,2025-07-03,2025-08-07,Support Team,2025-07-03 14:20:31
+TKT-000233,Critical,Open,Hardware,Hard drive failure,Hardware issue reported by user. Device: Monitor,2025-07-26,,Security Team,2025-07-26 14:20:31
+TKT-000234,Low,Closed,Email,Attachment size limit,Email service issue. Mail client: Gmail,2025-11-16,2025-11-25,Database Team,2025-11-16 14:20:31
+TKT-000235,Low,Open,Email,Spam filtering,Email service issue. Mail client: Web Mail,2025-10-06,,Support Team,2025-10-06 14:20:31
+TKT-000236,Low,In Progress,Database,Database connection error,Database issue affecting staging environment,2025-07-01,,Security Team,2025-07-01 14:20:31
+TKT-000237,High,Resolved,Other,Documentation needed,General IT support request,2025-07-02,2025-07-18,Database Team,2025-07-02 14:20:31
+TKT-000238,Medium,Closed,Access,Password reset,User access issue. Type: Department transfer,2025-07-18,2025-08-13,Database Team,2025-07-18 14:20:31
+TKT-000239,Medium,Closed,Security,Firewall configuration,Security concern reported. Impact: Department,2025-08-28,2025-09-03,Support Team,2025-08-28 14:20:31
+TKT-000240,Critical,In Progress,Network,WiFi not working,Network connectivity issue affecting 49 users in Building B,2025-11-02,,IT Team,2025-11-02 14:20:31
+TKT-000241,Medium,In Progress,Network,Network printer offline,Network connectivity issue affecting 25 users in Building A,2025-09-06,,Security Team,2025-09-06 14:20:31
+TKT-000242,High,On Hold,Printer,Printer driver needed,Printer malfunction in Floor 3,2025-11-03,,Infrastructure Team,2025-11-03 14:20:31
+TKT-000243,High,Resolved,Database,Database connection error,Database issue affecting staging environment,2025-09-02,2025-10-31,Support Team,2025-09-02 14:20:31
+TKT-000244,Medium,Resolved,Printer,Paper jam,Printer malfunction in Reception,2025-07-08,2025-07-17,Security Team,2025-07-08 14:20:31
+TKT-000245,Medium,Closed,Database,Query performance slow,Database issue affecting staging environment,2025-07-16,2025-07-24,Infrastructure Team,2025-07-16 14:20:31
+TKT-000246,Medium,In Progress,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-10-02,,Help Desk,2025-10-02 14:20:31
+TKT-000247,Medium,On Hold,Printer,Print quality issue,Printer malfunction in Floor 3,2025-07-05,,DevOps Team,2025-07-05 14:20:31
+TKT-000248,Low,On Hold,Software,Performance issue,Software problem affecting productivity. Application: Browser,2025-11-23,,Network Team,2025-11-23 14:20:31
+TKT-000249,High,In Progress,Database,Database connection error,Database issue affecting development environment,2025-11-06,,DevOps Team,2025-11-06 14:20:31
+TKT-000250,Medium,Closed,Printer,Printer driver needed,Printer malfunction in Floor 3,2025-09-11,2025-10-14,DevOps Team,2025-09-11 14:20:31
+TKT-000251,Low,Resolved,Network,Cannot access shared drive,Network connectivity issue affecting 37 users in Remote,2025-07-05,2025-08-26,IT Team,2025-07-05 14:20:31
+TKT-000252,Critical,Resolved,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-08-24,2025-09-02,IT Team,2025-08-24 14:20:31
+TKT-000253,Critical,In Progress,Network,Network printer offline,Network connectivity issue affecting 5 users in Building A,2025-09-10,,IT Team,2025-09-10 14:20:31
+TKT-000254,Critical,Closed,Other,Feature request,General IT support request,2025-08-11,2025-08-25,Help Desk,2025-08-11 14:20:31
+TKT-000255,Critical,In Progress,Database,Query performance slow,Database issue affecting development environment,2025-11-22,,DevOps Team,2025-11-22 14:20:31
+TKT-000256,Low,Closed,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-07-02,2025-08-24,Infrastructure Team,2025-07-02 14:20:31
+TKT-000257,Critical,On Hold,Access,New user setup,User access issue. Type: Department transfer,2025-07-29,,Network Team,2025-07-29 14:20:31
+TKT-000258,Critical,On Hold,Other,General inquiry,General IT support request,2025-09-23,,IT Team,2025-09-23 14:20:31
+TKT-000259,Low,On Hold,Email,Email account setup,Email service issue. Mail client: Outlook,2025-06-22,,Security Team,2025-06-22 14:20:31
+TKT-000260,Critical,Closed,Other,Documentation needed,General IT support request,2025-08-11,2025-08-23,IT Team,2025-08-11 14:20:31
+TKT-000261,High,In Progress,Database,Access permission,Database issue affecting production environment,2025-06-12,,Database Team,2025-06-12 14:20:31
+TKT-000262,High,Closed,Security,SSL certificate expired,Security concern reported. Impact: Organization-wide,2025-07-21,2025-08-06,IT Team,2025-07-21 14:20:31
+TKT-000263,Low,Closed,Network,Slow internet,Network connectivity issue affecting 6 users in Building A,2025-10-08,2025-11-08,Infrastructure Team,2025-10-08 14:20:31
+TKT-000264,High,In Progress,Security,Firewall configuration,Security concern reported. Impact: Department,2025-10-27,,Database Team,2025-10-27 14:20:31
+TKT-000265,High,Open,Email,Email not syncing,Email service issue. Mail client: Outlook,2025-07-01,,Network Team,2025-07-01 14:20:31
+TKT-000266,Critical,In Progress,Access,Password reset,User access issue. Type: New hire,2025-07-17,,Network Team,2025-07-17 14:20:31
+TKT-000267,Medium,Closed,Other,General inquiry,General IT support request,2025-06-11,2025-07-01,Security Team,2025-06-11 14:20:31
+TKT-000268,Medium,Open,Other,Feature request,General IT support request,2025-09-27,,Support Team,2025-09-27 14:20:31
+TKT-000269,Medium,Open,Server,High CPU usage,Server issue on web-server-01,2025-11-07,,DevOps Team,2025-11-07 14:20:31
+TKT-000270,Medium,In Progress,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-06-23,,Security Team,2025-06-23 14:20:31
+TKT-000271,Low,Resolved,Database,Query performance slow,Database issue affecting development environment,2025-09-18,2025-09-27,Security Team,2025-09-18 14:20:31
+TKT-000272,High,On Hold,Database,Database connection error,Database issue affecting development environment,2025-08-19,,IT Team,2025-08-19 14:20:31
+TKT-000273,Medium,Resolved,Server,Application deployment,Server issue on app-server-02,2025-06-11,2025-07-04,Help Desk,2025-06-11 14:20:31
+TKT-000274,Critical,Resolved,Security,Suspicious activity,Security concern reported. Impact: Organization-wide,2025-12-03,2025-12-17,Security Team,2025-12-03 14:20:31
+TKT-000275,Medium,Resolved,Hardware,Mouse not responding,Hardware issue reported by user. Device: Laptop,2025-10-03,2025-10-08,Help Desk,2025-10-03 14:20:31
+TKT-000276,High,Closed,Other,Feedback,General IT support request,2025-09-18,2025-10-23,Database Team,2025-09-18 14:20:31
+TKT-000277,Medium,In Progress,Other,Documentation needed,General IT support request,2025-09-22,,IT Team,2025-09-22 14:20:31
+TKT-000278,Medium,On Hold,Other,Documentation needed,General IT support request,2025-10-05,,Help Desk,2025-10-05 14:20:31
+TKT-000279,Critical,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-06-24,,Support Team,2025-06-24 14:20:31
+TKT-000280,Medium,Resolved,Security,Firewall configuration,Security concern reported. Impact: Department,2025-12-01,2025-12-31,IT Team,2025-12-01 14:20:31
+TKT-000281,Medium,Closed,Server,High CPU usage,Server issue on db-server-03,2025-10-13,2025-11-03,DevOps Team,2025-10-13 14:20:31
+TKT-000282,High,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-09-28,,Help Desk,2025-09-28 14:20:31
+TKT-000283,Critical,Closed,Printer,Toner replacement,Printer malfunction in Floor 1,2025-09-08,2025-09-17,DevOps Team,2025-09-08 14:20:31
+TKT-000284,Critical,Closed,Server,High CPU usage,Server issue on app-server-02,2025-11-11,2025-11-27,Help Desk,2025-11-11 14:20:31
+TKT-000285,High,In Progress,Other,General inquiry,General IT support request,2025-08-26,,Support Team,2025-08-26 14:20:31
+TKT-000286,Medium,Closed,Database,Access permission,Database issue affecting production environment,2025-08-05,2025-09-21,Infrastructure Team,2025-08-05 14:20:31
+TKT-000287,Low,Open,Software,Update failed,Software problem affecting productivity. Application: Custom App,2025-08-23,,Security Team,2025-08-23 14:20:31
+TKT-000288,High,On Hold,Hardware,Mouse not responding,Hardware issue reported by user. Device: Peripheral,2025-10-19,,Help Desk,2025-10-19 14:20:31
+TKT-000289,Critical,Resolved,Other,General inquiry,General IT support request,2025-10-06,2025-11-04,Network Team,2025-10-06 14:20:31
+TKT-000290,Low,Closed,Hardware,Hard drive failure,Hardware issue reported by user. Device: Peripheral,2025-06-28,2025-07-15,IT Team,2025-06-28 14:20:31
+TKT-000291,Low,Closed,Software,Performance issue,Software problem affecting productivity. Application: Office Suite,2025-08-19,2025-08-28,DevOps Team,2025-08-19 14:20:31
+TKT-000292,High,Closed,Printer,Print quality issue,Printer malfunction in Reception,2025-08-01,2025-09-17,Infrastructure Team,2025-08-01 14:20:31
+TKT-000293,Critical,Resolved,Other,Request for help,General IT support request,2025-10-01,2025-10-03,Database Team,2025-10-01 14:20:31
+TKT-000294,Low,In Progress,Access,Permission request,User access issue. Type: New hire,2025-10-19,,Network Team,2025-10-19 14:20:31
+TKT-000295,Critical,On Hold,Server,Application deployment,Server issue on web-server-01,2025-09-20,,DevOps Team,2025-09-20 14:20:31
+TKT-000296,Critical,Resolved,Other,Feedback,General IT support request,2025-08-03,2025-08-19,DevOps Team,2025-08-03 14:20:31
+TKT-000297,Critical,Open,Network,Cannot access shared drive,Network connectivity issue affecting 41 users in Remote,2025-06-16,,Support Team,2025-06-16 14:20:31
+TKT-000298,Critical,Closed,Printer,Printer not printing,Printer malfunction in Floor 2,2025-10-07,2025-10-20,Network Team,2025-10-07 14:20:31
+TKT-000299,Medium,Open,Software,Performance issue,Software problem affecting productivity. Application: Custom App,2025-12-01,,Security Team,2025-12-01 14:20:31
+TKT-000300,Medium,Open,Printer,Print quality issue,Printer malfunction in Floor 2,2025-11-19,,Network Team,2025-11-19 14:20:31
+TKT-000301,Low,Resolved,Server,Service not responding,Server issue on web-server-01,2025-08-01,2025-09-22,IT Team,2025-08-01 14:20:31
+TKT-000302,Medium,Open,Other,Request for help,General IT support request,2025-11-21,,Network Team,2025-11-21 14:20:31
+TKT-000303,Medium,In Progress,Database,Data corruption,Database issue affecting production environment,2025-08-21,,IT Team,2025-08-21 14:20:31
+TKT-000304,Low,On Hold,Database,Query performance slow,Database issue affecting production environment,2025-08-16,,IT Team,2025-08-16 14:20:31
+TKT-000305,Critical,Closed,Printer,Printer not printing,Printer malfunction in Reception,2025-09-30,2025-10-20,Security Team,2025-09-30 14:20:31
+TKT-000306,Critical,On Hold,Database,Query performance slow,Database issue affecting staging environment,2025-08-20,,IT Team,2025-08-20 14:20:31
+TKT-000307,Medium,In Progress,Access,Access denied,User access issue. Type: New hire,2025-11-29,,Support Team,2025-11-29 14:20:31
+TKT-000308,Low,Closed,Software,License renewal,Software problem affecting productivity. Application: Browser,2025-10-23,2025-12-01,DevOps Team,2025-10-23 14:20:31
+TKT-000309,Low,In Progress,Server,Disk space full,Server issue on db-server-03,2025-11-12,,Support Team,2025-11-12 14:20:31
+TKT-000310,Critical,On Hold,Database,Database connection error,Database issue affecting production environment,2025-08-17,,DevOps Team,2025-08-17 14:20:31
+TKT-000311,Medium,Resolved,Network,Cannot access shared drive,Network connectivity issue affecting 11 users in Building B,2025-06-22,2025-07-21,Network Team,2025-06-22 14:20:31
+TKT-000312,Medium,On Hold,Database,Access permission,Database issue affecting development environment,2025-10-02,,Security Team,2025-10-02 14:20:31
+TKT-000313,Medium,On Hold,Database,Backup failed,Database issue affecting staging environment,2025-11-25,,Help Desk,2025-11-25 14:20:31
+TKT-000314,Critical,Closed,Email,Spam filtering,Email service issue. Mail client: Thunderbird,2025-09-12,2025-10-08,Security Team,2025-09-12 14:20:31
+TKT-000315,Critical,Resolved,Other,Feature request,General IT support request,2025-07-28,2025-08-27,IT Team,2025-07-28 14:20:31
+TKT-000316,Low,Open,Software,Update failed,Software problem affecting productivity. Application: IDE,2025-11-27,,Support Team,2025-11-27 14:20:31
+TKT-000317,High,Closed,Software,Application crash,Software problem affecting productivity. Application: Office Suite,2025-08-23,2025-09-19,Help Desk,2025-08-23 14:20:31
+TKT-000318,Critical,On Hold,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-09-14,,Security Team,2025-09-14 14:20:31
+TKT-000319,Critical,Closed,Printer,Paper jam,Printer malfunction in Reception,2025-08-16,2025-08-20,IT Team,2025-08-16 14:20:31
+TKT-000320,Critical,Open,Database,Query performance slow,Database issue affecting production environment,2025-08-31,,Network Team,2025-08-31 14:20:31
+TKT-000321,Medium,On Hold,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-10-18,,Support Team,2025-10-18 14:20:31
+TKT-000322,Critical,Closed,Software,Update failed,Software problem affecting productivity. Application: Custom App,2025-09-24,2025-09-27,IT Team,2025-09-24 14:20:31
+TKT-000323,Low,On Hold,Email,Email account setup,Email service issue. Mail client: Outlook,2025-10-14,,Infrastructure Team,2025-10-14 14:20:31
+TKT-000324,Critical,On Hold,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-07-08,,Network Team,2025-07-08 14:20:31
+TKT-000325,Medium,On Hold,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-06-27,,Infrastructure Team,2025-06-27 14:20:31
+TKT-000326,Low,In Progress,Hardware,Laptop not working,Hardware issue reported by user. Device: Laptop,2025-11-08,,Security Team,2025-11-08 14:20:31
+TKT-000327,Medium,Closed,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-09-15,2025-11-02,Network Team,2025-09-15 14:20:31
+TKT-000328,Medium,In Progress,Software,Application crash,Software problem affecting productivity. Application: Office Suite,2025-10-20,,Network Team,2025-10-20 14:20:31
+TKT-000329,Low,Resolved,Email,Email not syncing,Email service issue. Mail client: Outlook,2025-07-16,2025-07-26,Database Team,2025-07-16 14:20:31
+TKT-000330,Medium,On Hold,Other,Documentation needed,General IT support request,2025-06-15,,Database Team,2025-06-15 14:20:31
+TKT-000331,Medium,Resolved,Printer,Print quality issue,Printer malfunction in Reception,2025-09-16,2025-10-13,Support Team,2025-09-16 14:20:31
+TKT-000332,Medium,In Progress,Database,Access permission,Database issue affecting production environment,2025-07-15,,Network Team,2025-07-15 14:20:31
+TKT-000333,Medium,Resolved,Hardware,Mouse not responding,Hardware issue reported by user. Device: Laptop,2025-10-08,2025-11-10,DevOps Team,2025-10-08 14:20:31
+TKT-000334,High,On Hold,Access,Access denied,User access issue. Type: Role change,2025-07-02,,IT Team,2025-07-02 14:20:31
+TKT-000335,Low,On Hold,Printer,Printer not printing,Printer malfunction in Floor 2,2025-10-26,,Help Desk,2025-10-26 14:20:31
+TKT-000336,Critical,In Progress,Server,Service not responding,Server issue on db-server-03,2025-07-15,,Network Team,2025-07-15 14:20:31
+TKT-000337,Medium,On Hold,Network,Slow internet,Network connectivity issue affecting 9 users in Building A,2025-07-22,,IT Team,2025-07-22 14:20:31
+TKT-000338,High,On Hold,Database,Database connection error,Database issue affecting development environment,2025-07-16,,Security Team,2025-07-16 14:20:31
+TKT-000339,Critical,On Hold,Printer,Toner replacement,Printer malfunction in Floor 2,2025-06-12,,DevOps Team,2025-06-12 14:20:31
+TKT-000340,Low,On Hold,Email,Email not syncing,Email service issue. Mail client: Outlook,2025-08-15,,Network Team,2025-08-15 14:20:31
+TKT-000341,Low,On Hold,Server,Application deployment,Server issue on app-server-02,2025-08-22,,IT Team,2025-08-22 14:20:31
+TKT-000342,Low,Open,Network,WiFi not working,Network connectivity issue affecting 24 users in Building B,2025-10-26,,Support Team,2025-10-26 14:20:31
+TKT-000343,Low,Open,Printer,Paper jam,Printer malfunction in Floor 1,2025-10-05,,Database Team,2025-10-05 14:20:31
+TKT-000344,Low,In Progress,Network,VPN connection issues,Network connectivity issue affecting 9 users in Building A,2025-10-28,,Infrastructure Team,2025-10-28 14:20:31
+TKT-000345,High,Closed,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Laptop,2025-09-07,2025-09-22,Support Team,2025-09-07 14:20:31
+TKT-000346,Critical,Resolved,Email,Spam filtering,Email service issue. Mail client: Thunderbird,2025-09-22,2025-10-18,Security Team,2025-09-22 14:20:31
+TKT-000347,High,On Hold,Printer,Printer not printing,Printer malfunction in Floor 1,2025-07-02,,Infrastructure Team,2025-07-02 14:20:31
+TKT-000348,High,In Progress,Security,SSL certificate expired,Security concern reported. Impact: Department,2025-07-12,,IT Team,2025-07-12 14:20:31
+TKT-000349,Critical,Closed,Database,Backup failed,Database issue affecting development environment,2025-11-16,2025-11-29,Security Team,2025-11-16 14:20:31
+TKT-000350,Low,Resolved,Software,Application crash,Software problem affecting productivity. Application: Browser,2025-09-19,2025-10-14,Network Team,2025-09-19 14:20:31
+TKT-000351,Critical,Closed,Network,Cannot access shared drive,Network connectivity issue affecting 13 users in Remote,2025-07-29,2025-08-12,Database Team,2025-07-29 14:20:31
+TKT-000352,Medium,Closed,Software,Performance issue,Software problem affecting productivity. Application: Browser,2025-09-17,2025-11-06,Support Team,2025-09-17 14:20:31
+TKT-000353,Low,In Progress,Database,Query performance slow,Database issue affecting staging environment,2025-10-01,,Support Team,2025-10-01 14:20:31
+TKT-000354,Medium,On Hold,Other,General inquiry,General IT support request,2025-07-16,,Security Team,2025-07-16 14:20:31
+TKT-000355,Critical,On Hold,Server,Disk space full,Server issue on app-server-02,2025-10-24,,Network Team,2025-10-24 14:20:31
+TKT-000356,Low,Resolved,Database,Backup failed,Database issue affecting production environment,2025-10-08,2025-10-21,Help Desk,2025-10-08 14:20:31
+TKT-000357,High,Resolved,Hardware,Mouse not responding,Hardware issue reported by user. Device: Peripheral,2025-06-26,2025-07-07,Help Desk,2025-06-26 14:20:31
+TKT-000358,High,Open,Database,Data corruption,Database issue affecting development environment,2025-09-20,,Infrastructure Team,2025-09-20 14:20:31
+TKT-000359,Medium,On Hold,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-12-06,,Infrastructure Team,2025-12-06 14:20:31
+TKT-000360,High,In Progress,Software,Application crash,Software problem affecting productivity. Application: Office Suite,2025-10-22,,DevOps Team,2025-10-22 14:20:31
+TKT-000361,Critical,Open,Hardware,Mouse not responding,Hardware issue reported by user. Device: Laptop,2025-07-15,,Network Team,2025-07-15 14:20:31
+TKT-000362,Medium,Closed,Other,General inquiry,General IT support request,2025-07-26,2025-09-06,Security Team,2025-07-26 14:20:31
+TKT-000363,Medium,In Progress,Security,SSL certificate expired,Security concern reported. Impact: Department,2025-08-11,,Security Team,2025-08-11 14:20:31
+TKT-000364,Medium,On Hold,Security,Virus detected,Security concern reported. Impact: Single user,2025-08-27,,DevOps Team,2025-08-27 14:20:31
+TKT-000365,Medium,Resolved,Printer,Print quality issue,Printer malfunction in Floor 2,2025-10-05,2025-10-28,Security Team,2025-10-05 14:20:31
+TKT-000366,Medium,Closed,Database,Access permission,Database issue affecting development environment,2025-06-20,2025-08-01,IT Team,2025-06-20 14:20:31
+TKT-000367,Low,Closed,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-09-06,2025-11-01,Network Team,2025-09-06 14:20:31
+TKT-000368,Low,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-06-12,,IT Team,2025-06-12 14:20:31
+TKT-000369,Critical,Resolved,Security,Virus detected,Security concern reported. Impact: Department,2025-08-13,2025-09-06,IT Team,2025-08-13 14:20:31
+TKT-000370,Critical,Open,Network,Network printer offline,Network connectivity issue affecting 10 users in Remote,2025-09-28,,DevOps Team,2025-09-28 14:20:31
+TKT-000371,Low,Open,Server,Disk space full,Server issue on db-server-03,2025-10-28,,Security Team,2025-10-28 14:20:31
+TKT-000372,Medium,In Progress,Other,Feedback,General IT support request,2025-08-12,,Infrastructure Team,2025-08-12 14:20:31
+TKT-000373,Low,Open,Email,Cannot send emails,Email service issue. Mail client: Thunderbird,2025-10-16,,Database Team,2025-10-16 14:20:31
+TKT-000374,Medium,Closed,Network,Network printer offline,Network connectivity issue affecting 32 users in Remote,2025-10-05,2025-11-17,Network Team,2025-10-05 14:20:31
+TKT-000375,Low,In Progress,Other,Request for help,General IT support request,2025-08-18,,Security Team,2025-08-18 14:20:31
+TKT-000376,Low,Resolved,Access,Password reset,User access issue. Type: Contractor,2025-08-24,2025-10-16,Infrastructure Team,2025-08-24 14:20:31
+TKT-000377,Low,Closed,Server,Application deployment,Server issue on db-server-03,2025-12-02,2025-12-10,Infrastructure Team,2025-12-02 14:20:31
+TKT-000378,High,In Progress,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-10-08,,Database Team,2025-10-08 14:20:31
+TKT-000379,High,Closed,Server,High CPU usage,Server issue on web-server-01,2025-07-30,2025-08-08,Security Team,2025-07-30 14:20:31
+TKT-000380,Critical,In Progress,Other,Documentation needed,General IT support request,2025-06-22,,Help Desk,2025-06-22 14:20:31
+TKT-000381,Low,In Progress,Email,Spam filtering,Email service issue. Mail client: Gmail,2025-08-03,,Help Desk,2025-08-03 14:20:31
+TKT-000382,Critical,In Progress,Security,Virus detected,Security concern reported. Impact: Department,2025-06-27,,Infrastructure Team,2025-06-27 14:20:31
+TKT-000383,Medium,Resolved,Security,Security audit,Security concern reported. Impact: Department,2025-07-04,2025-08-26,IT Team,2025-07-04 14:20:31
+TKT-000384,Critical,Closed,Server,High CPU usage,Server issue on app-server-02,2025-10-31,2025-11-11,Network Team,2025-10-31 14:20:31
+TKT-000385,High,Resolved,Database,Backup failed,Database issue affecting production environment,2025-07-21,2025-09-07,Security Team,2025-07-21 14:20:31
+TKT-000386,Low,In Progress,Other,General inquiry,General IT support request,2025-09-14,,Security Team,2025-09-14 14:20:31
+TKT-000387,High,Open,Printer,Paper jam,Printer malfunction in Floor 1,2025-11-08,,Database Team,2025-11-08 14:20:31
+TKT-000388,Medium,In Progress,Network,Slow internet,Network connectivity issue affecting 15 users in Building B,2025-08-16,,Infrastructure Team,2025-08-16 14:20:31
+TKT-000389,High,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-09-12,2025-10-22,Network Team,2025-09-12 14:20:31
+TKT-000390,High,Closed,Network,WiFi not working,Network connectivity issue affecting 34 users in Remote,2025-07-02,2025-08-12,DevOps Team,2025-07-02 14:20:31
+TKT-000391,Medium,On Hold,Other,Request for help,General IT support request,2025-06-20,,Network Team,2025-06-20 14:20:31
+TKT-000392,Critical,On Hold,Access,Password reset,User access issue. Type: Department transfer,2025-08-01,,Infrastructure Team,2025-08-01 14:20:31
+TKT-000393,Critical,On Hold,Other,Documentation needed,General IT support request,2025-10-02,,IT Team,2025-10-02 14:20:31
+TKT-000394,Critical,Closed,Software,Software installation request,Software problem affecting productivity. Application: Office Suite,2025-07-19,2025-08-03,Support Team,2025-07-19 14:20:31
+TKT-000395,Low,Closed,Software,Performance issue,Software problem affecting productivity. Application: IDE,2025-06-22,2025-07-30,Security Team,2025-06-22 14:20:31
+TKT-000396,High,Open,Database,Backup failed,Database issue affecting staging environment,2025-07-23,,DevOps Team,2025-07-23 14:20:31
+TKT-000397,High,Closed,Printer,Printer driver needed,Printer malfunction in Reception,2025-06-15,2025-06-27,Security Team,2025-06-15 14:20:31
+TKT-000398,Low,Resolved,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-06-26,2025-08-08,DevOps Team,2025-06-26 14:20:31
+TKT-000399,Low,In Progress,Printer,Printer driver needed,Printer malfunction in Reception,2025-07-08,,Help Desk,2025-07-08 14:20:31
+TKT-000400,Low,Closed,Database,Data corruption,Database issue affecting production environment,2025-06-23,2025-07-07,Infrastructure Team,2025-06-23 14:20:31
+TKT-000401,Critical,Resolved,Printer,Paper jam,Printer malfunction in Floor 3,2025-07-31,2025-08-27,Help Desk,2025-07-31 14:20:31
+TKT-000402,Critical,Open,Printer,Printer not printing,Printer malfunction in Floor 1,2025-07-18,,Database Team,2025-07-18 14:20:31
+TKT-000403,Critical,Open,Other,General inquiry,General IT support request,2025-11-26,,IT Team,2025-11-26 14:20:31
+TKT-000404,Low,Open,Security,SSL certificate expired,Security concern reported. Impact: Organization-wide,2025-10-08,,Security Team,2025-10-08 14:20:31
+TKT-000405,High,Open,Network,Cannot access shared drive,Network connectivity issue affecting 2 users in Building B,2025-11-21,,Help Desk,2025-11-21 14:20:31
+TKT-000406,Medium,In Progress,Security,Suspicious activity,Security concern reported. Impact: Single user,2025-08-09,,Security Team,2025-08-09 14:20:31
+TKT-000407,Critical,Resolved,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-08-23,2025-09-12,IT Team,2025-08-23 14:20:31
+TKT-000408,Critical,In Progress,Server,Service not responding,Server issue on app-server-02,2025-08-30,,Help Desk,2025-08-30 14:20:31
+TKT-000409,Critical,On Hold,Server,Disk space full,Server issue on web-server-01,2025-09-19,,Support Team,2025-09-19 14:20:31
+TKT-000410,Medium,Open,Other,Feature request,General IT support request,2025-11-27,,Support Team,2025-11-27 14:20:31
+TKT-000411,High,Closed,Security,Security audit,Security concern reported. Impact: Department,2025-11-20,2025-12-20,Database Team,2025-11-20 14:20:31
+TKT-000412,High,On Hold,Server,Disk space full,Server issue on web-server-01,2025-07-01,,Security Team,2025-07-01 14:20:31
+TKT-000413,Low,Closed,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-06-16,2025-06-19,DevOps Team,2025-06-16 14:20:31
+TKT-000414,Medium,Closed,Server,Disk space full,Server issue on app-server-02,2025-10-02,2025-10-30,Support Team,2025-10-02 14:20:31
+TKT-000415,High,Resolved,Software,License renewal,Software problem affecting productivity. Application: Browser,2025-11-24,2026-01-15,Infrastructure Team,2025-11-24 14:20:31
+TKT-000416,Critical,In Progress,Network,WiFi not working,Network connectivity issue affecting 20 users in Remote,2025-07-14,,Infrastructure Team,2025-07-14 14:20:31
+TKT-000417,High,In Progress,Software,Software installation request,Software problem affecting productivity. Application: Office Suite,2025-11-02,,Infrastructure Team,2025-11-02 14:20:31
+TKT-000418,High,Closed,Network,Network printer offline,Network connectivity issue affecting 4 users in Building A,2025-08-08,2025-10-02,DevOps Team,2025-08-08 14:20:31
+TKT-000419,High,In Progress,Network,WiFi not working,Network connectivity issue affecting 14 users in Building A,2025-07-29,,Help Desk,2025-07-29 14:20:31
+TKT-000420,Medium,Closed,Database,Query performance slow,Database issue affecting staging environment,2025-11-20,2025-12-21,DevOps Team,2025-11-20 14:20:31
+TKT-000421,Critical,Open,Network,WiFi not working,Network connectivity issue affecting 18 users in Remote,2025-10-23,,Security Team,2025-10-23 14:20:31
+TKT-000422,Critical,In Progress,Printer,Toner replacement,Printer malfunction in Floor 2,2025-07-11,,Network Team,2025-07-11 14:20:31
+TKT-000423,Medium,Resolved,Software,Application crash,Software problem affecting productivity. Application: Custom App,2025-09-17,2025-09-29,DevOps Team,2025-09-17 14:20:31
+TKT-000424,Critical,Closed,Server,Server down,Server issue on web-server-01,2025-07-10,2025-07-14,IT Team,2025-07-10 14:20:31
+TKT-000425,High,On Hold,Other,Feedback,General IT support request,2025-12-05,,Help Desk,2025-12-05 14:20:31
+TKT-000426,Critical,Closed,Database,Data corruption,Database issue affecting staging environment,2025-11-05,2025-11-21,Security Team,2025-11-05 14:20:31
+TKT-000427,Critical,In Progress,Access,Account locked,User access issue. Type: Contractor,2025-06-25,,Security Team,2025-06-25 14:20:31
+TKT-000428,Critical,Closed,Software,License renewal,Software problem affecting productivity. Application: Office Suite,2025-11-07,2025-11-16,Infrastructure Team,2025-11-07 14:20:31
+TKT-000429,Low,Resolved,Database,Database connection error,Database issue affecting staging environment,2025-08-11,2025-08-24,Network Team,2025-08-11 14:20:31
+TKT-000430,Critical,On Hold,Server,Server down,Server issue on app-server-02,2025-08-29,,IT Team,2025-08-29 14:20:31
+TKT-000431,Low,Resolved,Email,Email account setup,Email service issue. Mail client: Gmail,2025-06-30,2025-07-11,Database Team,2025-06-30 14:20:31
+TKT-000432,Medium,On Hold,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-06-17,,Infrastructure Team,2025-06-17 14:20:31
+TKT-000433,Low,Closed,Access,Access denied,User access issue. Type: New hire,2025-07-28,2025-08-05,Database Team,2025-07-28 14:20:31
+TKT-000434,Medium,On Hold,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-09-10,,Support Team,2025-09-10 14:20:31
+TKT-000435,Low,Closed,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-08-24,2025-10-02,Infrastructure Team,2025-08-24 14:20:31
+TKT-000436,Critical,On Hold,Other,Feature request,General IT support request,2025-09-14,,Database Team,2025-09-14 14:20:31
+TKT-000437,Low,Closed,Other,General inquiry,General IT support request,2025-08-24,2025-08-29,Support Team,2025-08-24 14:20:31
+TKT-000438,High,Open,Printer,Toner replacement,Printer malfunction in Floor 1,2025-10-22,,IT Team,2025-10-22 14:20:31
+TKT-000439,Critical,Resolved,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-09-15,2025-09-30,Help Desk,2025-09-15 14:20:31
+TKT-000440,Medium,Open,Email,Email account setup,Email service issue. Mail client: Gmail,2025-06-18,,Network Team,2025-06-18 14:20:31
+TKT-000441,Critical,Resolved,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-12-03,2025-12-15,Security Team,2025-12-03 14:20:31
+TKT-000442,Low,On Hold,Access,Access denied,User access issue. Type: Department transfer,2025-07-13,,Network Team,2025-07-13 14:20:31
+TKT-000443,Critical,In Progress,Software,Application crash,Software problem affecting productivity. Application: Custom App,2025-12-03,,Network Team,2025-12-03 14:20:31
+TKT-000444,Low,Resolved,Network,Network printer offline,Network connectivity issue affecting 44 users in Building B,2025-07-11,2025-08-24,Support Team,2025-07-11 14:20:31
+TKT-000445,Medium,Open,Software,Update failed,Software problem affecting productivity. Application: Office Suite,2025-07-15,,Infrastructure Team,2025-07-15 14:20:31
+TKT-000446,Critical,On Hold,Security,Security audit,Security concern reported. Impact: Department,2025-09-22,,IT Team,2025-09-22 14:20:31
+TKT-000447,Medium,On Hold,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-07-21,,Network Team,2025-07-21 14:20:31
+TKT-000448,Critical,On Hold,Other,Request for help,General IT support request,2025-08-29,,Security Team,2025-08-29 14:20:31
+TKT-000449,Low,On Hold,Printer,Paper jam,Printer malfunction in Floor 1,2025-08-30,,DevOps Team,2025-08-30 14:20:31
+TKT-000450,High,On Hold,Other,Documentation needed,General IT support request,2025-08-26,,Network Team,2025-08-26 14:20:31
+TKT-000451,Low,In Progress,Email,Spam filtering,Email service issue. Mail client: Outlook,2025-08-19,,Help Desk,2025-08-19 14:20:31
+TKT-000452,High,Open,Database,Query performance slow,Database issue affecting staging environment,2025-11-16,,DevOps Team,2025-11-16 14:20:31
+TKT-000453,Low,In Progress,Network,WiFi not working,Network connectivity issue affecting 43 users in Building B,2025-08-30,,IT Team,2025-08-30 14:20:31
+TKT-000454,Medium,Resolved,Network,Cannot access shared drive,Network connectivity issue affecting 6 users in Building B,2025-07-08,2025-08-20,Security Team,2025-07-08 14:20:31
+TKT-000455,Critical,Open,Other,Request for help,General IT support request,2025-10-10,,Network Team,2025-10-10 14:20:31
+TKT-000456,Low,On Hold,Email,Spam filtering,Email service issue. Mail client: Gmail,2025-07-10,,DevOps Team,2025-07-10 14:20:31
+TKT-000457,Medium,Closed,Server,High CPU usage,Server issue on db-server-03,2025-12-06,2026-01-13,Support Team,2025-12-06 14:20:31
+TKT-000458,High,Closed,Access,Account locked,User access issue. Type: Contractor,2025-08-07,2025-08-17,Support Team,2025-08-07 14:20:31
+TKT-000459,Medium,Open,Printer,Toner replacement,Printer malfunction in Floor 1,2025-10-20,,Support Team,2025-10-20 14:20:31
+TKT-000460,High,Open,Hardware,Hard drive failure,Hardware issue reported by user. Device: Desktop,2025-09-26,,Help Desk,2025-09-26 14:20:31
+TKT-000461,Medium,Closed,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-07-17,2025-07-31,Security Team,2025-07-17 14:20:31
+TKT-000462,Low,Open,Database,Query performance slow,Database issue affecting development environment,2025-10-02,,IT Team,2025-10-02 14:20:31
+TKT-000463,High,In Progress,Hardware,Monitor flickering,Hardware issue reported by user. Device: Peripheral,2025-09-05,,DevOps Team,2025-09-05 14:20:31
+TKT-000464,Low,Open,Database,Backup failed,Database issue affecting production environment,2025-11-26,,Security Team,2025-11-26 14:20:31
+TKT-000465,High,Open,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-06-14,,Security Team,2025-06-14 14:20:31
+TKT-000466,High,Resolved,Other,Feature request,General IT support request,2025-09-15,2025-11-02,Support Team,2025-09-15 14:20:31
+TKT-000467,Low,In Progress,Security,Suspicious activity,Security concern reported. Impact: Department,2025-10-03,,Help Desk,2025-10-03 14:20:31
+TKT-000468,High,Closed,Access,Password reset,User access issue. Type: New hire,2025-06-19,2025-07-29,Support Team,2025-06-19 14:20:31
+TKT-000469,Medium,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-09-25,,Support Team,2025-09-25 14:20:31
+TKT-000470,Medium,On Hold,Database,Access permission,Database issue affecting development environment,2025-10-24,,Database Team,2025-10-24 14:20:31
+TKT-000471,Low,In Progress,Network,Cannot access shared drive,Network connectivity issue affecting 14 users in Building A,2025-08-19,,Help Desk,2025-08-19 14:20:31
+TKT-000472,Low,On Hold,Security,Firewall configuration,Security concern reported. Impact: Department,2025-07-11,,IT Team,2025-07-11 14:20:31
+TKT-000473,Low,Closed,Email,Email not syncing,Email service issue. Mail client: Outlook,2025-07-02,2025-08-30,Security Team,2025-07-02 14:20:31
+TKT-000474,Low,Open,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-09-16,,Network Team,2025-09-16 14:20:31
+TKT-000475,High,On Hold,Hardware,Laptop not working,Hardware issue reported by user. Device: Peripheral,2025-11-19,,Network Team,2025-11-19 14:20:31
+TKT-000476,Low,Closed,Network,Slow internet,Network connectivity issue affecting 3 users in Building A,2025-09-27,2025-10-17,DevOps Team,2025-09-27 14:20:31
+TKT-000477,Low,On Hold,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-10-16,,Network Team,2025-10-16 14:20:31
+TKT-000478,High,In Progress,Printer,Printer driver needed,Printer malfunction in Floor 3,2025-08-28,,DevOps Team,2025-08-28 14:20:31
+TKT-000479,High,Resolved,Printer,Toner replacement,Printer malfunction in Floor 2,2025-07-30,2025-08-20,DevOps Team,2025-07-30 14:20:31
+TKT-000480,Critical,In Progress,Hardware,Laptop not working,Hardware issue reported by user. Device: Monitor,2025-08-06,,Security Team,2025-08-06 14:20:31
+TKT-000481,Low,Resolved,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-12-04,2025-12-05,Infrastructure Team,2025-12-04 14:20:31
+TKT-000482,Critical,Closed,Access,New user setup,User access issue. Type: Department transfer,2025-08-05,2025-08-28,DevOps Team,2025-08-05 14:20:31
+TKT-000483,Low,On Hold,Other,General inquiry,General IT support request,2025-08-03,,Security Team,2025-08-03 14:20:31
+TKT-000484,Critical,In Progress,Network,WiFi not working,Network connectivity issue affecting 3 users in Building A,2025-06-13,,Network Team,2025-06-13 14:20:31
+TKT-000485,Medium,Open,Security,Virus detected,Security concern reported. Impact: Single user,2025-07-18,,DevOps Team,2025-07-18 14:20:31
+TKT-000486,Medium,Open,Network,VPN connection issues,Network connectivity issue affecting 33 users in Building B,2025-11-14,,DevOps Team,2025-11-14 14:20:31
+TKT-000487,Medium,Closed,Database,Database connection error,Database issue affecting staging environment,2025-11-16,2026-01-05,DevOps Team,2025-11-16 14:20:31
+TKT-000488,High,In Progress,Other,Documentation needed,General IT support request,2025-06-26,,IT Team,2025-06-26 14:20:31
+TKT-000489,High,Closed,Software,Performance issue,Software problem affecting productivity. Application: Office Suite,2025-09-01,2025-10-12,Help Desk,2025-09-01 14:20:31
+TKT-000490,High,In Progress,Server,Disk space full,Server issue on db-server-03,2025-10-21,,IT Team,2025-10-21 14:20:31
+TKT-000491,Medium,On Hold,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-08-27,,Database Team,2025-08-27 14:20:31
+TKT-000492,Medium,On Hold,Software,License renewal,Software problem affecting productivity. Application: Custom App,2025-11-18,,Network Team,2025-11-18 14:20:31
+TKT-000493,Critical,On Hold,Server,Application deployment,Server issue on web-server-01,2025-08-17,,IT Team,2025-08-17 14:20:31
+TKT-000494,Medium,Closed,Network,Network printer offline,Network connectivity issue affecting 29 users in Building B,2025-09-08,2025-09-12,DevOps Team,2025-09-08 14:20:31
+TKT-000495,Medium,On Hold,Database,Data corruption,Database issue affecting development environment,2025-10-27,,Support Team,2025-10-27 14:20:31
+TKT-000496,Critical,Open,Database,Backup failed,Database issue affecting staging environment,2025-09-04,,Database Team,2025-09-04 14:20:31
+TKT-000497,Low,In Progress,Other,Documentation needed,General IT support request,2025-09-03,,Security Team,2025-09-03 14:20:31
+TKT-000498,Critical,Open,Access,New user setup,User access issue. Type: Role change,2025-10-25,,Security Team,2025-10-25 14:20:31
+TKT-000499,Critical,Closed,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Laptop,2025-09-16,2025-09-17,Database Team,2025-09-16 14:20:31
+TKT-000500,High,On Hold,Access,Account locked,User access issue. Type: Department transfer,2025-11-13,,Infrastructure Team,2025-11-13 14:20:31
+TKT-000501,Low,On Hold,Hardware,Mouse not responding,Hardware issue reported by user. Device: Peripheral,2025-06-13,,Network Team,2025-06-13 14:20:31
+TKT-000502,Medium,Closed,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-11-29,2026-01-07,Network Team,2025-11-29 14:20:31
+TKT-000503,Low,In Progress,Software,Update failed,Software problem affecting productivity. Application: Browser,2025-08-18,,IT Team,2025-08-18 14:20:31
+TKT-000504,High,In Progress,Network,Network printer offline,Network connectivity issue affecting 48 users in Remote,2025-06-21,,DevOps Team,2025-06-21 14:20:31
+TKT-000505,Critical,Open,Hardware,Laptop not working,Hardware issue reported by user. Device: Laptop,2025-06-12,,Infrastructure Team,2025-06-12 14:20:31
+TKT-000506,Critical,Open,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-08-29,,Infrastructure Team,2025-08-29 14:20:31
+TKT-000507,Critical,On Hold,Security,Suspicious activity,Security concern reported. Impact: Single user,2025-07-30,,Help Desk,2025-07-30 14:20:31
+TKT-000508,Medium,Resolved,Hardware,Monitor flickering,Hardware issue reported by user. Device: Laptop,2025-08-25,2025-08-27,Infrastructure Team,2025-08-25 14:20:31
+TKT-000509,High,Open,Security,Security audit,Security concern reported. Impact: Department,2025-12-02,,Help Desk,2025-12-02 14:20:31
+TKT-000510,Low,On Hold,Server,Application deployment,Server issue on db-server-03,2025-11-25,,Help Desk,2025-11-25 14:20:31
+TKT-000511,Medium,Closed,Server,Service not responding,Server issue on db-server-03,2025-11-25,2026-01-19,IT Team,2025-11-25 14:20:31
+TKT-000512,Critical,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-10-01,2025-10-19,Network Team,2025-10-01 14:20:31
+TKT-000513,Critical,Closed,Security,Suspicious activity,Security concern reported. Impact: Organization-wide,2025-10-17,2025-11-01,Network Team,2025-10-17 14:20:31
+TKT-000514,Low,Open,Other,Feature request,General IT support request,2025-09-25,,Network Team,2025-09-25 14:20:31
+TKT-000515,High,Open,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-10-21,,Support Team,2025-10-21 14:20:31
+TKT-000516,Low,On Hold,Access,Access denied,User access issue. Type: New hire,2025-11-24,,Help Desk,2025-11-24 14:20:31
+TKT-000517,Medium,Closed,Other,General inquiry,General IT support request,2025-09-28,2025-11-23,Database Team,2025-09-28 14:20:31
+TKT-000518,Critical,Resolved,Access,Permission request,User access issue. Type: Contractor,2025-09-07,2025-09-23,Database Team,2025-09-07 14:20:31
+TKT-000519,Low,On Hold,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-09-27,,IT Team,2025-09-27 14:20:31
+TKT-000520,Low,On Hold,Access,New user setup,User access issue. Type: Contractor,2025-09-02,,Database Team,2025-09-02 14:20:31
+TKT-000521,High,Closed,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-08-22,2025-08-31,Help Desk,2025-08-22 14:20:31
+TKT-000522,High,Open,Network,Network printer offline,Network connectivity issue affecting 30 users in Building A,2025-07-29,,Network Team,2025-07-29 14:20:31
+TKT-000523,Critical,Open,Printer,Paper jam,Printer malfunction in Floor 1,2025-09-04,,Security Team,2025-09-04 14:20:31
+TKT-000524,Medium,Resolved,Printer,Printer not printing,Printer malfunction in Floor 3,2025-12-01,2026-01-19,Support Team,2025-12-01 14:20:31
+TKT-000525,High,On Hold,Access,New user setup,User access issue. Type: Department transfer,2025-11-22,,Network Team,2025-11-22 14:20:31
+TKT-000526,Medium,Resolved,Printer,Paper jam,Printer malfunction in Floor 2,2025-08-31,2025-09-23,Help Desk,2025-08-31 14:20:31
+TKT-000527,Medium,Closed,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-08-08,2025-08-31,DevOps Team,2025-08-08 14:20:31
+TKT-000528,Low,Resolved,Other,General inquiry,General IT support request,2025-09-08,2025-09-25,DevOps Team,2025-09-08 14:20:31
+TKT-000529,Low,In Progress,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-07-29,,Database Team,2025-07-29 14:20:31
+TKT-000530,Critical,On Hold,Access,Account locked,User access issue. Type: New hire,2025-07-03,,Database Team,2025-07-03 14:20:31
+TKT-000531,Critical,Closed,Access,Permission request,User access issue. Type: Role change,2025-09-16,2025-10-04,Infrastructure Team,2025-09-16 14:20:31
+TKT-000532,Medium,Closed,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-09-25,2025-10-24,Infrastructure Team,2025-09-25 14:20:31
+TKT-000533,High,On Hold,Access,Access denied,User access issue. Type: Role change,2025-11-11,,Support Team,2025-11-11 14:20:31
+TKT-000534,High,Open,Hardware,Monitor flickering,Hardware issue reported by user. Device: Peripheral,2025-11-16,,Help Desk,2025-11-16 14:20:31
+TKT-000535,High,In Progress,Other,Request for help,General IT support request,2025-08-06,,Infrastructure Team,2025-08-06 14:20:31
+TKT-000536,Critical,Closed,Database,Query performance slow,Database issue affecting production environment,2025-11-12,2025-12-12,IT Team,2025-11-12 14:20:31
+TKT-000537,Low,In Progress,Network,Cannot access shared drive,Network connectivity issue affecting 5 users in Remote,2025-09-17,,Security Team,2025-09-17 14:20:31
+TKT-000538,High,Closed,Other,Feature request,General IT support request,2025-10-19,2025-10-27,Network Team,2025-10-19 14:20:31
+TKT-000539,Low,In Progress,Other,Feature request,General IT support request,2025-11-07,,Support Team,2025-11-07 14:20:31
+TKT-000540,Medium,In Progress,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-09-18,,Infrastructure Team,2025-09-18 14:20:31
+TKT-000541,Medium,Resolved,Database,Access permission,Database issue affecting production environment,2025-08-27,2025-10-26,Infrastructure Team,2025-08-27 14:20:31
+TKT-000542,Low,On Hold,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-08-04,,DevOps Team,2025-08-04 14:20:31
+TKT-000543,High,Resolved,Server,High CPU usage,Server issue on web-server-01,2025-09-12,2025-10-14,IT Team,2025-09-12 14:20:31
+TKT-000544,Low,On Hold,Hardware,Mouse not responding,Hardware issue reported by user. Device: Laptop,2025-08-31,,DevOps Team,2025-08-31 14:20:31
+TKT-000545,Critical,Open,Database,Data corruption,Database issue affecting development environment,2025-10-26,,Infrastructure Team,2025-10-26 14:20:31
+TKT-000546,Critical,Closed,Network,Slow internet,Network connectivity issue affecting 50 users in Building B,2025-10-22,2025-11-10,Support Team,2025-10-22 14:20:31
+TKT-000547,High,On Hold,Other,Request for help,General IT support request,2025-10-26,,Security Team,2025-10-26 14:20:31
+TKT-000548,High,On Hold,Other,General inquiry,General IT support request,2025-08-08,,Network Team,2025-08-08 14:20:31
+TKT-000549,Medium,In Progress,Other,Documentation needed,General IT support request,2025-11-02,,Network Team,2025-11-02 14:20:31
+TKT-000550,Critical,In Progress,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-06-23,,IT Team,2025-06-23 14:20:31
+TKT-000551,High,Open,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-11-10,,Database Team,2025-11-10 14:20:31
+TKT-000552,Low,Open,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-08-20,,Network Team,2025-08-20 14:20:31
+TKT-000553,High,Resolved,Database,Database connection error,Database issue affecting staging environment,2025-10-25,2025-11-20,Help Desk,2025-10-25 14:20:31
+TKT-000554,Low,Closed,Email,Cannot send emails,Email service issue. Mail client: Gmail,2025-10-22,2025-12-07,IT Team,2025-10-22 14:20:31
+TKT-000555,Critical,On Hold,Network,WiFi not working,Network connectivity issue affecting 41 users in Remote,2025-11-23,,Database Team,2025-11-23 14:20:31
+TKT-000556,Medium,Resolved,Printer,Print quality issue,Printer malfunction in Floor 3,2025-07-20,2025-07-25,Support Team,2025-07-20 14:20:31
+TKT-000557,Low,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Laptop,2025-10-06,,Database Team,2025-10-06 14:20:31
+TKT-000558,Medium,Closed,Access,Account locked,User access issue. Type: New hire,2025-11-22,2026-01-15,Network Team,2025-11-22 14:20:31
+TKT-000559,Low,Resolved,Access,Password reset,User access issue. Type: New hire,2025-08-27,2025-09-14,IT Team,2025-08-27 14:20:31
+TKT-000560,High,Closed,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-12-03,2026-01-07,IT Team,2025-12-03 14:20:31
+TKT-000561,Critical,Resolved,Software,Update failed,Software problem affecting productivity. Application: Custom App,2025-06-29,2025-07-21,Network Team,2025-06-29 14:20:31
+TKT-000562,High,Closed,Server,High CPU usage,Server issue on app-server-02,2025-07-15,2025-09-05,Help Desk,2025-07-15 14:20:31
+TKT-000563,Low,On Hold,Access,Account locked,User access issue. Type: Role change,2025-10-31,,Help Desk,2025-10-31 14:20:31
+TKT-000564,High,Closed,Server,Application deployment,Server issue on db-server-03,2025-12-07,2025-12-28,Support Team,2025-12-07 14:20:31
+TKT-000565,High,In Progress,Other,General inquiry,General IT support request,2025-08-24,,Security Team,2025-08-24 14:20:31
+TKT-000566,Low,On Hold,Other,Documentation needed,General IT support request,2025-06-19,,Database Team,2025-06-19 14:20:31
+TKT-000567,Critical,Open,Hardware,Laptop not working,Hardware issue reported by user. Device: Peripheral,2025-09-05,,Database Team,2025-09-05 14:20:31
+TKT-000568,High,In Progress,Server,Server down,Server issue on app-server-02,2025-09-08,,DevOps Team,2025-09-08 14:20:31
+TKT-000569,Low,Closed,Server,Disk space full,Server issue on app-server-02,2025-10-04,2025-10-26,Infrastructure Team,2025-10-04 14:20:31
+TKT-000570,High,Closed,Access,Permission request,User access issue. Type: New hire,2025-08-14,2025-09-23,Support Team,2025-08-14 14:20:31
+TKT-000571,Critical,Closed,Database,Data corruption,Database issue affecting production environment,2025-10-20,2025-11-14,Infrastructure Team,2025-10-20 14:20:31
+TKT-000572,Medium,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-09-27,,Security Team,2025-09-27 14:20:31
+TKT-000573,Critical,On Hold,Database,Query performance slow,Database issue affecting production environment,2025-07-24,,DevOps Team,2025-07-24 14:20:31
+TKT-000574,Low,Open,Hardware,Hard drive failure,Hardware issue reported by user. Device: Desktop,2025-12-01,,Security Team,2025-12-01 14:20:31
+TKT-000575,Low,Closed,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-09-26,2025-10-05,IT Team,2025-09-26 14:20:31
+TKT-000576,Critical,In Progress,Printer,Paper jam,Printer malfunction in Floor 3,2025-06-14,,Help Desk,2025-06-14 14:20:31
+TKT-000577,Medium,On Hold,Printer,Printer driver needed,Printer malfunction in Floor 2,2025-09-04,,Support Team,2025-09-04 14:20:31
+TKT-000578,Critical,Closed,Other,Feedback,General IT support request,2025-09-27,2025-10-21,Help Desk,2025-09-27 14:20:31
+TKT-000579,Low,Open,Printer,Print quality issue,Printer malfunction in Floor 2,2025-07-14,,Support Team,2025-07-14 14:20:31
+TKT-000580,Medium,Closed,Other,Documentation needed,General IT support request,2025-10-06,2025-11-16,DevOps Team,2025-10-06 14:20:31
+TKT-000581,Medium,Closed,Network,Network printer offline,Network connectivity issue affecting 50 users in Building B,2025-06-17,2025-06-27,Security Team,2025-06-17 14:20:31
+TKT-000582,High,Closed,Email,Email account setup,Email service issue. Mail client: Web Mail,2025-07-30,2025-08-27,Help Desk,2025-07-30 14:20:31
+TKT-000583,Medium,Resolved,Other,Feedback,General IT support request,2025-08-31,2025-09-22,Infrastructure Team,2025-08-31 14:20:31
+TKT-000584,High,Open,Network,VPN connection issues,Network connectivity issue affecting 37 users in Remote,2025-09-26,,DevOps Team,2025-09-26 14:20:31
+TKT-000585,High,Closed,Security,Suspicious activity,Security concern reported. Impact: Department,2025-11-30,2025-12-26,Help Desk,2025-11-30 14:20:31
+TKT-000586,Critical,Resolved,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-07-14,2025-07-19,Network Team,2025-07-14 14:20:31
+TKT-000587,High,Resolved,Network,Slow internet,Network connectivity issue affecting 29 users in Remote,2025-09-27,2025-11-03,Network Team,2025-09-27 14:20:31
+TKT-000588,Critical,Open,Security,Security audit,Security concern reported. Impact: Department,2025-09-19,,Security Team,2025-09-19 14:20:31
+TKT-000589,Critical,Resolved,Other,Request for help,General IT support request,2025-12-01,2025-12-24,IT Team,2025-12-01 14:20:31
+TKT-000590,Medium,Resolved,Database,Data corruption,Database issue affecting development environment,2025-09-09,2025-11-07,Network Team,2025-09-09 14:20:31
+TKT-000591,Medium,Open,Network,WiFi not working,Network connectivity issue affecting 44 users in Remote,2025-08-24,,Support Team,2025-08-24 14:20:31
+TKT-000592,Critical,Open,Access,Password reset,User access issue. Type: New hire,2025-08-11,,DevOps Team,2025-08-11 14:20:31
+TKT-000593,High,On Hold,Other,Feature request,General IT support request,2025-08-13,,Network Team,2025-08-13 14:20:31
+TKT-000594,Medium,Open,Other,General inquiry,General IT support request,2025-09-17,,Help Desk,2025-09-17 14:20:31
+TKT-000595,High,Resolved,Server,Application deployment,Server issue on web-server-01,2025-10-18,2025-12-08,Infrastructure Team,2025-10-18 14:20:31
+TKT-000596,Critical,Closed,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-09-27,2025-10-08,Help Desk,2025-09-27 14:20:31
+TKT-000597,Critical,On Hold,Other,General inquiry,General IT support request,2025-06-20,,Infrastructure Team,2025-06-20 14:20:31
+TKT-000598,Critical,In Progress,Email,Attachment size limit,Email service issue. Mail client: Gmail,2025-11-30,,IT Team,2025-11-30 14:20:31
+TKT-000599,High,Resolved,Access,Permission request,User access issue. Type: Role change,2025-07-14,2025-09-12,DevOps Team,2025-07-14 14:20:31
+TKT-000600,Low,On Hold,Database,Query performance slow,Database issue affecting staging environment,2025-10-04,,Database Team,2025-10-04 14:20:31
+TKT-000601,Medium,In Progress,Network,Network printer offline,Network connectivity issue affecting 20 users in Remote,2025-07-28,,IT Team,2025-07-28 14:20:31
+TKT-000602,Low,In Progress,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-11-14,,DevOps Team,2025-11-14 14:20:31
+TKT-000603,High,Resolved,Other,Feature request,General IT support request,2025-06-22,2025-08-14,Database Team,2025-06-22 14:20:31
+TKT-000604,Critical,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Peripheral,2025-07-19,,Help Desk,2025-07-19 14:20:31
+TKT-000605,Medium,Open,Server,Disk space full,Server issue on app-server-02,2025-07-02,,Infrastructure Team,2025-07-02 14:20:31
+TKT-000606,Medium,Resolved,Database,Database connection error,Database issue affecting production environment,2025-06-30,2025-08-17,Network Team,2025-06-30 14:20:31
+TKT-000607,High,Closed,Security,Virus detected,Security concern reported. Impact: Department,2025-08-06,2025-09-23,Infrastructure Team,2025-08-06 14:20:31
+TKT-000608,High,Open,Server,Application deployment,Server issue on app-server-02,2025-06-12,,Network Team,2025-06-12 14:20:31
+TKT-000609,High,Resolved,Database,Access permission,Database issue affecting development environment,2025-10-26,2025-11-05,Support Team,2025-10-26 14:20:31
+TKT-000610,High,Resolved,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-08-20,2025-10-04,Support Team,2025-08-20 14:20:31
+TKT-000611,Low,On Hold,Database,Query performance slow,Database issue affecting production environment,2025-11-06,,Database Team,2025-11-06 14:20:31
+TKT-000612,Medium,Resolved,Database,Database connection error,Database issue affecting development environment,2025-06-23,2025-07-30,Security Team,2025-06-23 14:20:31
+TKT-000613,Critical,Resolved,Database,Backup failed,Database issue affecting development environment,2025-09-26,2025-10-24,Support Team,2025-09-26 14:20:31
+TKT-000614,Medium,Open,Server,Server down,Server issue on db-server-03,2025-10-19,,Infrastructure Team,2025-10-19 14:20:31
+TKT-000615,High,Open,Other,Documentation needed,General IT support request,2025-12-03,,IT Team,2025-12-03 14:20:31
+TKT-000616,Critical,Open,Database,Query performance slow,Database issue affecting production environment,2025-08-19,,Support Team,2025-08-19 14:20:31
+TKT-000617,High,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-11-29,,Help Desk,2025-11-29 14:20:31
+TKT-000618,Medium,In Progress,Software,License renewal,Software problem affecting productivity. Application: Custom App,2025-08-07,,Support Team,2025-08-07 14:20:31
+TKT-000619,Low,On Hold,Security,Virus detected,Security concern reported. Impact: Department,2025-09-04,,Security Team,2025-09-04 14:20:31
+TKT-000620,High,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Laptop,2025-06-17,,Support Team,2025-06-17 14:20:31
+TKT-000621,Critical,In Progress,Software,License renewal,Software problem affecting productivity. Application: Custom App,2025-07-29,,Network Team,2025-07-29 14:20:31
+TKT-000622,Medium,Resolved,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-11-14,2025-12-28,Help Desk,2025-11-14 14:20:31
+TKT-000623,Medium,In Progress,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-10-30,,Network Team,2025-10-30 14:20:31
+TKT-000624,Low,Resolved,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-10-27,2025-11-23,Infrastructure Team,2025-10-27 14:20:31
+TKT-000625,High,On Hold,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-10-14,,Network Team,2025-10-14 14:20:31
+TKT-000626,Low,In Progress,Database,Access permission,Database issue affecting development environment,2025-09-19,,Security Team,2025-09-19 14:20:31
+TKT-000627,Medium,In Progress,Database,Backup failed,Database issue affecting development environment,2025-09-01,,IT Team,2025-09-01 14:20:31
+TKT-000628,Critical,In Progress,Database,Backup failed,Database issue affecting production environment,2025-11-26,,Database Team,2025-11-26 14:20:31
+TKT-000629,Medium,On Hold,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-09-05,,Network Team,2025-09-05 14:20:31
+TKT-000630,High,On Hold,Email,Spam filtering,Email service issue. Mail client: Gmail,2025-12-07,,Infrastructure Team,2025-12-07 14:20:31
+TKT-000631,High,On Hold,Software,Software installation request,Software problem affecting productivity. Application: Browser,2025-10-05,,Security Team,2025-10-05 14:20:31
+TKT-000632,Medium,On Hold,Access,Permission request,User access issue. Type: Contractor,2025-11-14,,Help Desk,2025-11-14 14:20:31
+TKT-000633,Medium,Closed,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-11-18,2026-01-05,Database Team,2025-11-18 14:20:31
+TKT-000634,Low,Closed,Access,Access denied,User access issue. Type: Role change,2025-10-09,2025-11-23,Infrastructure Team,2025-10-09 14:20:31
+TKT-000635,Low,Open,Access,Access denied,User access issue. Type: Role change,2025-07-03,,Help Desk,2025-07-03 14:20:31
+TKT-000636,Critical,Resolved,Printer,Toner replacement,Printer malfunction in Floor 1,2025-11-22,2025-12-19,Help Desk,2025-11-22 14:20:31
+TKT-000637,Critical,Open,Access,Access denied,User access issue. Type: Role change,2025-11-09,,Network Team,2025-11-09 14:20:31
+TKT-000638,Low,On Hold,Security,Virus detected,Security concern reported. Impact: Department,2025-11-18,,Network Team,2025-11-18 14:20:31
+TKT-000639,Critical,In Progress,Software,Update failed,Software problem affecting productivity. Application: Office Suite,2025-09-06,,Network Team,2025-09-06 14:20:31
+TKT-000640,Low,On Hold,Other,Feedback,General IT support request,2025-10-10,,Network Team,2025-10-10 14:20:31
+TKT-000641,Critical,Closed,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Peripheral,2025-09-07,2025-09-29,DevOps Team,2025-09-07 14:20:31
+TKT-000642,Critical,On Hold,Database,Backup failed,Database issue affecting development environment,2025-07-25,,DevOps Team,2025-07-25 14:20:31
+TKT-000643,Medium,On Hold,Network,WiFi not working,Network connectivity issue affecting 20 users in Remote,2025-07-25,,IT Team,2025-07-25 14:20:31
+TKT-000644,Critical,Resolved,Other,Documentation needed,General IT support request,2025-08-29,2025-09-16,Database Team,2025-08-29 14:20:31
+TKT-000645,Medium,Closed,Printer,Paper jam,Printer malfunction in Floor 2,2025-07-13,2025-08-04,IT Team,2025-07-13 14:20:31
+TKT-000646,Critical,In Progress,Printer,Print quality issue,Printer malfunction in Reception,2025-07-01,,Infrastructure Team,2025-07-01 14:20:31
+TKT-000647,High,Open,Hardware,Laptop not working,Hardware issue reported by user. Device: Monitor,2025-08-07,,DevOps Team,2025-08-07 14:20:31
+TKT-000648,High,Closed,Database,Backup failed,Database issue affecting staging environment,2025-10-20,2025-11-01,Network Team,2025-10-20 14:20:31
+TKT-000649,Critical,Closed,Email,Attachment size limit,Email service issue. Mail client: Outlook,2025-10-29,2025-11-21,Help Desk,2025-10-29 14:20:31
+TKT-000650,High,On Hold,Email,Email account setup,Email service issue. Mail client: Gmail,2025-10-08,,Help Desk,2025-10-08 14:20:31
+TKT-000651,Critical,Resolved,Network,WiFi not working,Network connectivity issue affecting 2 users in Building A,2025-10-03,2025-10-06,Network Team,2025-10-03 14:20:31
+TKT-000652,High,In Progress,Other,Documentation needed,General IT support request,2025-07-05,,Database Team,2025-07-05 14:20:31
+TKT-000653,Low,Closed,Access,Permission request,User access issue. Type: Contractor,2025-08-30,2025-09-25,Database Team,2025-08-30 14:20:31
+TKT-000654,High,In Progress,Other,Feedback,General IT support request,2025-06-29,,IT Team,2025-06-29 14:20:31
+TKT-000655,Critical,Closed,Network,WiFi not working,Network connectivity issue affecting 40 users in Building B,2025-06-22,2025-06-30,Infrastructure Team,2025-06-22 14:20:31
+TKT-000656,High,In Progress,Network,VPN connection issues,Network connectivity issue affecting 26 users in Remote,2025-12-03,,IT Team,2025-12-03 14:20:31
+TKT-000657,Medium,Open,Access,New user setup,User access issue. Type: Department transfer,2025-12-03,,Database Team,2025-12-03 14:20:31
+TKT-000658,Low,On Hold,Access,Permission request,User access issue. Type: Department transfer,2025-08-21,,IT Team,2025-08-21 14:20:31
+TKT-000659,Critical,Resolved,Printer,Toner replacement,Printer malfunction in Reception,2025-10-27,2025-11-19,Infrastructure Team,2025-10-27 14:20:31
+TKT-000660,Low,Closed,Database,Query performance slow,Database issue affecting staging environment,2025-10-16,2025-11-04,Network Team,2025-10-16 14:20:31
+TKT-000661,High,Closed,Printer,Print quality issue,Printer malfunction in Floor 3,2025-11-18,2026-01-05,Network Team,2025-11-18 14:20:31
+TKT-000662,Low,Resolved,Server,Server down,Server issue on app-server-02,2025-10-31,2025-12-11,Infrastructure Team,2025-10-31 14:20:31
+TKT-000663,Critical,Open,Server,Service not responding,Server issue on app-server-02,2025-07-03,,Network Team,2025-07-03 14:20:31
+TKT-000664,Low,Closed,Other,General inquiry,General IT support request,2025-11-02,2025-12-06,Infrastructure Team,2025-11-02 14:20:31
+TKT-000665,Low,In Progress,Other,Feature request,General IT support request,2025-11-29,,Security Team,2025-11-29 14:20:31
+TKT-000666,Low,In Progress,Software,Update failed,Software problem affecting productivity. Application: Office Suite,2025-08-16,,Database Team,2025-08-16 14:20:31
+TKT-000667,Low,Open,Server,Server down,Server issue on web-server-01,2025-11-30,,Infrastructure Team,2025-11-30 14:20:31
+TKT-000668,Low,In Progress,Software,Update failed,Software problem affecting productivity. Application: IDE,2025-11-16,,Help Desk,2025-11-16 14:20:31
+TKT-000669,High,Resolved,Server,Service not responding,Server issue on web-server-01,2025-07-20,2025-09-01,DevOps Team,2025-07-20 14:20:31
+TKT-000670,Low,Closed,Printer,Printer driver needed,Printer malfunction in Floor 2,2025-10-19,2025-11-07,Support Team,2025-10-19 14:20:31
+TKT-000671,Critical,Closed,Access,Account locked,User access issue. Type: New hire,2025-11-10,2025-11-27,Security Team,2025-11-10 14:20:31
+TKT-000672,Medium,Resolved,Security,Security audit,Security concern reported. Impact: Single user,2025-06-20,2025-07-21,Support Team,2025-06-20 14:20:31
+TKT-000673,Low,In Progress,Hardware,Laptop not working,Hardware issue reported by user. Device: Peripheral,2025-09-29,,Database Team,2025-09-29 14:20:31
+TKT-000674,Critical,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Laptop,2025-07-09,,Database Team,2025-07-09 14:20:31
+TKT-000675,Medium,Open,Network,Network printer offline,Network connectivity issue affecting 9 users in Building B,2025-09-16,,Database Team,2025-09-16 14:20:31
+TKT-000676,Critical,Open,Email,Cannot send emails,Email service issue. Mail client: Web Mail,2025-09-17,,Network Team,2025-09-17 14:20:31
+TKT-000677,Medium,Resolved,Access,Password reset,User access issue. Type: Department transfer,2025-07-18,2025-08-10,Security Team,2025-07-18 14:20:31
+TKT-000678,Critical,On Hold,Database,Data corruption,Database issue affecting production environment,2025-10-16,,DevOps Team,2025-10-16 14:20:31
+TKT-000679,Low,Resolved,Printer,Printer driver needed,Printer malfunction in Reception,2025-10-26,2025-11-16,Help Desk,2025-10-26 14:20:31
+TKT-000680,Critical,Resolved,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-07-10,2025-07-19,Database Team,2025-07-10 14:20:31
+TKT-000681,Medium,On Hold,Server,Service not responding,Server issue on app-server-02,2025-09-25,,Database Team,2025-09-25 14:20:31
+TKT-000682,Critical,Resolved,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-07-24,2025-08-16,IT Team,2025-07-24 14:20:31
+TKT-000683,Medium,On Hold,Access,Password reset,User access issue. Type: Contractor,2025-11-09,,Security Team,2025-11-09 14:20:31
+TKT-000684,Medium,On Hold,Printer,Printer not printing,Printer malfunction in Floor 1,2025-06-23,,IT Team,2025-06-23 14:20:31
+TKT-000685,Low,Closed,Other,Request for help,General IT support request,2025-07-04,2025-08-06,Security Team,2025-07-04 14:20:31
+TKT-000686,Low,Resolved,Printer,Paper jam,Printer malfunction in Reception,2025-07-22,2025-09-03,Database Team,2025-07-22 14:20:31
+TKT-000687,Low,Resolved,Network,Network printer offline,Network connectivity issue affecting 10 users in Building B,2025-08-19,2025-09-22,DevOps Team,2025-08-19 14:20:31
+TKT-000688,High,In Progress,Security,Firewall configuration,Security concern reported. Impact: Department,2025-09-05,,Help Desk,2025-09-05 14:20:31
+TKT-000689,Low,Open,Access,New user setup,User access issue. Type: Role change,2025-11-27,,Security Team,2025-11-27 14:20:31
+TKT-000690,Medium,In Progress,Hardware,Laptop not working,Hardware issue reported by user. Device: Laptop,2025-10-05,,DevOps Team,2025-10-05 14:20:31
+TKT-000691,Low,Closed,Printer,Printer driver needed,Printer malfunction in Reception,2025-11-01,2025-11-03,Support Team,2025-11-01 14:20:31
+TKT-000692,Critical,Resolved,Software,Performance issue,Software problem affecting productivity. Application: Browser,2025-12-04,2025-12-24,DevOps Team,2025-12-04 14:20:31
+TKT-000693,High,Open,Database,Data corruption,Database issue affecting production environment,2025-07-02,,IT Team,2025-07-02 14:20:31
+TKT-000694,Medium,Open,Database,Access permission,Database issue affecting production environment,2025-06-19,,Infrastructure Team,2025-06-19 14:20:31
+TKT-000695,Critical,Open,Software,Update failed,Software problem affecting productivity. Application: Browser,2025-07-16,,DevOps Team,2025-07-16 14:20:31
+TKT-000696,Medium,Resolved,Server,Application deployment,Server issue on db-server-03,2025-07-22,2025-07-31,Infrastructure Team,2025-07-22 14:20:31
+TKT-000697,Low,Resolved,Hardware,Laptop not working,Hardware issue reported by user. Device: Laptop,2025-10-31,2025-11-17,Help Desk,2025-10-31 14:20:31
+TKT-000698,Low,In Progress,Hardware,Hard drive failure,Hardware issue reported by user. Device: Monitor,2025-10-28,,Help Desk,2025-10-28 14:20:31
+TKT-000699,Low,On Hold,Database,Backup failed,Database issue affecting production environment,2025-11-01,,Security Team,2025-11-01 14:20:31
+TKT-000700,Low,Resolved,Database,Database connection error,Database issue affecting production environment,2025-10-02,2025-11-18,Network Team,2025-10-02 14:20:31
+TKT-000701,Medium,Resolved,Other,General inquiry,General IT support request,2025-10-02,2025-11-30,Security Team,2025-10-02 14:20:31
+TKT-000702,Low,In Progress,Database,Query performance slow,Database issue affecting production environment,2025-08-25,,Support Team,2025-08-25 14:20:31
+TKT-000703,Critical,Closed,Other,Documentation needed,General IT support request,2025-07-29,2025-08-09,Database Team,2025-07-29 14:20:31
+TKT-000704,High,In Progress,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-07-05,,Help Desk,2025-07-05 14:20:31
+TKT-000705,Critical,On Hold,Network,Network printer offline,Network connectivity issue affecting 40 users in Building A,2025-11-09,,Infrastructure Team,2025-11-09 14:20:31
+TKT-000706,Low,Open,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-08-02,,Help Desk,2025-08-02 14:20:31
+TKT-000707,High,Closed,Network,Network printer offline,Network connectivity issue affecting 21 users in Building A,2025-08-09,2025-08-25,Help Desk,2025-08-09 14:20:31
+TKT-000708,Medium,In Progress,Other,General inquiry,General IT support request,2025-07-24,,Security Team,2025-07-24 14:20:31
+TKT-000709,Low,Resolved,Printer,Print quality issue,Printer malfunction in Floor 2,2025-11-02,2025-12-01,IT Team,2025-11-02 14:20:31
+TKT-000710,Medium,Open,Other,Feature request,General IT support request,2025-08-23,,Database Team,2025-08-23 14:20:31
+TKT-000711,Medium,In Progress,Access,Password reset,User access issue. Type: Department transfer,2025-07-18,,Support Team,2025-07-18 14:20:31
+TKT-000712,Medium,On Hold,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-11-08,,Network Team,2025-11-08 14:20:31
+TKT-000713,Medium,Closed,Database,Backup failed,Database issue affecting production environment,2025-08-31,2025-10-19,DevOps Team,2025-08-31 14:20:31
+TKT-000714,Medium,On Hold,Hardware,Mouse not responding,Hardware issue reported by user. Device: Laptop,2025-08-19,,Database Team,2025-08-19 14:20:31
+TKT-000715,Critical,Closed,Printer,Printer driver needed,Printer malfunction in Floor 2,2025-07-08,2025-07-12,Database Team,2025-07-08 14:20:31
+TKT-000716,High,Closed,Access,New user setup,User access issue. Type: New hire,2025-09-27,2025-09-28,Help Desk,2025-09-27 14:20:31
+TKT-000717,Low,Open,Other,Feature request,General IT support request,2025-07-27,,IT Team,2025-07-27 14:20:31
+TKT-000718,Low,Resolved,Other,Feedback,General IT support request,2025-10-18,2025-12-03,DevOps Team,2025-10-18 14:20:31
+TKT-000719,Critical,Resolved,Other,Feature request,General IT support request,2025-07-05,2025-07-28,Help Desk,2025-07-05 14:20:31
+TKT-000720,High,On Hold,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-11-19,,IT Team,2025-11-19 14:20:31
+TKT-000721,Low,Open,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-09-02,,Security Team,2025-09-02 14:20:31
+TKT-000722,Medium,On Hold,Other,Feedback,General IT support request,2025-11-30,,Infrastructure Team,2025-11-30 14:20:31
+TKT-000723,High,On Hold,Network,Slow internet,Network connectivity issue affecting 50 users in Remote,2025-10-19,,Database Team,2025-10-19 14:20:31
+TKT-000724,Low,Closed,Other,Feature request,General IT support request,2025-06-25,2025-08-17,Help Desk,2025-06-25 14:20:31
+TKT-000725,High,In Progress,Server,Disk space full,Server issue on web-server-01,2025-07-03,,IT Team,2025-07-03 14:20:31
+TKT-000726,High,Resolved,Database,Database connection error,Database issue affecting production environment,2025-08-22,2025-10-18,Database Team,2025-08-22 14:20:31
+TKT-000727,Medium,Open,Access,Access denied,User access issue. Type: Role change,2025-08-11,,DevOps Team,2025-08-11 14:20:31
+TKT-000728,Critical,On Hold,Network,Cannot access shared drive,Network connectivity issue affecting 42 users in Building A,2025-10-02,,Support Team,2025-10-02 14:20:31
+TKT-000729,High,Open,Printer,Print quality issue,Printer malfunction in Floor 1,2025-08-01,,DevOps Team,2025-08-01 14:20:31
+TKT-000730,Medium,Open,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-07-12,,DevOps Team,2025-07-12 14:20:31
+TKT-000731,Critical,On Hold,Hardware,Hard drive failure,Hardware issue reported by user. Device: Desktop,2025-08-10,,Security Team,2025-08-10 14:20:31
+TKT-000732,Critical,On Hold,Server,Application deployment,Server issue on db-server-03,2025-11-12,,Help Desk,2025-11-12 14:20:31
+TKT-000733,Medium,Open,Email,Email account setup,Email service issue. Mail client: Gmail,2025-08-29,,IT Team,2025-08-29 14:20:31
+TKT-000734,Low,Closed,Access,Access denied,User access issue. Type: New hire,2025-12-01,2025-12-10,Database Team,2025-12-01 14:20:31
+TKT-000735,High,Closed,Hardware,Hard drive failure,Hardware issue reported by user. Device: Laptop,2025-08-18,2025-09-29,IT Team,2025-08-18 14:20:31
+TKT-000736,Low,Open,Other,Feature request,General IT support request,2025-12-04,,Support Team,2025-12-04 14:20:31
+TKT-000737,High,Resolved,Network,Slow internet,Network connectivity issue affecting 44 users in Remote,2025-11-08,2025-11-24,Database Team,2025-11-08 14:20:31
+TKT-000738,Critical,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Peripheral,2025-06-12,,Infrastructure Team,2025-06-12 14:20:31
+TKT-000739,Critical,Open,Network,VPN connection issues,Network connectivity issue affecting 10 users in Building A,2025-09-29,,Help Desk,2025-09-29 14:20:31
+TKT-000740,High,In Progress,Hardware,Hard drive failure,Hardware issue reported by user. Device: Monitor,2025-09-08,,Support Team,2025-09-08 14:20:31
+TKT-000741,Low,Open,Printer,Paper jam,Printer malfunction in Floor 1,2025-12-02,,Support Team,2025-12-02 14:20:31
+TKT-000742,Low,Resolved,Server,Service not responding,Server issue on app-server-02,2025-06-29,2025-08-19,Security Team,2025-06-29 14:20:31
+TKT-000743,Critical,Closed,Security,Firewall configuration,Security concern reported. Impact: Department,2025-10-15,2025-10-25,Security Team,2025-10-15 14:20:31
+TKT-000744,Critical,In Progress,Other,Documentation needed,General IT support request,2025-11-29,,Support Team,2025-11-29 14:20:31
+TKT-000745,Medium,In Progress,Security,Security audit,Security concern reported. Impact: Department,2025-09-21,,IT Team,2025-09-21 14:20:31
+TKT-000746,Medium,Open,Database,Access permission,Database issue affecting development environment,2025-10-18,,Infrastructure Team,2025-10-18 14:20:31
+TKT-000747,Low,In Progress,Software,Application crash,Software problem affecting productivity. Application: Browser,2025-07-07,,Support Team,2025-07-07 14:20:31
+TKT-000748,Low,Closed,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-12-06,2025-12-10,Network Team,2025-12-06 14:20:31
+TKT-000749,Critical,Closed,Hardware,Mouse not responding,Hardware issue reported by user. Device: Monitor,2025-06-24,2025-07-13,Support Team,2025-06-24 14:20:31
+TKT-000750,Medium,Resolved,Access,Access denied,User access issue. Type: Contractor,2025-10-20,2025-12-17,DevOps Team,2025-10-20 14:20:31
+TKT-000751,Medium,On Hold,Email,Email not syncing,Email service issue. Mail client: Web Mail,2025-09-14,,Help Desk,2025-09-14 14:20:31
+TKT-000752,High,Resolved,Email,Email not syncing,Email service issue. Mail client: Outlook,2025-10-06,2025-10-08,DevOps Team,2025-10-06 14:20:31
+TKT-000753,High,On Hold,Printer,Printer not printing,Printer malfunction in Floor 2,2025-07-07,,Help Desk,2025-07-07 14:20:31
+TKT-000754,Critical,Resolved,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-07-01,2025-07-27,Network Team,2025-07-01 14:20:31
+TKT-000755,Low,In Progress,Email,Email not syncing,Email service issue. Mail client: Web Mail,2025-06-22,,IT Team,2025-06-22 14:20:31
+TKT-000756,High,Closed,Server,Service not responding,Server issue on web-server-01,2025-11-15,2025-12-31,Security Team,2025-11-15 14:20:31
+TKT-000757,High,In Progress,Network,Network printer offline,Network connectivity issue affecting 46 users in Building B,2025-07-29,,Help Desk,2025-07-29 14:20:31
+TKT-000758,Low,Closed,Server,High CPU usage,Server issue on db-server-03,2025-10-03,2025-10-14,DevOps Team,2025-10-03 14:20:31
+TKT-000759,High,On Hold,Security,Virus detected,Security concern reported. Impact: Department,2025-10-25,,Security Team,2025-10-25 14:20:31
+TKT-000760,Medium,Open,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-07-21,,IT Team,2025-07-21 14:20:31
+TKT-000761,Critical,In Progress,Access,Account locked,User access issue. Type: Department transfer,2025-10-07,,Help Desk,2025-10-07 14:20:31
+TKT-000762,Medium,Resolved,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-09-26,2025-11-25,Security Team,2025-09-26 14:20:31
+TKT-000763,Low,Open,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Peripheral,2025-11-18,,Database Team,2025-11-18 14:20:31
+TKT-000764,High,On Hold,Printer,Toner replacement,Printer malfunction in Floor 3,2025-09-15,,Database Team,2025-09-15 14:20:31
+TKT-000765,Low,Closed,Database,Data corruption,Database issue affecting development environment,2025-09-06,2025-10-05,DevOps Team,2025-09-06 14:20:31
+TKT-000766,Low,Resolved,Access,Access denied,User access issue. Type: Role change,2025-11-13,2025-11-28,Infrastructure Team,2025-11-13 14:20:31
+TKT-000767,Critical,Resolved,Database,Data corruption,Database issue affecting development environment,2025-10-12,2025-10-30,Help Desk,2025-10-12 14:20:31
+TKT-000768,High,Open,Network,Network printer offline,Network connectivity issue affecting 11 users in Remote,2025-07-06,,Support Team,2025-07-06 14:20:31
+TKT-000769,Medium,Open,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-10-31,,Network Team,2025-10-31 14:20:31
+TKT-000770,High,Closed,Server,Disk space full,Server issue on app-server-02,2025-09-07,2025-09-22,Help Desk,2025-09-07 14:20:31
+TKT-000771,High,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-11-30,,Support Team,2025-11-30 14:20:31
+TKT-000772,Low,In Progress,Security,Suspicious activity,Security concern reported. Impact: Department,2025-08-13,,IT Team,2025-08-13 14:20:31
+TKT-000773,Low,Open,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-09-09,,Support Team,2025-09-09 14:20:31
+TKT-000774,Low,Resolved,Software,License renewal,Software problem affecting productivity. Application: Office Suite,2025-10-05,2025-12-02,DevOps Team,2025-10-05 14:20:31
+TKT-000775,Critical,Resolved,Printer,Printer not printing,Printer malfunction in Floor 3,2025-07-23,2025-08-10,DevOps Team,2025-07-23 14:20:31
+TKT-000776,Low,On Hold,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-08-24,,Database Team,2025-08-24 14:20:31
+TKT-000777,High,Open,Network,Network printer offline,Network connectivity issue affecting 4 users in Remote,2025-08-31,,Security Team,2025-08-31 14:20:31
+TKT-000778,Medium,Closed,Database,Data corruption,Database issue affecting production environment,2025-10-20,2025-11-10,Database Team,2025-10-20 14:20:31
+TKT-000779,Critical,Resolved,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-08-22,2025-09-11,Security Team,2025-08-22 14:20:31
+TKT-000780,High,In Progress,Server,High CPU usage,Server issue on web-server-01,2025-09-02,,DevOps Team,2025-09-02 14:20:31
+TKT-000781,High,In Progress,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-08-29,,Support Team,2025-08-29 14:20:31
+TKT-000782,Medium,Closed,Access,Account locked,User access issue. Type: New hire,2025-10-28,2025-12-12,Infrastructure Team,2025-10-28 14:20:31
+TKT-000783,Low,Open,Server,High CPU usage,Server issue on web-server-01,2025-11-11,,Help Desk,2025-11-11 14:20:31
+TKT-000784,Medium,On Hold,Printer,Paper jam,Printer malfunction in Floor 3,2025-11-04,,Database Team,2025-11-04 14:20:31
+TKT-000785,Low,In Progress,Other,Feature request,General IT support request,2025-09-16,,Security Team,2025-09-16 14:20:31
+TKT-000786,Low,On Hold,Other,Feature request,General IT support request,2025-06-12,,Help Desk,2025-06-12 14:20:31
+TKT-000787,Low,In Progress,Network,WiFi not working,Network connectivity issue affecting 39 users in Building A,2025-09-24,,Security Team,2025-09-24 14:20:31
+TKT-000788,Low,Open,Security,SSL certificate expired,Security concern reported. Impact: Organization-wide,2025-08-18,,Security Team,2025-08-18 14:20:31
+TKT-000789,Medium,Closed,Email,Spam filtering,Email service issue. Mail client: Web Mail,2025-07-28,2025-09-01,DevOps Team,2025-07-28 14:20:31
+TKT-000790,Critical,Open,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-07-02,,Support Team,2025-07-02 14:20:31
+TKT-000791,Low,On Hold,Printer,Printer driver needed,Printer malfunction in Reception,2025-06-25,,Support Team,2025-06-25 14:20:31
+TKT-000792,Critical,In Progress,Printer,Printer not printing,Printer malfunction in Floor 1,2025-08-27,,Support Team,2025-08-27 14:20:31
+TKT-000793,High,On Hold,Email,Email not syncing,Email service issue. Mail client: Thunderbird,2025-10-21,,IT Team,2025-10-21 14:20:31
+TKT-000794,Low,Resolved,Email,Email not syncing,Email service issue. Mail client: Web Mail,2025-06-14,2025-06-15,Database Team,2025-06-14 14:20:31
+TKT-000795,Critical,Closed,Database,Data corruption,Database issue affecting development environment,2025-06-19,2025-06-25,Database Team,2025-06-19 14:20:31
+TKT-000796,High,On Hold,Software,Update failed,Software problem affecting productivity. Application: IDE,2025-06-19,,Network Team,2025-06-19 14:20:31
+TKT-000797,Low,Closed,Access,Password reset,User access issue. Type: Role change,2025-07-14,2025-08-17,Database Team,2025-07-14 14:20:31
+TKT-000798,High,Resolved,Access,New user setup,User access issue. Type: Department transfer,2025-10-12,2025-11-10,Database Team,2025-10-12 14:20:31
+TKT-000799,Critical,On Hold,Printer,Print quality issue,Printer malfunction in Floor 3,2025-09-08,,Security Team,2025-09-08 14:20:31
+TKT-000800,Critical,Open,Server,Server down,Server issue on db-server-03,2025-11-13,,Database Team,2025-11-13 14:20:31
+TKT-000801,Critical,Open,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-07-30,,Infrastructure Team,2025-07-30 14:20:31
+TKT-000802,Critical,On Hold,Server,High CPU usage,Server issue on db-server-03,2025-09-18,,IT Team,2025-09-18 14:20:31
+TKT-000803,Medium,Open,Server,Service not responding,Server issue on db-server-03,2025-12-05,,Help Desk,2025-12-05 14:20:31
+TKT-000804,Critical,In Progress,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-07-01,,Security Team,2025-07-01 14:20:31
+TKT-000805,Low,Resolved,Server,Application deployment,Server issue on app-server-02,2025-10-21,2025-11-15,Network Team,2025-10-21 14:20:31
+TKT-000806,Critical,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Laptop,2025-08-30,2025-08-31,IT Team,2025-08-30 14:20:31
+TKT-000807,Critical,In Progress,Access,Account locked,User access issue. Type: New hire,2025-06-15,,Database Team,2025-06-15 14:20:31
+TKT-000808,Medium,Open,Other,Feature request,General IT support request,2025-09-09,,Network Team,2025-09-09 14:20:31
+TKT-000809,Low,Open,Network,Cannot access shared drive,Network connectivity issue affecting 18 users in Building B,2025-09-03,,Network Team,2025-09-03 14:20:31
+TKT-000810,High,In Progress,Server,Server down,Server issue on app-server-02,2025-11-06,,Database Team,2025-11-06 14:20:31
+TKT-000811,Low,On Hold,Network,Slow internet,Network connectivity issue affecting 9 users in Building B,2025-08-29,,Security Team,2025-08-29 14:20:31
+TKT-000812,Low,Closed,Other,General inquiry,General IT support request,2025-10-31,2025-12-24,DevOps Team,2025-10-31 14:20:31
+TKT-000813,High,Resolved,Software,License renewal,Software problem affecting productivity. Application: Browser,2025-10-10,2025-11-16,IT Team,2025-10-10 14:20:31
+TKT-000814,Medium,On Hold,Security,Security audit,Security concern reported. Impact: Department,2025-10-13,,Infrastructure Team,2025-10-13 14:20:31
+TKT-000815,High,Open,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-08-25,,IT Team,2025-08-25 14:20:31
+TKT-000816,Medium,In Progress,Database,Database connection error,Database issue affecting production environment,2025-11-14,,Infrastructure Team,2025-11-14 14:20:31
+TKT-000817,Low,Resolved,Printer,Toner replacement,Printer malfunction in Reception,2025-07-15,2025-08-27,Help Desk,2025-07-15 14:20:31
+TKT-000818,High,Closed,Access,Permission request,User access issue. Type: Contractor,2025-10-29,2025-12-03,Infrastructure Team,2025-10-29 14:20:31
+TKT-000819,Low,Resolved,Database,Access permission,Database issue affecting development environment,2025-10-25,2025-12-10,DevOps Team,2025-10-25 14:20:31
+TKT-000820,Critical,Open,Email,Spam filtering,Email service issue. Mail client: Thunderbird,2025-11-21,,DevOps Team,2025-11-21 14:20:31
+TKT-000821,Low,Open,Access,Account locked,User access issue. Type: Role change,2025-07-17,,IT Team,2025-07-17 14:20:31
+TKT-000822,Medium,Open,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-11-09,,Support Team,2025-11-09 14:20:31
+TKT-000823,Critical,In Progress,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Monitor,2025-11-19,,Support Team,2025-11-19 14:20:31
+TKT-000824,Critical,Closed,Server,High CPU usage,Server issue on db-server-03,2025-10-01,2025-10-11,Security Team,2025-10-01 14:20:31
+TKT-000825,Critical,Closed,Security,SSL certificate expired,Security concern reported. Impact: Single user,2025-06-25,2025-06-26,Network Team,2025-06-25 14:20:31
+TKT-000826,High,Resolved,Other,Feedback,General IT support request,2025-12-04,2026-01-25,IT Team,2025-12-04 14:20:31
+TKT-000827,Medium,In Progress,Other,Request for help,General IT support request,2025-10-10,,Support Team,2025-10-10 14:20:31
+TKT-000828,Medium,On Hold,Server,High CPU usage,Server issue on db-server-03,2025-10-07,,IT Team,2025-10-07 14:20:31
+TKT-000829,High,In Progress,Printer,Paper jam,Printer malfunction in Reception,2025-10-24,,Network Team,2025-10-24 14:20:31
+TKT-000830,Low,On Hold,Network,Cannot access shared drive,Network connectivity issue affecting 13 users in Remote,2025-10-15,,Help Desk,2025-10-15 14:20:31
+TKT-000831,Critical,Open,Other,Feature request,General IT support request,2025-11-05,,Support Team,2025-11-05 14:20:31
+TKT-000832,Low,On Hold,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-07-17,,Infrastructure Team,2025-07-17 14:20:31
+TKT-000833,Medium,Closed,Access,New user setup,User access issue. Type: Role change,2025-11-06,2025-11-24,DevOps Team,2025-11-06 14:20:31
+TKT-000834,Low,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-11-16,2025-11-20,Network Team,2025-11-16 14:20:31
+TKT-000835,High,Resolved,Server,Service not responding,Server issue on web-server-01,2025-10-30,2025-11-02,DevOps Team,2025-10-30 14:20:31
+TKT-000836,High,Open,Network,Network printer offline,Network connectivity issue affecting 30 users in Remote,2025-06-15,,Infrastructure Team,2025-06-15 14:20:31
+TKT-000837,Low,On Hold,Email,Email account setup,Email service issue. Mail client: Web Mail,2025-10-19,,Database Team,2025-10-19 14:20:31
+TKT-000838,Critical,Resolved,Other,Request for help,General IT support request,2025-09-10,2025-10-09,Support Team,2025-09-10 14:20:31
+TKT-000839,Critical,Resolved,Software,Software installation request,Software problem affecting productivity. Application: Browser,2025-07-29,2025-08-23,Security Team,2025-07-29 14:20:31
+TKT-000840,Critical,Open,Security,Virus detected,Security concern reported. Impact: Single user,2025-06-30,,Network Team,2025-06-30 14:20:31
+TKT-000841,High,Closed,Software,License renewal,Software problem affecting productivity. Application: Custom App,2025-10-14,2025-12-09,Help Desk,2025-10-14 14:20:31
+TKT-000842,Medium,In Progress,Network,Network printer offline,Network connectivity issue affecting 11 users in Remote,2025-06-12,,IT Team,2025-06-12 14:20:31
+TKT-000843,Critical,Open,Access,New user setup,User access issue. Type: Role change,2025-08-07,,Help Desk,2025-08-07 14:20:31
+TKT-000844,Critical,Closed,Security,Suspicious activity,Security concern reported. Impact: Single user,2025-07-22,2025-07-27,Security Team,2025-07-22 14:20:31
+TKT-000845,Low,Closed,Network,WiFi not working,Network connectivity issue affecting 11 users in Remote,2025-07-27,2025-09-09,DevOps Team,2025-07-27 14:20:31
+TKT-000846,High,Open,Printer,Print quality issue,Printer malfunction in Floor 2,2025-11-17,,Database Team,2025-11-17 14:20:31
+TKT-000847,High,Resolved,Network,Slow internet,Network connectivity issue affecting 13 users in Building A,2025-09-01,2025-09-12,DevOps Team,2025-09-01 14:20:31
+TKT-000848,High,Open,Software,Performance issue,Software problem affecting productivity. Application: Custom App,2025-06-26,,Security Team,2025-06-26 14:20:31
+TKT-000849,High,In Progress,Network,Cannot access shared drive,Network connectivity issue affecting 34 users in Building B,2025-08-06,,IT Team,2025-08-06 14:20:31
+TKT-000850,Medium,Closed,Network,WiFi not working,Network connectivity issue affecting 20 users in Building B,2025-11-30,2025-12-18,IT Team,2025-11-30 14:20:31
+TKT-000851,High,Resolved,Software,Performance issue,Software problem affecting productivity. Application: Office Suite,2025-08-18,2025-08-22,DevOps Team,2025-08-18 14:20:31
+TKT-000852,Medium,Resolved,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-10-29,2025-12-20,Infrastructure Team,2025-10-29 14:20:31
+TKT-000853,Critical,On Hold,Database,Access permission,Database issue affecting development environment,2025-10-08,,Security Team,2025-10-08 14:20:31
+TKT-000854,Low,On Hold,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-09-09,,Database Team,2025-09-09 14:20:31
+TKT-000855,Critical,Closed,Database,Backup failed,Database issue affecting staging environment,2025-11-07,2025-11-23,Help Desk,2025-11-07 14:20:31
+TKT-000856,Medium,Open,Email,Attachment size limit,Email service issue. Mail client: Thunderbird,2025-09-07,,IT Team,2025-09-07 14:20:31
+TKT-000857,Low,Resolved,Email,Attachment size limit,Email service issue. Mail client: Outlook,2025-11-06,2025-12-25,DevOps Team,2025-11-06 14:20:31
+TKT-000858,Low,In Progress,Printer,Paper jam,Printer malfunction in Floor 3,2025-07-13,,Network Team,2025-07-13 14:20:31
+TKT-000859,High,Closed,Printer,Toner replacement,Printer malfunction in Floor 1,2025-10-21,2025-12-08,Help Desk,2025-10-21 14:20:31
+TKT-000860,Low,Resolved,Software,License renewal,Software problem affecting productivity. Application: Custom App,2025-10-24,2025-12-21,Help Desk,2025-10-24 14:20:31
+TKT-000861,High,In Progress,Software,Application crash,Software problem affecting productivity. Application: Browser,2025-07-08,,DevOps Team,2025-07-08 14:20:31
+TKT-000862,High,In Progress,Server,Disk space full,Server issue on web-server-01,2025-08-15,,Database Team,2025-08-15 14:20:31
+TKT-000863,Medium,On Hold,Network,Slow internet,Network connectivity issue affecting 23 users in Remote,2025-09-02,,Database Team,2025-09-02 14:20:31
+TKT-000864,Critical,On Hold,Software,Software installation request,Software problem affecting productivity. Application: Office Suite,2025-10-23,,Support Team,2025-10-23 14:20:31
+TKT-000865,High,On Hold,Hardware,Laptop not working,Hardware issue reported by user. Device: Monitor,2025-09-25,,IT Team,2025-09-25 14:20:31
+TKT-000866,Low,Open,Database,Access permission,Database issue affecting production environment,2025-09-18,,Security Team,2025-09-18 14:20:31
+TKT-000867,High,Open,Database,Data corruption,Database issue affecting production environment,2025-11-21,,Support Team,2025-11-21 14:20:31
+TKT-000868,Medium,Closed,Email,Cannot send emails,Email service issue. Mail client: Outlook,2025-10-04,2025-11-27,Infrastructure Team,2025-10-04 14:20:31
+TKT-000869,High,Open,Other,Feedback,General IT support request,2025-10-11,,Security Team,2025-10-11 14:20:31
+TKT-000870,Critical,Closed,Database,Database connection error,Database issue affecting production environment,2025-08-25,2025-09-01,Network Team,2025-08-25 14:20:31
+TKT-000871,Low,On Hold,Network,Slow internet,Network connectivity issue affecting 37 users in Building B,2025-11-27,,IT Team,2025-11-27 14:20:31
+TKT-000872,Medium,In Progress,Other,Request for help,General IT support request,2025-09-06,,Support Team,2025-09-06 14:20:31
+TKT-000873,Critical,Open,Hardware,Monitor flickering,Hardware issue reported by user. Device: Laptop,2025-10-05,,Help Desk,2025-10-05 14:20:31
+TKT-000874,Critical,Closed,Access,Access denied,User access issue. Type: Department transfer,2025-09-09,2025-09-14,Help Desk,2025-09-09 14:20:31
+TKT-000875,Medium,Closed,Database,Backup failed,Database issue affecting development environment,2025-10-21,2025-11-16,DevOps Team,2025-10-21 14:20:31
+TKT-000876,Medium,Open,Network,Cannot access shared drive,Network connectivity issue affecting 14 users in Building B,2025-06-29,,Network Team,2025-06-29 14:20:31
+TKT-000877,Medium,On Hold,Network,Slow internet,Network connectivity issue affecting 13 users in Remote,2025-12-05,,IT Team,2025-12-05 14:20:31
+TKT-000878,Low,Resolved,Software,Software installation request,Software problem affecting productivity. Application: Browser,2025-08-23,2025-09-17,IT Team,2025-08-23 14:20:31
+TKT-000879,High,In Progress,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-11-18,,Help Desk,2025-11-18 14:20:31
+TKT-000880,Critical,Resolved,Software,Application crash,Software problem affecting productivity. Application: IDE,2025-07-15,2025-08-10,Network Team,2025-07-15 14:20:31
+TKT-000881,High,Closed,Email,Spam filtering,Email service issue. Mail client: Outlook,2025-10-11,2025-10-18,Network Team,2025-10-11 14:20:31
+TKT-000882,Medium,Resolved,Printer,Toner replacement,Printer malfunction in Reception,2025-10-25,2025-12-07,Support Team,2025-10-25 14:20:31
+TKT-000883,Low,Closed,Hardware,Laptop not working,Hardware issue reported by user. Device: Desktop,2025-09-05,2025-09-12,Database Team,2025-09-05 14:20:31
+TKT-000884,Critical,In Progress,Other,Feedback,General IT support request,2025-09-27,,Help Desk,2025-09-27 14:20:31
+TKT-000885,Low,Open,Email,Attachment size limit,Email service issue. Mail client: Web Mail,2025-08-15,,Infrastructure Team,2025-08-15 14:20:31
+TKT-000886,Medium,On Hold,Other,Request for help,General IT support request,2025-11-06,,Support Team,2025-11-06 14:20:31
+TKT-000887,Medium,Resolved,Server,Service not responding,Server issue on db-server-03,2025-09-19,2025-11-18,Infrastructure Team,2025-09-19 14:20:31
+TKT-000888,High,Closed,Email,Email account setup,Email service issue. Mail client: Thunderbird,2025-08-08,2025-10-03,DevOps Team,2025-08-08 14:20:31
+TKT-000889,Critical,In Progress,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-06-16,,Network Team,2025-06-16 14:20:31
+TKT-000890,High,Closed,Printer,Printer not printing,Printer malfunction in Floor 2,2025-07-14,2025-08-29,Database Team,2025-07-14 14:20:31
+TKT-000891,Medium,On Hold,Access,Permission request,User access issue. Type: New hire,2025-07-02,,Help Desk,2025-07-02 14:20:31
+TKT-000892,High,Resolved,Software,Application crash,Software problem affecting productivity. Application: Custom App,2025-09-03,2025-09-08,Support Team,2025-09-03 14:20:31
+TKT-000893,Low,Closed,Access,Password reset,User access issue. Type: New hire,2025-09-27,2025-09-29,DevOps Team,2025-09-27 14:20:31
+TKT-000894,High,On Hold,Security,Virus detected,Security concern reported. Impact: Department,2025-11-08,,Support Team,2025-11-08 14:20:31
+TKT-000895,High,In Progress,Security,Security audit,Security concern reported. Impact: Single user,2025-09-04,,Help Desk,2025-09-04 14:20:31
+TKT-000896,Medium,Open,Server,Server down,Server issue on web-server-01,2025-06-21,,Infrastructure Team,2025-06-21 14:20:31
+TKT-000897,Low,Closed,Access,New user setup,User access issue. Type: Department transfer,2025-10-18,2025-11-11,Network Team,2025-10-18 14:20:31
+TKT-000898,Critical,Closed,Email,Cannot send emails,Email service issue. Mail client: Outlook,2025-09-21,2025-10-20,Help Desk,2025-09-21 14:20:31
+TKT-000899,Critical,Resolved,Other,General inquiry,General IT support request,2025-11-20,2025-12-05,Network Team,2025-11-20 14:20:31
+TKT-000900,Low,On Hold,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-06-15,,Database Team,2025-06-15 14:20:31
+TKT-000901,High,Resolved,Database,Database connection error,Database issue affecting staging environment,2025-07-31,2025-09-22,Network Team,2025-07-31 14:20:31
+TKT-000902,Low,In Progress,Email,Spam filtering,Email service issue. Mail client: Web Mail,2025-11-07,,Database Team,2025-11-07 14:20:31
+TKT-000903,Critical,Open,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-06-16,,IT Team,2025-06-16 14:20:31
+TKT-000904,High,Closed,Database,Access permission,Database issue affecting staging environment,2025-07-01,2025-08-10,Database Team,2025-07-01 14:20:31
+TKT-000905,Critical,In Progress,Hardware,Monitor flickering,Hardware issue reported by user. Device: Laptop,2025-09-18,,IT Team,2025-09-18 14:20:31
+TKT-000906,Medium,Open,Database,Data corruption,Database issue affecting production environment,2025-08-12,,Infrastructure Team,2025-08-12 14:20:31
+TKT-000907,Medium,Closed,Printer,Printer driver needed,Printer malfunction in Floor 2,2025-07-17,2025-08-19,Support Team,2025-07-17 14:20:31
+TKT-000908,Medium,On Hold,Printer,Paper jam,Printer malfunction in Floor 2,2025-07-04,,Infrastructure Team,2025-07-04 14:20:31
+TKT-000909,High,On Hold,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-11-25,,Infrastructure Team,2025-11-25 14:20:31
+TKT-000910,Critical,In Progress,Printer,Printer not printing,Printer malfunction in Floor 2,2025-10-09,,DevOps Team,2025-10-09 14:20:31
+TKT-000911,Critical,Resolved,Security,Virus detected,Security concern reported. Impact: Single user,2025-06-29,2025-07-22,Help Desk,2025-06-29 14:20:31
+TKT-000912,Low,In Progress,Email,Spam filtering,Email service issue. Mail client: Gmail,2025-11-27,,Security Team,2025-11-27 14:20:31
+TKT-000913,Critical,Closed,Security,SSL certificate expired,Security concern reported. Impact: Organization-wide,2025-11-12,2025-11-25,Database Team,2025-11-12 14:20:31
+TKT-000914,High,Resolved,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-10-29,2025-12-26,Help Desk,2025-10-29 14:20:31
+TKT-000915,High,Resolved,Software,Software installation request,Software problem affecting productivity. Application: Browser,2025-08-13,2025-10-11,DevOps Team,2025-08-13 14:20:31
+TKT-000916,Critical,On Hold,Network,WiFi not working,Network connectivity issue affecting 37 users in Building B,2025-08-27,,Support Team,2025-08-27 14:20:31
+TKT-000917,Medium,Open,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Peripheral,2025-08-28,,IT Team,2025-08-28 14:20:31
+TKT-000918,Medium,On Hold,Other,Feature request,General IT support request,2025-10-21,,IT Team,2025-10-21 14:20:31
+TKT-000919,Critical,In Progress,Security,Virus detected,Security concern reported. Impact: Single user,2025-07-29,,Support Team,2025-07-29 14:20:31
+TKT-000920,Medium,Open,Other,Feature request,General IT support request,2025-08-26,,Network Team,2025-08-26 14:20:31
+TKT-000921,Critical,Resolved,Network,Network printer offline,Network connectivity issue affecting 26 users in Building A,2025-11-07,2025-11-17,Security Team,2025-11-07 14:20:31
+TKT-000922,High,On Hold,Software,Performance issue,Software problem affecting productivity. Application: Browser,2025-10-09,,Infrastructure Team,2025-10-09 14:20:31
+TKT-000923,Critical,Closed,Printer,Paper jam,Printer malfunction in Floor 1,2025-07-11,2025-07-14,Support Team,2025-07-11 14:20:31
+TKT-000924,High,Closed,Access,Account locked,User access issue. Type: Department transfer,2025-07-08,2025-08-12,Security Team,2025-07-08 14:20:31
+TKT-000925,Low,Closed,Server,Disk space full,Server issue on db-server-03,2025-10-15,2025-11-28,Security Team,2025-10-15 14:20:31
+TKT-000926,Medium,Resolved,Access,Access denied,User access issue. Type: Role change,2025-09-26,2025-10-25,Security Team,2025-09-26 14:20:31
+TKT-000927,Low,Resolved,Security,Firewall configuration,Security concern reported. Impact: Single user,2025-11-08,2025-12-30,IT Team,2025-11-08 14:20:31
+TKT-000928,Low,On Hold,Database,Backup failed,Database issue affecting staging environment,2025-07-06,,Database Team,2025-07-06 14:20:31
+TKT-000929,Low,Resolved,Hardware,Monitor flickering,Hardware issue reported by user. Device: Monitor,2025-11-11,2025-12-24,Help Desk,2025-11-11 14:20:31
+TKT-000930,High,In Progress,Printer,Printer driver needed,Printer malfunction in Reception,2025-08-23,,Network Team,2025-08-23 14:20:31
+TKT-000931,High,In Progress,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-10-21,,Support Team,2025-10-21 14:20:31
+TKT-000932,Low,In Progress,Other,Feature request,General IT support request,2025-11-14,,Network Team,2025-11-14 14:20:31
+TKT-000933,High,Closed,Email,Spam filtering,Email service issue. Mail client: Gmail,2025-10-17,2025-11-03,Database Team,2025-10-17 14:20:31
+TKT-000934,Medium,In Progress,Software,Software installation request,Software problem affecting productivity. Application: IDE,2025-09-01,,Network Team,2025-09-01 14:20:31
+TKT-000935,Low,In Progress,Printer,Printer driver needed,Printer malfunction in Floor 1,2025-11-22,,Database Team,2025-11-22 14:20:31
+TKT-000936,Critical,Open,Server,High CPU usage,Server issue on app-server-02,2025-07-11,,Support Team,2025-07-11 14:20:31
+TKT-000937,Medium,Resolved,Server,High CPU usage,Server issue on db-server-03,2025-11-03,2025-11-21,Security Team,2025-11-03 14:20:31
+TKT-000938,Critical,On Hold,Email,Spam filtering,Email service issue. Mail client: Outlook,2025-07-16,,Database Team,2025-07-16 14:20:31
+TKT-000939,Low,On Hold,Security,Virus detected,Security concern reported. Impact: Organization-wide,2025-07-16,,Security Team,2025-07-16 14:20:31
+TKT-000940,Critical,On Hold,Database,Access permission,Database issue affecting staging environment,2025-08-20,,Security Team,2025-08-20 14:20:31
+TKT-000941,Medium,Resolved,Hardware,Keyboard malfunction,Hardware issue reported by user. Device: Desktop,2025-08-07,2025-08-25,Database Team,2025-08-07 14:20:31
+TKT-000942,Medium,In Progress,Server,Service not responding,Server issue on db-server-03,2025-10-21,,Help Desk,2025-10-21 14:20:31
+TKT-000943,Critical,In Progress,Database,Database connection error,Database issue affecting development environment,2025-08-12,,Security Team,2025-08-12 14:20:31
+TKT-000944,Medium,In Progress,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-08-03,,DevOps Team,2025-08-03 14:20:31
+TKT-000945,Medium,Closed,Network,WiFi not working,Network connectivity issue affecting 41 users in Building A,2025-11-23,2026-01-11,Security Team,2025-11-23 14:20:31
+TKT-000946,High,In Progress,Software,Performance issue,Software problem affecting productivity. Application: IDE,2025-08-30,,Help Desk,2025-08-30 14:20:31
+TKT-000947,Low,On Hold,Database,Data corruption,Database issue affecting development environment,2025-07-29,,Infrastructure Team,2025-07-29 14:20:31
+TKT-000948,High,Resolved,Other,Feature request,General IT support request,2025-07-25,2025-08-01,Help Desk,2025-07-25 14:20:31
+TKT-000949,Low,On Hold,Security,Suspicious activity,Security concern reported. Impact: Department,2025-07-20,,Network Team,2025-07-20 14:20:31
+TKT-000950,Low,Resolved,Software,Performance issue,Software problem affecting productivity. Application: IDE,2025-09-28,2025-11-25,DevOps Team,2025-09-28 14:20:31
+TKT-000951,Low,Open,Security,Virus detected,Security concern reported. Impact: Single user,2025-07-13,,IT Team,2025-07-13 14:20:31
+TKT-000952,Critical,Open,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-08-15,,Network Team,2025-08-15 14:20:31
+TKT-000953,Low,Resolved,Software,License renewal,Software problem affecting productivity. Application: Browser,2025-10-30,2025-11-04,Infrastructure Team,2025-10-30 14:20:31
+TKT-000954,Low,On Hold,Other,Documentation needed,General IT support request,2025-11-25,,IT Team,2025-11-25 14:20:31
+TKT-000955,High,Open,Database,Database connection error,Database issue affecting staging environment,2025-09-11,,Network Team,2025-09-11 14:20:31
+TKT-000956,High,Closed,Hardware,Monitor flickering,Hardware issue reported by user. Device: Desktop,2025-08-03,2025-08-08,Support Team,2025-08-03 14:20:31
+TKT-000957,Critical,On Hold,Access,New user setup,User access issue. Type: Role change,2025-10-13,,Support Team,2025-10-13 14:20:31
+TKT-000958,Medium,Closed,Email,Attachment size limit,Email service issue. Mail client: Gmail,2025-10-29,2025-11-05,Network Team,2025-10-29 14:20:31
+TKT-000959,Medium,Resolved,Security,Suspicious activity,Security concern reported. Impact: Single user,2025-11-15,2025-12-03,IT Team,2025-11-15 14:20:31
+TKT-000960,High,Resolved,Printer,Paper jam,Printer malfunction in Floor 3,2025-10-20,2025-11-29,Help Desk,2025-10-20 14:20:31
+TKT-000961,Medium,In Progress,Access,New user setup,User access issue. Type: New hire,2025-06-13,,DevOps Team,2025-06-13 14:20:31
+TKT-000962,Low,Closed,Network,Slow internet,Network connectivity issue affecting 32 users in Building B,2025-10-08,2025-12-05,DevOps Team,2025-10-08 14:20:31
+TKT-000963,High,Closed,Network,WiFi not working,Network connectivity issue affecting 30 users in Building A,2025-07-30,2025-08-27,Help Desk,2025-07-30 14:20:31
+TKT-000964,Low,Closed,Printer,Toner replacement,Printer malfunction in Floor 2,2025-08-10,2025-08-19,Security Team,2025-08-10 14:20:31
+TKT-000965,Critical,On Hold,Network,VPN connection issues,Network connectivity issue affecting 47 users in Building B,2025-07-16,,Help Desk,2025-07-16 14:20:31
+TKT-000966,Critical,In Progress,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-10-14,,IT Team,2025-10-14 14:20:31
+TKT-000967,Low,Resolved,Printer,Toner replacement,Printer malfunction in Floor 3,2025-07-12,2025-08-01,Help Desk,2025-07-12 14:20:31
+TKT-000968,Critical,Open,Access,Password reset,User access issue. Type: New hire,2025-10-07,,Security Team,2025-10-07 14:20:31
+TKT-000969,Critical,In Progress,Software,License renewal,Software problem affecting productivity. Application: IDE,2025-07-31,,IT Team,2025-07-31 14:20:31
+TKT-000970,High,Open,Printer,Paper jam,Printer malfunction in Reception,2025-08-28,,Help Desk,2025-08-28 14:20:31
+TKT-000971,Critical,On Hold,Software,Performance issue,Software problem affecting productivity. Application: IDE,2025-06-11,,IT Team,2025-06-11 14:20:31
+TKT-000972,High,In Progress,Database,Query performance slow,Database issue affecting development environment,2025-07-30,,DevOps Team,2025-07-30 14:20:31
+TKT-000973,High,Closed,Server,Server down,Server issue on db-server-03,2025-11-26,2026-01-06,IT Team,2025-11-26 14:20:31
+TKT-000974,Low,On Hold,Email,Email not syncing,Email service issue. Mail client: Gmail,2025-11-20,,Security Team,2025-11-20 14:20:31
+TKT-000975,Critical,Closed,Network,WiFi not working,Network connectivity issue affecting 8 users in Building A,2025-08-16,2025-09-11,Database Team,2025-08-16 14:20:31
+TKT-000976,High,In Progress,Network,Network printer offline,Network connectivity issue affecting 4 users in Remote,2025-11-15,,Database Team,2025-11-15 14:20:31
+TKT-000977,Critical,Open,Server,Service not responding,Server issue on web-server-01,2025-11-13,,Help Desk,2025-11-13 14:20:31
+TKT-000978,Critical,Resolved,Access,Permission request,User access issue. Type: New hire,2025-07-21,2025-07-25,Security Team,2025-07-21 14:20:31
+TKT-000979,Low,Resolved,Printer,Paper jam,Printer malfunction in Floor 1,2025-11-26,2025-12-25,Network Team,2025-11-26 14:20:31
+TKT-000980,High,Resolved,Security,Firewall configuration,Security concern reported. Impact: Organization-wide,2025-08-21,2025-09-09,Help Desk,2025-08-21 14:20:31
+TKT-000981,Low,On Hold,Security,Firewall configuration,Security concern reported. Impact: Department,2025-06-24,,Security Team,2025-06-24 14:20:31
+TKT-000982,Critical,In Progress,Server,Service not responding,Server issue on web-server-01,2025-08-15,,Security Team,2025-08-15 14:20:31
+TKT-000983,Critical,Closed,Server,Service not responding,Server issue on app-server-02,2025-09-08,2025-09-17,Database Team,2025-09-08 14:20:31
+TKT-000984,Medium,In Progress,Software,Update failed,Software problem affecting productivity. Application: Browser,2025-08-07,,DevOps Team,2025-08-07 14:20:31
+TKT-000985,Medium,In Progress,Hardware,Mouse not responding,Hardware issue reported by user. Device: Desktop,2025-06-23,,IT Team,2025-06-23 14:20:31
+TKT-000986,Low,Open,Network,Network printer offline,Network connectivity issue affecting 21 users in Remote,2025-11-21,,Database Team,2025-11-21 14:20:31
+TKT-000987,High,On Hold,Email,Attachment size limit,Email service issue. Mail client: Outlook,2025-08-15,,IT Team,2025-08-15 14:20:31
+TKT-000988,Low,In Progress,Server,Application deployment,Server issue on db-server-03,2025-09-28,,Security Team,2025-09-28 14:20:31
+TKT-000989,High,In Progress,Printer,Paper jam,Printer malfunction in Floor 3,2025-08-19,,DevOps Team,2025-08-19 14:20:31
+TKT-000990,Low,Open,Email,Spam filtering,Email service issue. Mail client: Gmail,2025-08-14,,DevOps Team,2025-08-14 14:20:31
+TKT-000991,Critical,Closed,Database,Query performance slow,Database issue affecting development environment,2025-07-28,2025-08-26,Help Desk,2025-07-28 14:20:31
+TKT-000992,Medium,Open,Security,Suspicious activity,Security concern reported. Impact: Organization-wide,2025-11-15,,Database Team,2025-11-15 14:20:31
+TKT-000993,High,Open,Software,Software installation request,Software problem affecting productivity. Application: Custom App,2025-09-07,,DevOps Team,2025-09-07 14:20:31
+TKT-000994,High,Open,Server,Server down,Server issue on app-server-02,2025-10-02,,Help Desk,2025-10-02 14:20:31
+TKT-000995,Critical,On Hold,Other,Documentation needed,General IT support request,2025-07-31,,IT Team,2025-07-31 14:20:31
+TKT-000996,Low,On Hold,Network,WiFi not working,Network connectivity issue affecting 20 users in Remote,2025-09-17,,Support Team,2025-09-17 14:20:31
+TKT-000997,Critical,Resolved,Security,Security audit,Security concern reported. Impact: Organization-wide,2025-11-27,2025-12-24,Database Team,2025-11-27 14:20:31
+TKT-000998,High,In Progress,Access,Access denied,User access issue. Type: New hire,2025-07-20,,DevOps Team,2025-07-20 14:20:31
+TKT-000999,Low,On Hold,Hardware,Mouse not responding,Hardware issue reported by user. Device: Desktop,2025-09-03,,Help Desk,2025-09-03 14:20:31
+TKT-001000,Medium,On Hold,Server,Service not responding,Server issue on app-server-02,2025-08-04,,Security Team,2025-08-04 14:20:31

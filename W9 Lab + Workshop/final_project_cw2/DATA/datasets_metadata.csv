@@ -1,0 +1,1001 @@
+id,dataset_name,category,source,last_update,record_count,file_size_mb,created_at
+1,Smart Home Data 2023,IoT,Kaggle,2025-10-21,2058,1.87,2025-01-06 14:20:31
+2,Vehicle Telemetry 2021,IoT,Internal,2025-11-17,3091614,2971.99,2024-05-10 14:20:31
+3,Graduation Rates 2022,Education,GitHub,2025-03-07,1104,0.73,2023-08-29 14:20:31
+4,Store Performance 2024,Retail,UCI ML Repository,2025-01-23,9252,2.03,2024-12-02 14:20:31
+5,Social Media Engagement 2020,Marketing,Company Database,2025-01-01,8271084,1015.92,2023-04-20 14:20:31
+6,Clinical Trials 2022,Healthcare,Web Scraping,2025-08-16,68083,14.25,2024-12-14 14:20:31
+7,Production Metrics 2023,Manufacturing,AWS Open Data,2024-12-23,880704,431.51,2023-10-25 14:20:31
+8,Customer Behavior Analysis 2022,Marketing,Web Scraping,2025-04-01,89242,42.42,2023-12-11 14:20:31
+9,Product Reviews 2024,E-commerce,GitHub,2025-03-14,2046058,802.08,2023-10-05 14:20:31
+10,Clinical Trials 2023,Healthcare,Internal,2025-09-24,9367769,5469.82,2024-04-11 14:20:31
+11,Sentiment Analysis 2023,Social Media,Web Scraping,2025-02-20,82685,81.24,2024-03-21 14:20:31
+12,Sales Transactions 2023,Retail,Web Scraping,2025-03-26,542502,456.53,2023-09-01 14:20:31
+13,Transaction Records 2024,Finance,AWS Open Data,2025-03-14,12351,9.16,2024-07-07 14:20:31
+14,Transaction Records 2022,Finance,Web Scraping,2025-10-18,333849,163.24,2025-08-20 14:20:31
+15,Environmental Monitoring 2021,IoT,UCI ML Repository,2024-12-24,4590339,985.24,2023-10-29 14:20:31
+16,User Interactions 2021,Social Media,API Collection,2024-12-18,64121,11.41,2023-01-19 14:20:31
+17,Sensor Readings 2020,IoT,Google Dataset Search,2025-09-21,7401997,4619.52,2025-03-24 14:20:31
+18,Customer Foot Traffic 2024,Retail,GitHub,2025-11-13,3001,1.09,2024-12-27 14:20:31
+19,Transaction Records 2021,Finance,Web Scraping,2025-08-27,3631,2.22,2025-01-14 14:20:31
+20,Quality Control 2024,Manufacturing,API Collection,2025-10-15,45288,25.28,2023-11-25 14:20:31
+21,User Purchase History 2020,E-commerce,UCI ML Repository,2025-08-01,845990,496.5,2025-01-09 14:20:31
+22,Medical Imaging 2021,Healthcare,GitHub,2025-04-02,7278673,6193.52,2024-08-22 14:20:31
+23,Smart Home Data 2021,IoT,UCI ML Repository,2025-05-20,6960748,2932.05,2024-09-04 14:20:31
+24,Product Reviews 2021,E-commerce,Google Dataset Search,2025-08-22,2776885,2233.58,2025-07-10 14:20:31
+25,Course Enrollment 2023,Education,Company Database,2025-02-07,8416821,8130.17,2024-01-14 14:20:31
+26,Customer Foot Traffic 2024,Retail,Internal,2025-09-18,21691,13.25,2024-02-15 14:20:31
+27,Supply Chain 2020,Manufacturing,Internal,2025-04-28,6438357,3521.72,2023-07-04 14:20:31
+28,Student Performance 2022,Education,GitHub,2025-03-03,9256009,1509.66,2023-05-11 14:20:31
+29,Supply Chain 2024,Manufacturing,API Collection,2025-04-19,30411,24.69,2023-12-12 14:20:31
+30,Public Transit Usage 2021,Transportation,GitHub,2025-04-02,8582,3.17,2024-12-25 14:20:31
+31,Vehicle Telemetry 2022,IoT,Kaggle,2025-07-31,897828,476.67,2024-07-26 14:20:31
+32,Learning Analytics 2023,Education,Google Dataset Search,2025-08-27,984326,139.68,2025-05-02 14:20:31
+33,Stock Market Data 2020,Finance,Google Dataset Search,2025-04-08,97532,48.51,2024-08-17 14:20:31
+34,Inventory Management 2020,Retail,API Collection,2025-11-10,2110431,1445.4,2025-04-17 14:20:31
+35,Equipment Maintenance 2023,Manufacturing,Company Database,2025-09-13,42707,37.99,2024-08-07 14:20:31
+36,Sentiment Analysis 2024,Social Media,Internal,2025-07-11,8530,7.69,2024-05-07 14:20:31
+37,Environmental Monitoring 2022,IoT,API Collection,2025-05-02,904177,284.33,2023-08-14 14:20:31
+38,Student Performance 2024,Education,UCI ML Repository,2025-11-25,57872,22.8,2025-07-19 14:20:31
+39,Quality Control 2024,Manufacturing,Internal,2025-08-25,96936,30.08,2024-02-26 14:20:31
+40,Production Metrics 2020,Manufacturing,Data.gov,2024-12-15,2023533,1320.11,2024-02-06 14:20:31
+41,Transaction Records 2024,Finance,Company Database,2024-12-16,3538885,2024.44,2023-07-07 14:20:31
+42,Equipment Maintenance 2021,Manufacturing,Google Dataset Search,2025-08-11,946880,654.31,2024-02-19 14:20:31
+43,Equipment Maintenance 2024,Manufacturing,AWS Open Data,2025-09-25,110774,95.23,2025-01-14 14:20:31
+44,Supply Chain 2021,Manufacturing,Kaggle,2025-08-06,13872,9.53,2024-09-17 14:20:31
+45,Supply Chain 2020,Manufacturing,Google Dataset Search,2025-03-30,8525911,6844.49,2024-04-19 14:20:31
+46,Product Reviews 2024,E-commerce,AWS Open Data,2025-12-07,8775,5.82,2024-02-22 14:20:31
+47,Product Reviews 2020,E-commerce,Web Scraping,2025-02-20,6409789,3520.26,2024-07-27 14:20:31
+48,Vehicle Telemetry 2023,IoT,UCI ML Repository,2025-10-24,740777,261.44,2025-06-21 14:20:31
+49,Student Performance 2023,Education,UCI ML Repository,2025-07-25,881670,225.28,2024-04-26 14:20:31
+50,Clinical Trials 2023,Healthcare,GitHub,2025-02-27,440872,411.93,2024-08-14 14:20:31
+51,Supply Chain 2024,Manufacturing,Web Scraping,2025-07-26,375731,66.21,2025-04-07 14:20:31
+52,Product Catalog 2021,E-commerce,UCI ML Repository,2025-02-06,4464,3.76,2023-09-12 14:20:31
+53,Sensor Readings 2022,IoT,Kaggle,2024-12-08,2657220,1169.08,2024-08-28 14:20:31
+54,Inventory Management 2021,Retail,Data.gov,2025-07-09,38761,4.37,2024-02-02 14:20:31
+55,Patient Records 2021,Healthcare,AWS Open Data,2025-02-15,750266,744.75,2023-11-29 14:20:31
+56,Supply Chain 2024,Manufacturing,AWS Open Data,2025-11-07,364409,129.99,2025-04-23 14:20:31
+57,Store Performance 2024,Retail,Internal,2025-07-25,63525,10.58,2025-06-10 14:20:31
+58,Inventory Management 2021,Retail,Internal,2025-06-20,54619,13.12,2024-08-31 14:20:31
+59,Flight Schedules 2020,Transportation,Web Scraping,2025-07-12,6366538,643.91,2023-11-08 14:20:31
+60,Patient Records 2022,Healthcare,Google Dataset Search,2025-04-04,3792647,3564.84,2024-12-20 14:20:31
+61,Learning Analytics 2023,Education,Web Scraping,2025-02-19,6714,4.54,2024-01-17 14:20:31
+62,Smart Home Data 2023,IoT,API Collection,2025-03-16,280411,129.98,2023-03-27 14:20:31
+63,Sensor Readings 2021,IoT,AWS Open Data,2025-09-28,8165,1.19,2023-10-16 14:20:31
+64,Flight Schedules 2020,Transportation,Company Database,2025-04-29,5881293,2031.57,2024-11-24 14:20:31
+65,Learning Analytics 2024,Education,API Collection,2024-12-18,206756,31.02,2023-05-17 14:20:31
+66,Medical Imaging 2023,Healthcare,UCI ML Repository,2025-08-15,7974509,5412.52,2023-10-25 14:20:31
+67,Social Media Engagement 2023,Marketing,Data.gov,2025-11-02,8768311,5578.88,2024-02-06 14:20:31
+68,Medical Imaging 2023,Healthcare,Google Dataset Search,2025-02-10,7920696,3648.55,2023-09-01 14:20:31
+69,Learning Analytics 2021,Education,Data.gov,2025-01-05,62760,11.4,2023-12-10 14:20:31
+70,Smart Home Data 2022,IoT,API Collection,2025-02-06,1177016,351.57,2024-09-21 14:20:31
+71,Learning Analytics 2024,Education,API Collection,2025-01-28,480038,169.18,2023-09-26 14:20:31
+72,Customer Foot Traffic 2023,Retail,Data.gov,2025-04-07,7741359,7315.0,2024-03-08 14:20:31
+73,Medical Imaging 2021,Healthcare,UCI ML Repository,2025-02-24,1257,0.89,2024-09-10 14:20:31
+74,Quality Control 2023,Manufacturing,API Collection,2025-08-02,379636,170.09,2023-10-15 14:20:31
+75,Course Enrollment 2020,Education,Web Scraping,2025-09-28,257846,105.56,2025-08-29 14:20:31
+76,Investment Portfolio 2022,Finance,Google Dataset Search,2025-06-26,92159,37.65,2025-03-29 14:20:31
+77,Transaction Records 2024,Finance,API Collection,2025-07-02,12443,4.66,2025-04-07 14:20:31
+78,Trending Topics 2022,Social Media,Web Scraping,2025-05-19,5704,5.47,2024-10-30 14:20:31
+79,Sensor Readings 2023,IoT,Web Scraping,2025-10-14,907734,678.92,2025-07-19 14:20:31
+80,Campaign Performance 2020,Marketing,Data.gov,2025-05-30,7935,6.88,2024-11-07 14:20:31
+81,Transaction Records 2022,Finance,GitHub,2025-02-06,9730175,6997.11,2024-03-22 14:20:31
+82,Campaign Performance 2020,Marketing,GitHub,2025-01-13,805443,195.37,2024-11-16 14:20:31
+83,Sensor Readings 2024,IoT,UCI ML Repository,2025-06-30,4619978,1443.95,2025-01-28 14:20:31
+84,Shopping Cart Abandonment 2021,E-commerce,Kaggle,2025-07-15,1349,1.26,2024-04-07 14:20:31
+85,Investment Portfolio 2024,Finance,Web Scraping,2025-02-27,10166,7.37,2023-04-25 14:20:31
+86,Social Media Engagement 2022,Marketing,API Collection,2025-11-01,4353,3.67,2024-10-01 14:20:31
+87,Course Enrollment 2020,Education,API Collection,2025-09-19,93876,87.85,2025-01-05 14:20:31
+88,Drug Interactions 2021,Healthcare,API Collection,2025-07-07,9116,5.92,2024-07-27 14:20:31
+89,Trending Topics 2024,Social Media,GitHub,2025-01-11,9252,5.51,2023-09-19 14:20:31
+90,Social Media Engagement 2022,Marketing,Google Dataset Search,2025-02-18,66454,16.68,2023-04-03 14:20:31
+91,Influencer Metrics 2024,Social Media,Web Scraping,2025-11-10,710775,648.18,2025-05-26 14:20:31
+92,Customer Behavior Analysis 2021,Marketing,Web Scraping,2025-08-09,16573,12.7,2024-10-11 14:20:31
+93,Supply Chain 2024,Manufacturing,Google Dataset Search,2024-12-19,45870,33.59,2024-06-30 14:20:31
+94,Customer Foot Traffic 2022,Retail,Company Database,2025-07-09,3029293,2842.94,2024-07-23 14:20:31
+95,Vehicle Telemetry 2024,IoT,API Collection,2025-06-22,59976,54.9,2024-06-06 14:20:31
+96,Social Media Engagement 2023,Marketing,Internal,2025-01-01,562374,394.88,2023-07-14 14:20:31
+97,Campaign Performance 2022,Marketing,Kaggle,2025-07-10,4129,2.85,2023-08-06 14:20:31
+98,Clinical Trials 2024,Healthcare,AWS Open Data,2025-11-09,1921077,1538.82,2025-08-30 14:20:31
+99,Product Reviews 2024,E-commerce,Web Scraping,2025-03-15,629186,616.46,2024-09-23 14:20:31
+100,Environmental Monitoring 2022,IoT,GitHub,2025-11-20,79166,77.88,2024-01-30 14:20:31
+101,Vehicle Telemetry 2020,IoT,Google Dataset Search,2025-10-23,6053,2.63,2024-09-28 14:20:31
+102,Social Media Engagement 2024,Marketing,AWS Open Data,2025-05-24,415902,215.96,2025-03-10 14:20:31
+103,Vehicle Telemetry 2021,IoT,Internal,2025-10-09,21205,4.68,2024-11-04 14:20:31
+104,Traffic Patterns 2021,Transportation,Company Database,2025-01-22,455689,262.67,2023-01-25 14:20:31
+105,Patient Records 2024,Healthcare,UCI ML Repository,2025-06-24,53960,26.32,2023-07-15 14:20:31
+106,Patient Records 2024,Healthcare,Kaggle,2024-12-11,126679,60.06,2023-07-13 14:20:31
+107,Social Media Engagement 2022,Marketing,Internal,2025-07-10,367367,51.29,2025-02-04 14:20:31
+108,Clinical Trials 2022,Healthcare,GitHub,2025-06-01,5654,2.35,2024-04-25 14:20:31
+109,Student Performance 2022,Education,GitHub,2025-09-05,7111,2.74,2024-11-18 14:20:31
+110,Investment Portfolio 2023,Finance,Kaggle,2025-08-04,5964,2.76,2023-12-10 14:20:31
+111,Equipment Maintenance 2020,Manufacturing,Web Scraping,2025-03-31,74204,72.97,2023-10-30 14:20:31
+112,Course Enrollment 2021,Education,UCI ML Repository,2025-02-14,562089,529.58,2023-05-01 14:20:31
+113,Inventory Management 2023,Retail,Kaggle,2024-12-21,9463367,5666.99,2023-06-16 14:20:31
+114,Social Media Engagement 2022,Marketing,API Collection,2025-02-14,7203,3.66,2024-05-17 14:20:31
+115,Quality Control 2023,Manufacturing,API Collection,2025-11-06,332661,222.25,2024-12-02 14:20:31
+116,User Interactions 2024,Social Media,Kaggle,2025-08-12,817494,657.95,2024-06-13 14:20:31
+117,Social Media Engagement 2023,Marketing,Data.gov,2025-09-27,451372,96.89,2024-05-17 14:20:31
+118,Equipment Maintenance 2023,Manufacturing,Google Dataset Search,2024-12-28,91591,87.31,2023-05-20 14:20:31
+119,User Interactions 2020,Social Media,UCI ML Repository,2025-10-19,48047,38.39,2024-08-04 14:20:31
+120,Shopping Cart Abandonment 2021,E-commerce,Web Scraping,2025-10-03,4243,0.74,2024-07-19 14:20:31
+121,Clinical Trials 2023,Healthcare,Data.gov,2025-08-04,8797,6.56,2023-09-23 14:20:31
+122,Course Enrollment 2024,Education,API Collection,2025-06-12,48416,36.06,2025-01-17 14:20:31
+123,Environmental Monitoring 2023,IoT,Google Dataset Search,2025-10-01,8589204,3737.42,2024-03-11 14:20:31
+124,Environmental Monitoring 2024,IoT,Internal,2025-10-26,79691,61.32,2025-03-14 14:20:31
+125,Inventory Management 2020,Retail,API Collection,2024-12-29,9428069,4485.42,2023-07-13 14:20:31
+126,Public Transit Usage 2024,Transportation,Google Dataset Search,2025-05-05,69223,30.12,2024-02-12 14:20:31
+127,Shopping Cart Abandonment 2020,E-commerce,Internal,2025-09-14,9784477,8490.93,2025-07-10 14:20:31
+128,Product Reviews 2021,E-commerce,UCI ML Repository,2025-06-29,930894,824.76,2024-08-01 14:20:31
+129,Equipment Maintenance 2023,Manufacturing,Data.gov,2025-11-19,4696341,1956.54,2025-08-11 14:20:31
+130,Graduation Rates 2023,Education,Internal,2025-04-13,946611,530.88,2023-07-19 14:20:31
+131,Graduation Rates 2020,Education,Internal,2025-09-25,5746,1.9,2023-11-09 14:20:31
+132,Student Performance 2023,Education,GitHub,2025-08-29,93343,55.81,2024-05-15 14:20:31
+133,Credit Risk Assessment 2022,Finance,Google Dataset Search,2025-09-06,4385,1.5,2023-10-22 14:20:31
+134,Shipping Routes 2020,Transportation,Company Database,2025-10-06,96255,23.09,2024-08-29 14:20:31
+135,Transaction Records 2020,Finance,AWS Open Data,2025-06-15,707756,607.2,2024-01-14 14:20:31
+136,Sales Transactions 2021,Retail,Data.gov,2025-11-16,1220,0.61,2025-07-23 14:20:31
+137,Shopping Cart Abandonment 2021,E-commerce,Kaggle,2025-03-28,369117,175.36,2023-09-30 14:20:31
+138,Customer Behavior Analysis 2021,Marketing,AWS Open Data,2025-06-14,4133070,606.23,2024-11-19 14:20:31
+139,Sales Transactions 2021,Retail,Kaggle,2025-03-17,4022,0.87,2024-11-12 14:20:31
+140,Production Metrics 2021,Manufacturing,Google Dataset Search,2025-06-19,6109,2.62,2024-03-06 14:20:31
+141,Medical Imaging 2022,Healthcare,Web Scraping,2024-12-13,326309,116.56,2023-07-18 14:20:31
+142,Campaign Performance 2022,Marketing,Company Database,2025-06-09,1739,0.69,2023-07-28 14:20:31
+143,Learning Analytics 2023,Education,Google Dataset Search,2025-01-16,446837,120.18,2024-02-13 14:20:31
+144,Student Performance 2021,Education,Internal,2025-06-29,926248,119.53,2024-04-30 14:20:31
+145,Product Reviews 2020,E-commerce,Internal,2025-05-06,5055808,1890.97,2024-08-19 14:20:31
+146,Quality Control 2021,Manufacturing,API Collection,2025-02-20,846510,664.96,2023-12-07 14:20:31
+147,Store Performance 2022,Retail,Kaggle,2025-03-01,4575,2.58,2024-04-09 14:20:31
+148,Clinical Trials 2022,Healthcare,Kaggle,2025-10-19,8725,1.47,2025-02-18 14:20:31
+149,Store Performance 2023,Retail,Google Dataset Search,2025-07-07,816531,488.03,2023-08-30 14:20:31
+150,Patient Records 2022,Healthcare,API Collection,2025-07-12,213831,71.31,2024-09-14 14:20:31
+151,Learning Analytics 2020,Education,Google Dataset Search,2025-02-16,7170338,6473.44,2023-12-22 14:20:31
+152,Shipping Routes 2023,Transportation,API Collection,2025-09-20,8330008,1459.5,2024-08-24 14:20:31
+153,Drug Interactions 2021,Healthcare,Company Database,2025-05-20,5197327,3666.2,2024-09-23 14:20:31
+154,Sensor Readings 2024,IoT,Internal,2025-06-26,5316,3.26,2024-01-25 14:20:31
+155,Trending Topics 2021,Social Media,AWS Open Data,2025-07-03,76303,56.83,2023-08-28 14:20:31
+156,Flight Schedules 2021,Transportation,Web Scraping,2025-05-31,2954494,1191.42,2024-10-09 14:20:31
+157,Smart Home Data 2024,IoT,Kaggle,2025-03-17,563363,555.36,2023-04-23 14:20:31
+158,Sensor Readings 2022,IoT,API Collection,2025-01-19,5252,5.07,2023-09-30 14:20:31
+159,Environmental Monitoring 2022,IoT,API Collection,2025-05-21,24935,23.95,2024-10-04 14:20:31
+160,Sensor Readings 2024,IoT,Kaggle,2025-02-04,7405,4.76,2024-06-11 14:20:31
+161,Sentiment Analysis 2024,Social Media,Data.gov,2025-04-27,58070,52.5,2024-12-25 14:20:31
+162,Store Performance 2023,Retail,API Collection,2025-06-13,1447,0.99,2024-02-03 14:20:31
+163,Patient Records 2020,Healthcare,Google Dataset Search,2025-11-15,6730901,1282.61,2023-11-19 14:20:31
+164,Stock Market Data 2021,Finance,Google Dataset Search,2025-04-17,963727,473.08,2024-11-01 14:20:31
+165,Product Reviews 2023,E-commerce,Kaggle,2024-12-19,4922920,2342.64,2024-02-29 14:20:31
+166,Course Enrollment 2020,Education,Company Database,2025-08-02,6268,6.14,2024-04-07 14:20:31
+167,Shopping Cart Abandonment 2023,E-commerce,API Collection,2025-03-23,6288907,3099.8,2024-12-28 14:20:31
+168,Product Reviews 2021,E-commerce,Data.gov,2024-12-21,91367,24.7,2023-05-10 14:20:31
+169,Student Performance 2023,Education,API Collection,2025-01-11,806917,356.21,2023-12-10 14:20:31
+170,Supply Chain 2024,Manufacturing,Company Database,2025-01-08,43719,13.44,2023-06-03 14:20:31
+171,Supply Chain 2020,Manufacturing,API Collection,2025-07-16,3663,1.69,2024-04-16 14:20:31
+172,Traffic Patterns 2020,Transportation,Web Scraping,2025-05-18,477219,327.38,2024-03-02 14:20:31
+173,Medical Imaging 2024,Healthcare,Data.gov,2025-05-12,7496,3.53,2024-06-06 14:20:31
+174,Medical Imaging 2022,Healthcare,Data.gov,2025-05-01,35436,3.99,2023-11-29 14:20:31
+175,Customer Foot Traffic 2021,Retail,Data.gov,2025-11-11,32571,31.6,2024-10-25 14:20:31
+176,Equipment Maintenance 2021,Manufacturing,Company Database,2025-09-22,951249,288.6,2024-06-07 14:20:31
+177,Graduation Rates 2023,Education,Google Dataset Search,2025-10-02,918669,714.2,2024-05-22 14:20:31
+178,Graduation Rates 2022,Education,UCI ML Repository,2025-03-26,712550,471.26,2024-09-05 14:20:31
+179,Graduation Rates 2021,Education,AWS Open Data,2025-02-18,8654822,3467.38,2024-10-22 14:20:31
+180,Inventory Management 2023,Retail,Kaggle,2025-07-28,31334,24.19,2024-08-01 14:20:31
+181,Campaign Performance 2024,Marketing,Web Scraping,2025-04-04,980221,134.79,2024-11-06 14:20:31
+182,Smart Home Data 2022,IoT,Google Dataset Search,2025-02-19,3814,2.74,2024-12-31 14:20:31
+183,Product Catalog 2021,E-commerce,Google Dataset Search,2025-01-04,7854456,1077.59,2024-09-26 14:20:31
+184,Vehicle Telemetry 2023,IoT,Kaggle,2025-11-13,2151869,1879.34,2024-07-30 14:20:31
+185,Shopping Cart Abandonment 2021,E-commerce,API Collection,2025-07-30,6348,5.98,2023-12-12 14:20:31
+186,Customer Behavior Analysis 2022,Marketing,Company Database,2025-10-10,1322092,566.65,2024-05-06 14:20:31
+187,Public Transit Usage 2022,Transportation,GitHub,2025-01-24,6828,2.59,2024-09-24 14:20:31
+188,Store Performance 2022,Retail,API Collection,2025-05-03,57480,49.81,2023-09-09 14:20:31
+189,Sentiment Analysis 2020,Social Media,Google Dataset Search,2025-08-25,16841,12.64,2024-05-30 14:20:31
+190,Email Marketing Metrics 2024,Marketing,Web Scraping,2025-07-10,69562,21.11,2024-08-04 14:20:31
+191,Supply Chain 2021,Manufacturing,Data.gov,2025-10-31,42512,41.17,2024-06-26 14:20:31
+192,Customer Foot Traffic 2022,Retail,Data.gov,2025-06-15,641653,562.21,2024-08-30 14:20:31
+193,Sensor Readings 2024,IoT,Web Scraping,2025-03-26,2890111,1032.63,2024-07-19 14:20:31
+194,Product Catalog 2020,E-commerce,Google Dataset Search,2025-03-12,803589,713.78,2023-06-05 14:20:31
+195,Flight Schedules 2021,Transportation,UCI ML Repository,2024-12-11,140352,132.55,2023-09-11 14:20:31
+196,Email Marketing Metrics 2023,Marketing,Internal,2024-12-23,74205,37.35,2024-02-07 14:20:31
+197,Environmental Monitoring 2020,IoT,Web Scraping,2025-10-10,2087,2.05,2025-03-29 14:20:31
+198,Course Enrollment 2021,Education,GitHub,2025-01-28,145525,30.5,2024-08-05 14:20:31
+199,Influencer Metrics 2020,Social Media,Kaggle,2025-01-15,6133182,1228.67,2023-11-13 14:20:31
+200,Equipment Maintenance 2023,Manufacturing,AWS Open Data,2025-07-23,313125,75.21,2024-08-12 14:20:31
+201,Smart Home Data 2024,IoT,AWS Open Data,2025-07-01,743514,228.27,2024-02-20 14:20:31
+202,Quality Control 2024,Manufacturing,GitHub,2025-10-28,7060236,5095.79,2023-11-10 14:20:31
+203,Product Catalog 2023,E-commerce,GitHub,2025-11-23,97847,69.65,2025-02-27 14:20:31
+204,Quality Control 2024,Manufacturing,UCI ML Repository,2025-08-15,8834024,2272.84,2024-07-07 14:20:31
+205,Stock Market Data 2023,Finance,Internal,2025-06-01,95668,27.87,2024-05-26 14:20:31
+206,Quality Control 2023,Manufacturing,Web Scraping,2025-12-02,4150,3.05,2025-10-24 14:20:31
+207,Medical Imaging 2024,Healthcare,API Collection,2025-11-08,394543,368.07,2024-09-14 14:20:31
+208,Smart Home Data 2021,IoT,Data.gov,2025-03-09,7280,3.97,2023-06-26 14:20:31
+209,Inventory Management 2020,Retail,Kaggle,2025-11-15,3383271,2324.68,2023-12-29 14:20:31
+210,Vehicle Telemetry 2023,IoT,Company Database,2025-07-14,305434,165.91,2025-01-20 14:20:31
+211,Medical Imaging 2021,Healthcare,Web Scraping,2025-08-26,4203461,614.92,2024-12-03 14:20:31
+212,Vehicle Telemetry 2022,IoT,Kaggle,2025-08-31,7266314,4498.08,2024-03-31 14:20:31
+213,User Purchase History 2021,E-commerce,API Collection,2025-04-22,2321,1.1,2024-03-14 14:20:31
+214,User Interactions 2024,Social Media,Web Scraping,2025-06-02,2608,2.48,2024-05-04 14:20:31
+215,Stock Market Data 2022,Finance,UCI ML Repository,2025-07-22,5853062,5339.09,2024-05-15 14:20:31
+216,Shopping Cart Abandonment 2024,E-commerce,Company Database,2025-02-20,910200,214.92,2023-09-30 14:20:31
+217,Shopping Cart Abandonment 2020,E-commerce,Google Dataset Search,2025-11-19,784299,692.93,2024-10-07 14:20:31
+218,Smart Home Data 2021,IoT,Company Database,2025-03-06,7756,4.15,2023-12-16 14:20:31
+219,Credit Risk Assessment 2023,Finance,Kaggle,2025-04-25,37629,21.01,2023-09-09 14:20:31
+220,Vehicle Telemetry 2024,IoT,Data.gov,2025-07-05,8145082,5908.24,2024-12-20 14:20:31
+221,Sentiment Analysis 2020,Social Media,Internal,2024-12-11,46183,41.12,2024-10-02 14:20:31
+222,Student Performance 2020,Education,UCI ML Repository,2025-10-20,545674,478.41,2024-07-15 14:20:31
+223,Sales Transactions 2022,Retail,Web Scraping,2025-05-11,1158,0.98,2024-05-24 14:20:31
+224,Medical Imaging 2022,Healthcare,Company Database,2025-06-19,972356,345.31,2024-02-13 14:20:31
+225,Social Media Engagement 2020,Marketing,API Collection,2024-12-26,7862,5.49,2024-04-01 14:20:31
+226,Medical Imaging 2020,Healthcare,Internal,2025-04-03,6517713,5544.06,2023-10-30 14:20:31
+227,Shipping Routes 2021,Transportation,API Collection,2025-07-04,2821,1.7,2025-03-19 14:20:31
+228,Investment Portfolio 2021,Finance,UCI ML Repository,2025-01-20,7601380,6273.27,2024-01-14 14:20:31
+229,Product Catalog 2022,E-commerce,AWS Open Data,2025-07-23,442997,169.22,2024-12-02 14:20:31
+230,User Purchase History 2023,E-commerce,Kaggle,2025-11-30,7401774,1993.32,2024-10-07 14:20:31
+231,Quality Control 2023,Manufacturing,Kaggle,2025-08-30,5878,2.33,2024-01-02 14:20:31
+232,Stock Market Data 2024,Finance,Kaggle,2025-09-14,826039,738.75,2024-03-03 14:20:31
+233,Sensor Readings 2024,IoT,Google Dataset Search,2025-07-01,8400,3.69,2025-04-05 14:20:31
+234,Email Marketing Metrics 2021,Marketing,Data.gov,2025-02-26,8243708,2323.06,2024-08-20 14:20:31
+235,Equipment Maintenance 2022,Manufacturing,Company Database,2025-02-25,501775,160.85,2024-12-06 14:20:31
+236,Campaign Performance 2020,Marketing,Data.gov,2024-12-10,2790961,818.47,2023-12-05 14:20:31
+237,Quality Control 2021,Manufacturing,Web Scraping,2025-04-28,636507,514.39,2023-05-30 14:20:31
+238,Equipment Maintenance 2024,Manufacturing,Kaggle,2025-08-10,79887,32.02,2024-12-25 14:20:31
+239,Public Transit Usage 2022,Transportation,AWS Open Data,2025-10-28,9951538,2485.16,2024-04-08 14:20:31
+240,Flight Schedules 2023,Transportation,Web Scraping,2025-11-30,727088,186.85,2024-01-01 14:20:31
+241,Sales Transactions 2021,Retail,API Collection,2025-10-25,3608,1.38,2025-02-15 14:20:31
+242,Drug Interactions 2020,Healthcare,AWS Open Data,2025-11-17,8548,5.87,2025-03-20 14:20:31
+243,Smart Home Data 2022,IoT,Company Database,2025-11-04,69991,10.94,2024-01-13 14:20:31
+244,User Purchase History 2024,E-commerce,Google Dataset Search,2025-06-02,971068,324.28,2025-03-08 14:20:31
+245,Social Media Engagement 2022,Marketing,UCI ML Repository,2025-05-14,433813,390.54,2024-07-18 14:20:31
+246,Campaign Performance 2024,Marketing,UCI ML Repository,2025-01-24,6730,2.8,2024-08-10 14:20:31
+247,Transaction Records 2023,Finance,Kaggle,2025-11-20,7938,4.93,2025-03-19 14:20:31
+248,Public Transit Usage 2020,Transportation,Google Dataset Search,2025-07-08,2307269,596.52,2024-03-22 14:20:31
+249,Sensor Readings 2023,IoT,Company Database,2025-11-21,19980,6.79,2024-10-25 14:20:31
+250,Learning Analytics 2022,Education,Data.gov,2025-09-19,9013,2.47,2024-05-13 14:20:31
+251,Campaign Performance 2024,Marketing,AWS Open Data,2025-04-25,1063061,346.99,2024-11-10 14:20:31
+252,Shipping Routes 2023,Transportation,Google Dataset Search,2025-03-16,87177,33.72,2024-01-10 14:20:31
+253,Social Media Engagement 2020,Marketing,Data.gov,2025-07-14,595551,214.25,2025-06-01 14:20:31
+254,Shipping Routes 2020,Transportation,Data.gov,2025-04-28,283908,39.16,2023-11-26 14:20:31
+255,Social Media Engagement 2020,Marketing,Web Scraping,2025-10-06,8454993,1772.11,2025-08-25 14:20:31
+256,Smart Home Data 2024,IoT,Data.gov,2025-01-21,8582,7.39,2024-10-06 14:20:31
+257,User Interactions 2022,Social Media,UCI ML Repository,2025-01-25,4247,1.56,2023-02-19 14:20:31
+258,Smart Home Data 2021,IoT,AWS Open Data,2025-04-29,4924,0.55,2023-11-18 14:20:31
+259,Course Enrollment 2022,Education,AWS Open Data,2025-10-27,5428126,2924.7,2024-06-22 14:20:31
+260,Vehicle Telemetry 2020,IoT,Google Dataset Search,2025-06-30,844019,575.24,2025-04-11 14:20:31
+261,Campaign Performance 2024,Marketing,GitHub,2025-08-06,5539,5.38,2023-11-27 14:20:31
+262,Shopping Cart Abandonment 2023,E-commerce,Company Database,2025-10-16,21594,15.36,2025-03-01 14:20:31
+263,Vehicle Telemetry 2024,IoT,GitHub,2025-10-14,71564,44.68,2023-11-19 14:20:31
+264,Transaction Records 2023,Finance,Google Dataset Search,2025-05-13,10669,7.51,2024-01-06 14:20:31
+265,Social Media Engagement 2024,Marketing,AWS Open Data,2025-05-15,89169,11.0,2023-06-15 14:20:31
+266,Investment Portfolio 2024,Finance,GitHub,2024-12-31,5284299,4132.2,2024-10-04 14:20:31
+267,Email Marketing Metrics 2023,Marketing,AWS Open Data,2025-08-01,2850,0.29,2025-01-07 14:20:31
+268,Production Metrics 2024,Manufacturing,Internal,2025-05-10,309059,47.32,2024-11-19 14:20:31
+269,User Purchase History 2020,E-commerce,Google Dataset Search,2025-03-30,6995601,6490.39,2024-03-13 14:20:31
+270,Trending Topics 2024,Social Media,AWS Open Data,2024-12-25,46412,13.58,2024-10-16 14:20:31
+271,Clinical Trials 2022,Healthcare,GitHub,2025-04-03,39468,37.51,2023-05-16 14:20:31
+272,Social Media Engagement 2021,Marketing,Company Database,2025-01-26,129055,91.0,2023-12-23 14:20:31
+273,Smart Home Data 2023,IoT,Kaggle,2025-07-09,238549,227.81,2024-07-28 14:20:31
+274,User Purchase History 2024,E-commerce,Company Database,2025-10-22,1955,1.3,2025-01-10 14:20:31
+275,Vehicle Telemetry 2022,IoT,UCI ML Repository,2025-06-26,67212,13.74,2024-09-03 14:20:31
+276,Equipment Maintenance 2024,Manufacturing,Google Dataset Search,2025-08-17,960396,278.25,2024-02-20 14:20:31
+277,Graduation Rates 2024,Education,AWS Open Data,2025-07-19,3064,1.18,2024-05-26 14:20:31
+278,Course Enrollment 2020,Education,AWS Open Data,2025-04-16,95074,17.63,2024-08-15 14:20:31
+279,Traffic Patterns 2020,Transportation,Web Scraping,2025-05-09,4281885,1784.66,2024-04-04 14:20:31
+280,Environmental Monitoring 2023,IoT,UCI ML Repository,2025-09-24,11523,10.52,2023-10-28 14:20:31
+281,Equipment Maintenance 2022,Manufacturing,UCI ML Repository,2025-08-26,8120712,2858.45,2025-02-24 14:20:31
+282,Traffic Patterns 2023,Transportation,Web Scraping,2025-01-09,47096,11.83,2024-01-06 14:20:31
+283,Course Enrollment 2023,Education,Data.gov,2025-11-13,89664,78.86,2025-10-03 14:20:31
+284,Email Marketing Metrics 2022,Marketing,Web Scraping,2025-02-01,72386,62.88,2023-09-28 14:20:31
+285,Flight Schedules 2022,Transportation,UCI ML Repository,2025-02-25,969410,646.93,2024-08-13 14:20:31
+286,Traffic Patterns 2021,Transportation,AWS Open Data,2025-03-23,411077,249.83,2025-02-05 14:20:31
+287,Supply Chain 2023,Manufacturing,Data.gov,2025-03-03,28449,15.2,2023-04-11 14:20:31
+288,Shipping Routes 2021,Transportation,Company Database,2025-03-11,5558804,3593.57,2024-05-01 14:20:31
+289,Patient Records 2023,Healthcare,Google Dataset Search,2025-06-16,51775,17.72,2024-10-20 14:20:31
+290,Traffic Patterns 2023,Transportation,API Collection,2025-03-23,76857,64.75,2024-11-30 14:20:31
+291,Learning Analytics 2021,Education,Google Dataset Search,2025-08-23,51491,45.97,2024-09-16 14:20:31
+292,Drug Interactions 2020,Healthcare,Kaggle,2025-08-05,5562,1.57,2024-01-24 14:20:31
+293,Customer Behavior Analysis 2020,Marketing,Google Dataset Search,2025-01-31,8667,3.61,2023-12-08 14:20:31
+294,Sentiment Analysis 2024,Social Media,AWS Open Data,2024-12-15,383146,98.32,2024-03-16 14:20:31
+295,Product Reviews 2021,E-commerce,Web Scraping,2025-01-03,722963,344.53,2023-05-27 14:20:31
+296,Student Performance 2024,Education,GitHub,2024-12-27,184714,53.95,2023-08-21 14:20:31
+297,Patient Records 2023,Healthcare,Web Scraping,2025-02-09,912098,694.64,2024-01-28 14:20:31
+298,Public Transit Usage 2022,Transportation,API Collection,2025-01-06,865970,683.65,2024-10-04 14:20:31
+299,Social Media Engagement 2023,Marketing,Google Dataset Search,2025-12-03,1390806,574.84,2025-04-01 14:20:31
+300,Trending Topics 2022,Social Media,AWS Open Data,2025-06-21,100155,19.21,2023-09-17 14:20:31
+301,Campaign Performance 2022,Marketing,Internal,2025-09-23,8408,3.86,2024-03-06 14:20:31
+302,Shipping Routes 2024,Transportation,Internal,2025-02-13,5960626,3542.78,2024-03-01 14:20:31
+303,Product Catalog 2022,E-commerce,Kaggle,2025-10-20,90656,82.68,2024-07-02 14:20:31
+304,Social Media Engagement 2021,Marketing,Company Database,2025-02-01,623833,328.72,2023-11-18 14:20:31
+305,Quality Control 2022,Manufacturing,Company Database,2025-06-25,2802085,1760.45,2023-10-28 14:20:31
+306,Equipment Maintenance 2024,Manufacturing,API Collection,2025-11-18,8729,5.35,2025-09-23 14:20:31
+307,Drug Interactions 2022,Healthcare,Internal,2024-12-26,79418,74.02,2023-01-02 14:20:31
+308,Email Marketing Metrics 2023,Marketing,Data.gov,2025-11-25,8246194,7918.53,2024-01-13 14:20:31
+309,Quality Control 2023,Manufacturing,Company Database,2025-08-12,930717,633.5,2024-10-01 14:20:31
+310,Production Metrics 2023,Manufacturing,Data.gov,2025-02-13,370242,352.2,2024-01-18 14:20:31
+311,Sentiment Analysis 2020,Social Media,Kaggle,2025-11-14,1732286,1030.08,2024-07-03 14:20:31
+312,Equipment Maintenance 2022,Manufacturing,Internal,2025-09-07,41555,24.89,2024-11-18 14:20:31
+313,Sales Transactions 2023,Retail,API Collection,2024-12-28,24443,5.75,2024-10-18 14:20:31
+314,Shipping Routes 2022,Transportation,Company Database,2025-05-14,39402,15.78,2024-10-14 14:20:31
+315,Shopping Cart Abandonment 2022,E-commerce,Company Database,2025-03-13,405221,354.64,2025-02-10 14:20:31
+316,Campaign Performance 2023,Marketing,Kaggle,2025-04-05,39678,29.84,2025-02-21 14:20:31
+317,Credit Risk Assessment 2022,Finance,API Collection,2025-03-08,7517,3.08,2024-03-17 14:20:31
+318,Public Transit Usage 2020,Transportation,Google Dataset Search,2025-11-27,3332007,2228.74,2024-06-17 14:20:31
+319,Inventory Management 2022,Retail,Company Database,2025-10-12,6943075,5553.6,2023-12-13 14:20:31
+320,Flight Schedules 2024,Transportation,Internal,2025-09-20,33463,11.31,2023-10-10 14:20:31
+321,Sales Transactions 2021,Retail,Kaggle,2025-04-05,5268,5.24,2023-11-13 14:20:31
+322,Quality Control 2020,Manufacturing,Company Database,2025-09-24,567774,487.17,2024-04-04 14:20:31
+323,Supply Chain 2023,Manufacturing,Web Scraping,2025-09-22,713677,401.52,2025-06-16 14:20:31
+324,Sentiment Analysis 2023,Social Media,Kaggle,2025-06-29,430837,312.88,2025-01-19 14:20:31
+325,Medical Imaging 2021,Healthcare,UCI ML Repository,2024-12-13,256187,107.22,2024-01-23 14:20:31
+326,Customer Behavior Analysis 2021,Marketing,Web Scraping,2024-12-15,51926,10.16,2023-11-26 14:20:31
+327,User Purchase History 2020,E-commerce,UCI ML Repository,2025-01-10,8464344,5625.02,2024-06-05 14:20:31
+328,Product Catalog 2020,E-commerce,API Collection,2025-11-18,7426809,2827.44,2025-03-15 14:20:31
+329,Product Catalog 2022,E-commerce,AWS Open Data,2025-11-08,9382,4.31,2025-04-10 14:20:31
+330,Vehicle Telemetry 2020,IoT,AWS Open Data,2025-05-10,5268972,4534.65,2023-06-30 14:20:31
+331,Vehicle Telemetry 2024,IoT,Kaggle,2025-11-01,9193,6.7,2024-08-03 14:20:31
+332,Graduation Rates 2020,Education,Data.gov,2025-02-25,97068,66.44,2023-06-09 14:20:31
+333,Influencer Metrics 2023,Social Media,Web Scraping,2025-06-12,2213,1.49,2024-11-30 14:20:31
+334,Drug Interactions 2020,Healthcare,Data.gov,2025-03-20,9469745,1532.64,2024-02-15 14:20:31
+335,User Purchase History 2024,E-commerce,Kaggle,2025-09-14,54806,21.42,2023-10-06 14:20:31
+336,Shopping Cart Abandonment 2023,E-commerce,Data.gov,2025-09-07,8433,1.66,2024-05-21 14:20:31
+337,Medical Imaging 2020,Healthcare,Web Scraping,2025-05-26,9304,8.22,2024-05-25 14:20:31
+338,Production Metrics 2022,Manufacturing,GitHub,2025-07-30,314278,183.23,2024-11-27 14:20:31
+339,Traffic Patterns 2024,Transportation,Internal,2025-02-18,7228,6.12,2023-06-10 14:20:31
+340,Environmental Monitoring 2022,IoT,Data.gov,2025-11-10,3233846,2814.92,2025-08-07 14:20:31
+341,Traffic Patterns 2022,Transportation,Kaggle,2025-01-01,76384,63.82,2024-09-05 14:20:31
+342,Student Performance 2022,Education,Kaggle,2025-01-16,32335,24.13,2024-07-26 14:20:31
+343,Influencer Metrics 2020,Social Media,Company Database,2025-08-01,4304061,3766.87,2023-09-25 14:20:31
+344,Student Performance 2022,Education,GitHub,2025-05-12,84901,61.71,2024-12-15 14:20:31
+345,Influencer Metrics 2022,Social Media,Internal,2025-02-20,11063,3.0,2023-05-12 14:20:31
+346,Store Performance 2021,Retail,Internal,2025-05-22,74827,13.22,2023-06-01 14:20:31
+347,Vehicle Telemetry 2021,IoT,GitHub,2025-10-05,567005,329.46,2025-02-22 14:20:31
+348,Sensor Readings 2022,IoT,GitHub,2025-05-25,5805,4.35,2023-12-30 14:20:31
+349,Course Enrollment 2021,Education,Kaggle,2025-01-28,791232,725.82,2023-06-01 14:20:31
+350,User Purchase History 2022,E-commerce,GitHub,2025-07-02,9879053,4682.41,2025-06-01 14:20:31
+351,Traffic Patterns 2021,Transportation,Kaggle,2025-05-25,5457663,2644.59,2024-10-30 14:20:31
+352,Medical Imaging 2022,Healthcare,Company Database,2025-09-01,5256861,3540.78,2025-05-09 14:20:31
+353,Course Enrollment 2024,Education,Kaggle,2025-07-25,7862,1.18,2023-12-18 14:20:31
+354,Public Transit Usage 2021,Transportation,API Collection,2025-10-29,2158,0.3,2024-03-13 14:20:31
+355,Shipping Routes 2021,Transportation,Internal,2025-06-17,29758,20.16,2024-03-05 14:20:31
+356,Credit Risk Assessment 2020,Finance,Kaggle,2025-06-30,7414026,6242.43,2025-04-13 14:20:31
+357,Quality Control 2020,Manufacturing,Data.gov,2025-11-12,696329,407.0,2025-03-17 14:20:31
+358,Student Performance 2023,Education,API Collection,2025-06-08,7627104,3973.73,2024-01-07 14:20:31
+359,Product Reviews 2021,E-commerce,UCI ML Repository,2025-05-05,6429,6.0,2024-09-27 14:20:31
+360,Transaction Records 2023,Finance,UCI ML Repository,2025-04-11,9788858,4626.93,2024-08-08 14:20:31
+361,Sentiment Analysis 2022,Social Media,Data.gov,2025-11-29,642903,463.5,2025-10-13 14:20:31
+362,Investment Portfolio 2021,Finance,GitHub,2025-09-25,339272,150.65,2025-06-20 14:20:31
+363,Customer Behavior Analysis 2020,Marketing,API Collection,2024-12-24,2999,2.84,2023-08-27 14:20:31
+364,Traffic Patterns 2022,Transportation,Kaggle,2025-10-07,8681766,7617.76,2024-04-10 14:20:31
+365,Inventory Management 2024,Retail,Data.gov,2025-07-11,32891,21.28,2025-02-02 14:20:31
+366,Product Catalog 2020,E-commerce,GitHub,2025-05-02,6091344,1637.67,2023-12-26 14:20:31
+367,Email Marketing Metrics 2020,Marketing,Web Scraping,2025-04-13,2802,2.41,2023-08-20 14:20:31
+368,Inventory Management 2022,Retail,Kaggle,2025-06-01,1054,0.2,2024-12-22 14:20:31
+369,Customer Behavior Analysis 2023,Marketing,GitHub,2025-09-07,34153,14.51,2025-04-28 14:20:31
+370,Learning Analytics 2020,Education,Company Database,2025-11-22,32036,31.3,2024-04-15 14:20:31
+371,Stock Market Data 2020,Finance,Data.gov,2025-12-01,94452,16.12,2025-04-15 14:20:31
+372,Sales Transactions 2020,Retail,Google Dataset Search,2025-03-06,204256,177.7,2024-04-06 14:20:31
+373,Equipment Maintenance 2022,Manufacturing,UCI ML Repository,2024-12-23,678410,466.88,2024-02-09 14:20:31
+374,Store Performance 2024,Retail,API Collection,2025-04-28,84061,21.16,2024-12-12 14:20:31
+375,Investment Portfolio 2020,Finance,Kaggle,2025-06-15,20365,18.88,2023-12-31 14:20:31
+376,Patient Records 2021,Healthcare,Internal,2025-05-13,6384,5.62,2024-12-25 14:20:31
+377,Production Metrics 2023,Manufacturing,API Collection,2025-03-02,7884810,2761.17,2024-08-01 14:20:31
+378,Trending Topics 2022,Social Media,AWS Open Data,2025-08-20,900177,831.33,2023-11-06 14:20:31
+379,Inventory Management 2020,Retail,Web Scraping,2025-10-05,229633,69.74,2024-07-30 14:20:31
+380,Campaign Performance 2022,Marketing,AWS Open Data,2025-02-04,8307517,6442.05,2024-07-30 14:20:31
+381,Email Marketing Metrics 2023,Marketing,AWS Open Data,2025-10-20,27546,11.4,2023-11-02 14:20:31
+382,Learning Analytics 2024,Education,Data.gov,2025-09-15,7660378,1359.02,2025-05-25 14:20:31
+383,Investment Portfolio 2021,Finance,API Collection,2025-05-21,55452,24.19,2023-06-01 14:20:31
+384,Trending Topics 2022,Social Media,Web Scraping,2025-11-20,27311,10.81,2024-03-01 14:20:31
+385,User Purchase History 2022,E-commerce,Google Dataset Search,2025-05-27,7733934,2498.72,2023-09-14 14:20:31
+386,Credit Risk Assessment 2021,Finance,Internal,2025-06-06,623112,315.18,2024-10-04 14:20:31
+387,Product Catalog 2023,E-commerce,API Collection,2025-01-31,251350,217.69,2024-01-07 14:20:31
+388,Patient Records 2021,Healthcare,Data.gov,2025-11-01,676381,391.38,2024-01-26 14:20:31
+389,Influencer Metrics 2022,Social Media,AWS Open Data,2025-09-20,215215,176.3,2024-01-12 14:20:31
+390,Vehicle Telemetry 2024,IoT,Company Database,2025-03-08,2050093,558.14,2024-12-10 14:20:31
+391,Clinical Trials 2021,Healthcare,Company Database,2025-06-30,8605536,3298.06,2024-11-19 14:20:31
+392,Customer Behavior Analysis 2023,Marketing,Data.gov,2025-08-07,51462,27.11,2025-04-02 14:20:31
+393,Equipment Maintenance 2020,Manufacturing,API Collection,2025-03-03,1436797,246.49,2025-01-05 14:20:31
+394,Sentiment Analysis 2023,Social Media,Company Database,2025-07-17,815975,297.44,2025-01-10 14:20:31
+395,Student Performance 2020,Education,UCI ML Repository,2025-08-07,9675221,8184.46,2025-05-17 14:20:31
+396,Social Media Engagement 2020,Marketing,Google Dataset Search,2025-09-12,44036,4.81,2024-01-04 14:20:31
+397,Inventory Management 2020,Retail,Google Dataset Search,2025-11-09,6576125,6145.13,2024-11-28 14:20:31
+398,Learning Analytics 2023,Education,UCI ML Repository,2025-03-22,90292,9.07,2023-08-15 14:20:31
+399,Shopping Cart Abandonment 2021,E-commerce,Web Scraping,2025-04-21,2703,2.57,2024-04-25 14:20:31
+400,Smart Home Data 2021,IoT,API Collection,2025-07-01,172844,121.68,2024-08-22 14:20:31
+401,Environmental Monitoring 2021,IoT,GitHub,2025-02-25,3743140,1647.56,2024-11-27 14:20:31
+402,Sentiment Analysis 2023,Social Media,AWS Open Data,2025-09-29,13716,8.46,2025-06-26 14:20:31
+403,Store Performance 2024,Retail,UCI ML Repository,2025-06-10,4058029,461.75,2024-11-08 14:20:31
+404,Influencer Metrics 2024,Social Media,Google Dataset Search,2025-11-02,6275930,2394.75,2024-04-09 14:20:31
+405,Smart Home Data 2020,IoT,Web Scraping,2025-01-25,4279667,1725.1,2023-03-09 14:20:31
+406,Sales Transactions 2023,Retail,Kaggle,2025-09-03,67611,15.06,2023-10-07 14:20:31
+407,Environmental Monitoring 2023,IoT,GitHub,2025-03-09,183102,116.74,2023-09-13 14:20:31
+408,Equipment Maintenance 2023,Manufacturing,Internal,2025-01-14,652790,580.35,2024-10-15 14:20:31
+409,Smart Home Data 2024,IoT,Google Dataset Search,2025-02-08,7915129,1708.11,2023-11-06 14:20:31
+410,Quality Control 2022,Manufacturing,Data.gov,2025-11-23,1813,1.36,2025-04-30 14:20:31
+411,Email Marketing Metrics 2021,Marketing,Google Dataset Search,2025-09-19,1124966,744.84,2025-08-04 14:20:31
+412,Social Media Engagement 2021,Marketing,GitHub,2025-05-26,571268,510.21,2024-07-29 14:20:31
+413,Influencer Metrics 2020,Social Media,API Collection,2025-06-17,2947,2.13,2024-02-09 14:20:31
+414,Sensor Readings 2024,IoT,AWS Open Data,2025-10-20,6294234,3075.12,2025-02-05 14:20:31
+415,Customer Behavior Analysis 2020,Marketing,API Collection,2025-09-14,1665131,1615.92,2024-09-14 14:20:31
+416,Transaction Records 2022,Finance,AWS Open Data,2024-12-15,5330039,2901.02,2023-09-30 14:20:31
+417,User Purchase History 2023,E-commerce,Company Database,2025-08-01,494921,94.47,2023-10-18 14:20:31
+418,Drug Interactions 2021,Healthcare,Data.gov,2025-09-25,696148,395.89,2024-05-19 14:20:31
+419,Campaign Performance 2024,Marketing,UCI ML Repository,2025-06-05,1248,1.17,2023-09-01 14:20:31
+420,Equipment Maintenance 2024,Manufacturing,Internal,2025-05-05,1918519,1472.37,2023-11-20 14:20:31
+421,Medical Imaging 2021,Healthcare,Kaggle,2025-05-14,72956,19.55,2024-09-07 14:20:31
+422,Student Performance 2022,Education,API Collection,2025-05-25,7479106,2190.38,2023-08-17 14:20:31
+423,Quality Control 2022,Manufacturing,Google Dataset Search,2025-06-07,68780,58.97,2024-07-30 14:20:31
+424,Investment Portfolio 2021,Finance,Company Database,2025-06-11,866024,605.42,2023-08-29 14:20:31
+425,Equipment Maintenance 2021,Manufacturing,Company Database,2024-12-08,7286,1.17,2024-02-20 14:20:31
+426,Sentiment Analysis 2024,Social Media,API Collection,2025-07-25,29028,3.45,2024-01-08 14:20:31
+427,Campaign Performance 2020,Marketing,Google Dataset Search,2025-04-12,233255,60.38,2024-12-06 14:20:31
+428,Environmental Monitoring 2022,IoT,Google Dataset Search,2024-12-26,269850,232.99,2024-05-14 14:20:31
+429,Sentiment Analysis 2020,Social Media,AWS Open Data,2025-04-21,7531195,3760.93,2024-12-09 14:20:31
+430,Quality Control 2024,Manufacturing,Kaggle,2025-02-02,2457,1.36,2024-06-07 14:20:31
+431,Equipment Maintenance 2023,Manufacturing,GitHub,2025-10-21,6579875,5553.12,2023-11-29 14:20:31
+432,Traffic Patterns 2022,Transportation,UCI ML Repository,2025-04-03,6823520,5892.5,2023-04-28 14:20:31
+433,Shopping Cart Abandonment 2023,E-commerce,Web Scraping,2025-07-14,243805,113.63,2023-11-06 14:20:31
+434,Clinical Trials 2022,Healthcare,Internal,2025-09-02,8034,1.83,2025-07-11 14:20:31
+435,Product Reviews 2024,E-commerce,Kaggle,2025-10-31,7171,1.17,2025-08-03 14:20:31
+436,Drug Interactions 2024,Healthcare,Kaggle,2025-11-04,2439,2.42,2025-07-25 14:20:31
+437,Sentiment Analysis 2022,Social Media,Internal,2025-07-16,5785093,5747.36,2023-08-29 14:20:31
+438,Drug Interactions 2024,Healthcare,Data.gov,2025-01-19,49365,12.24,2024-08-23 14:20:31
+439,Store Performance 2020,Retail,Google Dataset Search,2025-08-17,125612,35.36,2023-10-11 14:20:31
+440,Drug Interactions 2020,Healthcare,Kaggle,2025-09-20,3177713,1135.63,2024-09-26 14:20:31
+441,Email Marketing Metrics 2021,Marketing,API Collection,2025-09-17,8350853,3223.39,2024-03-09 14:20:31
+442,Store Performance 2023,Retail,Company Database,2025-05-01,5755,1.14,2023-05-17 14:20:31
+443,Campaign Performance 2022,Marketing,Google Dataset Search,2025-08-29,37155,13.2,2024-07-05 14:20:31
+444,Transaction Records 2020,Finance,API Collection,2025-10-02,7542,4.25,2024-09-28 14:20:31
+445,Trending Topics 2023,Social Media,Web Scraping,2025-07-13,28054,16.55,2024-09-16 14:20:31
+446,Transaction Records 2023,Finance,Google Dataset Search,2025-03-11,56916,47.34,2024-07-21 14:20:31
+447,Influencer Metrics 2022,Social Media,Google Dataset Search,2025-09-25,7413,4.61,2025-03-03 14:20:31
+448,Environmental Monitoring 2024,IoT,Google Dataset Search,2025-03-08,3423,2.19,2023-12-16 14:20:31
+449,Flight Schedules 2021,Transportation,Web Scraping,2025-10-15,6790,4.31,2023-12-17 14:20:31
+450,Customer Foot Traffic 2024,Retail,Kaggle,2025-07-18,8831,6.98,2023-09-23 14:20:31
+451,Course Enrollment 2022,Education,Company Database,2024-12-14,740736,128.08,2024-09-06 14:20:31
+452,Learning Analytics 2024,Education,AWS Open Data,2025-05-29,7394222,2263.13,2024-10-31 14:20:31
+453,Clinical Trials 2021,Healthcare,AWS Open Data,2025-02-27,73366,10.28,2023-07-27 14:20:31
+454,Shopping Cart Abandonment 2020,E-commerce,Google Dataset Search,2025-03-01,2702,0.98,2023-05-27 14:20:31
+455,Social Media Engagement 2020,Marketing,Data.gov,2025-09-09,6986425,2664.9,2025-08-09 14:20:31
+456,Sentiment Analysis 2024,Social Media,UCI ML Repository,2025-06-17,86466,31.57,2024-06-29 14:20:31
+457,Vehicle Telemetry 2024,IoT,UCI ML Repository,2025-08-07,8294,3.04,2024-10-17 14:20:31
+458,Supply Chain 2022,Manufacturing,AWS Open Data,2025-01-26,26383,24.36,2023-02-05 14:20:31
+459,Store Performance 2022,Retail,API Collection,2025-07-31,7500,2.83,2025-01-21 14:20:31
+460,Product Reviews 2023,E-commerce,Google Dataset Search,2025-05-11,807935,670.97,2024-09-13 14:20:31
+461,Sales Transactions 2020,Retail,UCI ML Repository,2025-02-17,77119,33.2,2023-06-22 14:20:31
+462,User Interactions 2022,Social Media,UCI ML Repository,2025-01-06,165118,128.94,2023-10-26 14:20:31
+463,Store Performance 2023,Retail,API Collection,2025-10-05,3000,2.77,2024-03-10 14:20:31
+464,Course Enrollment 2020,Education,AWS Open Data,2025-09-10,2107580,648.55,2024-07-17 14:20:31
+465,Product Catalog 2023,E-commerce,Internal,2025-05-15,8185741,1335.49,2025-03-07 14:20:31
+466,Inventory Management 2020,Retail,Internal,2025-03-24,1103,0.99,2023-04-16 14:20:31
+467,Smart Home Data 2021,IoT,Kaggle,2025-01-04,33098,29.2,2023-06-07 14:20:31
+468,Quality Control 2021,Manufacturing,API Collection,2025-08-25,31627,8.01,2023-09-06 14:20:31
+469,Credit Risk Assessment 2024,Finance,Data.gov,2024-12-13,599769,446.17,2024-06-27 14:20:31
+470,Traffic Patterns 2020,Transportation,Kaggle,2025-02-26,9857753,7689.52,2024-12-24 14:20:31
+471,Inventory Management 2024,Retail,Web Scraping,2025-03-01,7321119,788.95,2024-12-30 14:20:31
+472,Equipment Maintenance 2024,Manufacturing,Web Scraping,2025-07-20,8427,4.7,2025-04-03 14:20:31
+473,Graduation Rates 2021,Education,API Collection,2025-07-13,1241362,262.8,2024-11-19 14:20:31
+474,User Interactions 2023,Social Media,Google Dataset Search,2025-04-20,6998281,3668.2,2023-08-11 14:20:31
+475,Drug Interactions 2023,Healthcare,Kaggle,2025-05-23,64441,59.45,2024-07-31 14:20:31
+476,Trending Topics 2023,Social Media,Web Scraping,2025-06-08,553794,185.77,2025-02-21 14:20:31
+477,Sensor Readings 2023,IoT,Company Database,2025-07-30,895299,439.36,2024-06-26 14:20:31
+478,Inventory Management 2024,Retail,Internal,2025-04-10,227835,153.53,2023-07-18 14:20:31
+479,Influencer Metrics 2023,Social Media,Web Scraping,2025-10-04,62286,47.49,2024-05-27 14:20:31
+480,Product Reviews 2021,E-commerce,AWS Open Data,2025-01-30,3339751,2652.18,2023-11-27 14:20:31
+481,Sentiment Analysis 2023,Social Media,Kaggle,2025-11-07,4817,3.58,2024-06-07 14:20:31
+482,Shipping Routes 2022,Transportation,API Collection,2025-02-12,74588,65.04,2024-05-12 14:20:31
+483,Medical Imaging 2023,Healthcare,Internal,2025-06-27,81884,30.74,2024-05-29 14:20:31
+484,Store Performance 2020,Retail,Data.gov,2025-07-19,1176,0.85,2024-01-19 14:20:31
+485,Graduation Rates 2021,Education,Internal,2025-04-04,8912,6.41,2023-07-10 14:20:31
+486,Quality Control 2023,Manufacturing,Company Database,2025-04-06,831045,124.63,2025-01-10 14:20:31
+487,Customer Behavior Analysis 2023,Marketing,Kaggle,2025-10-28,1625667,914.07,2023-11-22 14:20:31
+488,Supply Chain 2021,Manufacturing,Company Database,2025-04-27,6576935,1734.33,2023-06-11 14:20:31
+489,User Interactions 2022,Social Media,Internal,2025-10-13,1867428,1120.8,2024-07-22 14:20:31
+490,Graduation Rates 2023,Education,API Collection,2025-08-21,772650,702.89,2025-05-25 14:20:31
+491,Shopping Cart Abandonment 2022,E-commerce,Data.gov,2025-07-05,1056,0.19,2024-07-16 14:20:31
+492,Product Reviews 2024,E-commerce,Web Scraping,2025-02-07,790349,695.7,2024-03-23 14:20:31
+493,Product Catalog 2024,E-commerce,API Collection,2025-11-15,4842,3.66,2025-04-25 14:20:31
+494,Quality Control 2024,Manufacturing,Data.gov,2025-06-21,294642,57.82,2023-08-05 14:20:31
+495,User Interactions 2022,Social Media,UCI ML Repository,2025-01-13,4124,2.56,2024-09-16 14:20:31
+496,Campaign Performance 2021,Marketing,Internal,2025-04-17,9488,1.96,2025-01-27 14:20:31
+497,Investment Portfolio 2022,Finance,GitHub,2025-08-03,41588,18.98,2024-07-07 14:20:31
+498,Learning Analytics 2022,Education,Google Dataset Search,2025-08-16,9575,4.09,2025-05-13 14:20:31
+499,Flight Schedules 2023,Transportation,API Collection,2025-02-08,2659,1.45,2024-03-06 14:20:31
+500,Investment Portfolio 2023,Finance,Data.gov,2025-10-23,1014353,272.65,2025-02-26 14:20:31
+501,Investment Portfolio 2022,Finance,API Collection,2025-05-03,60047,10.79,2024-05-08 14:20:31
+502,Store Performance 2023,Retail,AWS Open Data,2025-04-27,42332,19.53,2023-05-06 14:20:31
+503,Product Catalog 2021,E-commerce,Web Scraping,2025-01-28,6322,5.44,2024-01-04 14:20:31
+504,Sentiment Analysis 2023,Social Media,Company Database,2025-04-19,6609,3.66,2024-04-02 14:20:31
+505,Product Catalog 2020,E-commerce,GitHub,2025-07-29,785786,689.11,2024-03-28 14:20:31
+506,Sensor Readings 2022,IoT,UCI ML Repository,2025-01-20,98062,54.43,2024-04-09 14:20:31
+507,Investment Portfolio 2022,Finance,Google Dataset Search,2025-10-08,18219,15.48,2024-06-29 14:20:31
+508,Clinical Trials 2021,Healthcare,Google Dataset Search,2025-05-09,4748912,2016.66,2024-07-07 14:20:31
+509,Inventory Management 2023,Retail,UCI ML Repository,2025-09-21,7380762,3605.31,2024-01-22 14:20:31
+510,Product Reviews 2023,E-commerce,Google Dataset Search,2025-02-20,9107,5.28,2023-06-05 14:20:31
+511,Production Metrics 2023,Manufacturing,AWS Open Data,2025-01-19,8713,4.53,2024-04-11 14:20:31
+512,Inventory Management 2023,Retail,Company Database,2025-03-23,406803,123.55,2024-03-14 14:20:31
+513,Product Reviews 2024,E-commerce,Company Database,2025-04-30,7313,0.93,2024-01-06 14:20:31
+514,Smart Home Data 2020,IoT,Company Database,2025-03-02,434661,132.24,2024-08-24 14:20:31
+515,User Interactions 2020,Social Media,Company Database,2025-04-19,6552145,5711.78,2024-10-16 14:20:31
+516,Learning Analytics 2023,Education,Web Scraping,2025-03-25,5289,4.84,2025-01-03 14:20:31
+517,Inventory Management 2020,Retail,API Collection,2025-08-04,8448336,7630.18,2023-12-23 14:20:31
+518,Stock Market Data 2022,Finance,Company Database,2025-07-18,1805,1.37,2024-07-10 14:20:31
+519,Investment Portfolio 2021,Finance,UCI ML Repository,2025-09-04,577822,72.81,2023-10-23 14:20:31
+520,Medical Imaging 2023,Healthcare,Web Scraping,2025-08-03,870449,310.85,2023-08-18 14:20:31
+521,Influencer Metrics 2023,Social Media,GitHub,2025-04-06,23580,4.97,2023-10-11 14:20:31
+522,Trending Topics 2023,Social Media,Internal,2025-09-23,9786769,8164.89,2025-08-15 14:20:31
+523,User Purchase History 2021,E-commerce,Kaggle,2025-04-04,598626,449.68,2023-12-11 14:20:31
+524,Public Transit Usage 2021,Transportation,AWS Open Data,2025-05-28,86529,47.75,2025-04-03 14:20:31
+525,Traffic Patterns 2024,Transportation,Company Database,2024-12-31,34986,29.14,2023-07-22 14:20:31
+526,User Purchase History 2024,E-commerce,Company Database,2025-03-22,988605,973.03,2023-05-26 14:20:31
+527,Traffic Patterns 2024,Transportation,AWS Open Data,2025-01-07,7994,6.99,2023-07-09 14:20:31
+528,Transaction Records 2024,Finance,Internal,2025-01-22,784959,315.7,2023-02-18 14:20:31
+529,Environmental Monitoring 2021,IoT,Data.gov,2025-09-13,69062,34.12,2024-06-17 14:20:31
+530,Credit Risk Assessment 2020,Finance,UCI ML Repository,2025-08-23,9092258,8348.13,2024-11-14 14:20:31
+531,User Interactions 2021,Social Media,UCI ML Repository,2025-03-19,3122,3.05,2023-09-26 14:20:31
+532,Learning Analytics 2021,Education,Web Scraping,2025-06-25,685028,365.65,2024-04-01 14:20:31
+533,Social Media Engagement 2023,Marketing,AWS Open Data,2025-10-28,565720,375.44,2024-05-02 14:20:31
+534,Production Metrics 2022,Manufacturing,GitHub,2025-07-25,97107,48.56,2023-09-08 14:20:31
+535,Investment Portfolio 2023,Finance,GitHub,2025-03-07,461662,422.47,2024-09-03 14:20:31
+536,Store Performance 2023,Retail,Kaggle,2025-05-18,539808,502.72,2023-10-28 14:20:31
+537,Public Transit Usage 2020,Transportation,Data.gov,2025-03-19,8947621,6916.95,2024-05-09 14:20:31
+538,Social Media Engagement 2020,Marketing,AWS Open Data,2025-07-11,1559,1.56,2023-12-16 14:20:31
+539,Customer Behavior Analysis 2020,Marketing,API Collection,2025-02-24,77962,75.83,2023-11-01 14:20:31
+540,Flight Schedules 2021,Transportation,UCI ML Repository,2025-09-19,8606319,3785.97,2025-02-16 14:20:31
+541,Production Metrics 2020,Manufacturing,Google Dataset Search,2025-11-17,35647,32.44,2024-01-07 14:20:31
+542,Public Transit Usage 2022,Transportation,Google Dataset Search,2025-02-08,9129,1.73,2024-07-08 14:20:31
+543,Traffic Patterns 2022,Transportation,Web Scraping,2025-06-04,783467,253.1,2023-10-27 14:20:31
+544,Sentiment Analysis 2023,Social Media,Internal,2025-09-17,1855,1.21,2024-12-05 14:20:31
+545,Investment Portfolio 2024,Finance,Internal,2025-05-03,644629,390.08,2024-03-03 14:20:31
+546,Customer Behavior Analysis 2024,Marketing,API Collection,2025-11-23,342151,175.77,2024-08-17 14:20:31
+547,Credit Risk Assessment 2022,Finance,Internal,2025-08-27,95968,36.4,2025-02-05 14:20:31
+548,Course Enrollment 2022,Education,Google Dataset Search,2025-11-19,1619264,1447.19,2024-03-26 14:20:31
+549,Shopping Cart Abandonment 2024,E-commerce,Web Scraping,2025-12-04,54894,37.31,2024-12-19 14:20:31
+550,Stock Market Data 2023,Finance,UCI ML Repository,2024-12-17,3043686,1410.04,2023-11-15 14:20:31
+551,Vehicle Telemetry 2021,IoT,Internal,2025-05-25,65439,6.71,2024-09-04 14:20:31
+552,Patient Records 2024,Healthcare,Google Dataset Search,2025-06-04,6513,5.59,2023-07-11 14:20:31
+553,Product Catalog 2023,E-commerce,AWS Open Data,2025-11-21,444345,112.71,2024-06-23 14:20:31
+554,Flight Schedules 2024,Transportation,UCI ML Repository,2025-01-15,7092136,1569.36,2023-01-26 14:20:31
+555,Customer Behavior Analysis 2022,Marketing,Google Dataset Search,2025-09-19,1619,0.55,2024-10-13 14:20:31
+556,Equipment Maintenance 2020,Manufacturing,Kaggle,2025-02-14,3147884,3047.12,2023-05-23 14:20:31
+557,Environmental Monitoring 2021,IoT,Kaggle,2025-02-01,36613,30.87,2024-02-25 14:20:31
+558,Medical Imaging 2020,Healthcare,UCI ML Repository,2025-10-05,1428384,614.49,2025-01-03 14:20:31
+559,Clinical Trials 2023,Healthcare,Web Scraping,2025-09-15,6233077,2099.9,2024-12-22 14:20:31
+560,Student Performance 2020,Education,AWS Open Data,2025-12-07,1532,1.27,2024-07-09 14:20:31
+561,Shopping Cart Abandonment 2020,E-commerce,AWS Open Data,2025-10-22,5216,4.18,2024-07-23 14:20:31
+562,Trending Topics 2020,Social Media,Data.gov,2025-09-14,4683272,2593.3,2023-11-21 14:20:31
+563,Sentiment Analysis 2022,Social Media,GitHub,2025-05-04,6121,2.69,2024-11-27 14:20:31
+564,Customer Behavior Analysis 2022,Marketing,Data.gov,2025-04-13,270133,41.78,2024-01-14 14:20:31
+565,Influencer Metrics 2024,Social Media,Company Database,2025-03-23,544432,497.84,2024-07-17 14:20:31
+566,Learning Analytics 2020,Education,Internal,2025-07-20,70530,29.49,2024-06-08 14:20:31
+567,Production Metrics 2021,Manufacturing,AWS Open Data,2025-06-13,571605,532.16,2024-07-14 14:20:31
+568,Supply Chain 2022,Manufacturing,GitHub,2025-10-14,997545,109.39,2025-04-07 14:20:31
+569,Patient Records 2021,Healthcare,Kaggle,2025-02-25,1446,0.45,2024-07-16 14:20:31
+570,Sales Transactions 2024,Retail,Kaggle,2025-05-05,12517,3.7,2025-03-12 14:20:31
+571,Store Performance 2023,Retail,Data.gov,2025-08-25,32691,5.37,2024-07-29 14:20:31
+572,Smart Home Data 2020,IoT,Google Dataset Search,2024-12-15,303115,297.63,2023-07-12 14:20:31
+573,Product Catalog 2024,E-commerce,Web Scraping,2025-05-04,2453735,1984.76,2024-07-24 14:20:31
+574,Product Catalog 2021,E-commerce,Company Database,2025-11-03,537491,348.05,2024-08-29 14:20:31
+575,Course Enrollment 2021,Education,Kaggle,2025-08-11,39409,13.51,2024-08-27 14:20:31
+576,Product Reviews 2021,E-commerce,Kaggle,2025-11-07,571917,106.47,2023-12-27 14:20:31
+577,Student Performance 2023,Education,Company Database,2025-04-18,2442168,1795.24,2023-11-26 14:20:31
+578,Shipping Routes 2024,Transportation,Kaggle,2025-01-27,952889,625.07,2024-07-30 14:20:31
+579,Investment Portfolio 2022,Finance,Web Scraping,2025-08-22,825531,135.26,2024-12-26 14:20:31
+580,Social Media Engagement 2023,Marketing,Google Dataset Search,2025-07-01,9821591,6665.15,2025-01-05 14:20:31
+581,Sales Transactions 2021,Retail,Internal,2025-10-20,7375,1.17,2024-02-03 14:20:31
+582,Medical Imaging 2023,Healthcare,Data.gov,2025-07-09,5983,1.09,2025-05-04 14:20:31
+583,Sensor Readings 2024,IoT,Company Database,2025-10-01,6422866,4921.16,2025-01-03 14:20:31
+584,User Interactions 2022,Social Media,Kaggle,2025-10-21,8168164,5942.73,2024-01-12 14:20:31
+585,Inventory Management 2023,Retail,Google Dataset Search,2025-10-02,5272,3.46,2023-10-26 14:20:31
+586,Smart Home Data 2021,IoT,Company Database,2025-04-05,83743,78.71,2023-05-23 14:20:31
+587,Email Marketing Metrics 2023,Marketing,Web Scraping,2025-09-06,21807,10.63,2025-03-17 14:20:31
+588,Influencer Metrics 2022,Social Media,API Collection,2025-02-20,3905223,2967.23,2023-10-13 14:20:31
+589,Store Performance 2021,Retail,GitHub,2025-01-05,9056745,4179.99,2023-08-21 14:20:31
+590,Vehicle Telemetry 2024,IoT,Google Dataset Search,2025-01-04,12297,6.33,2023-10-01 14:20:31
+591,Email Marketing Metrics 2023,Marketing,Web Scraping,2025-05-13,4801,4.74,2023-06-20 14:20:31
+592,User Interactions 2021,Social Media,Web Scraping,2025-05-24,4749216,4687.23,2023-11-02 14:20:31
+593,User Purchase History 2022,E-commerce,AWS Open Data,2025-02-12,9815,5.69,2024-04-07 14:20:31
+594,Credit Risk Assessment 2020,Finance,Internal,2025-02-22,44226,34.3,2023-10-20 14:20:31
+595,Stock Market Data 2023,Finance,Internal,2025-07-06,382597,231.13,2024-05-12 14:20:31
+596,Stock Market Data 2024,Finance,Web Scraping,2025-12-02,9140,3.07,2025-02-07 14:20:31
+597,Sales Transactions 2021,Retail,UCI ML Repository,2025-09-15,44462,32.61,2024-12-25 14:20:31
+598,Customer Behavior Analysis 2022,Marketing,API Collection,2025-05-25,3208,0.81,2024-01-01 14:20:31
+599,Medical Imaging 2020,Healthcare,Internal,2025-01-27,52178,51.77,2024-10-02 14:20:31
+600,Customer Behavior Analysis 2024,Marketing,Kaggle,2025-10-24,61491,38.97,2024-11-13 14:20:31
+601,Shopping Cart Abandonment 2021,E-commerce,Kaggle,2025-04-28,25482,4.35,2024-07-01 14:20:31
+602,Clinical Trials 2023,Healthcare,Kaggle,2025-01-19,8178,7.44,2023-08-13 14:20:31
+603,Supply Chain 2022,Manufacturing,Company Database,2025-05-07,8742,2.54,2024-04-20 14:20:31
+604,Shipping Routes 2020,Transportation,Company Database,2024-12-16,38924,26.66,2022-12-30 14:20:31
+605,Influencer Metrics 2021,Social Media,AWS Open Data,2025-06-01,9689781,5277.67,2024-09-19 14:20:31
+606,Store Performance 2023,Retail,UCI ML Repository,2025-01-07,9057,5.16,2024-10-07 14:20:31
+607,Flight Schedules 2024,Transportation,Data.gov,2025-06-25,183314,98.31,2024-01-20 14:20:31
+608,Campaign Performance 2021,Marketing,Company Database,2025-09-12,677969,82.45,2023-10-12 14:20:31
+609,Trending Topics 2023,Social Media,Google Dataset Search,2025-03-18,1732,1.69,2024-08-18 14:20:31
+610,Sentiment Analysis 2022,Social Media,Google Dataset Search,2025-01-15,9216641,2655.02,2023-12-19 14:20:31
+611,Influencer Metrics 2021,Social Media,Company Database,2025-08-31,33953,16.73,2025-01-27 14:20:31
+612,Product Reviews 2022,E-commerce,UCI ML Repository,2025-02-07,25272,12.9,2024-12-28 14:20:31
+613,Campaign Performance 2023,Marketing,Google Dataset Search,2025-03-26,9798,8.02,2024-03-09 14:20:31
+614,Influencer Metrics 2024,Social Media,GitHub,2025-12-01,2331,0.36,2025-01-14 14:20:31
+615,Medical Imaging 2024,Healthcare,GitHub,2025-03-08,258890,135.91,2024-09-13 14:20:31
+616,Shopping Cart Abandonment 2021,E-commerce,API Collection,2025-01-31,49287,47.63,2024-03-29 14:20:31
+617,Investment Portfolio 2023,Finance,GitHub,2025-10-05,9995890,9327.44,2025-02-28 14:20:31
+618,Customer Foot Traffic 2021,Retail,Kaggle,2025-10-29,5475,2.15,2024-03-03 14:20:31
+619,Quality Control 2020,Manufacturing,Company Database,2024-12-18,6447,1.55,2023-11-15 14:20:31
+620,Clinical Trials 2023,Healthcare,Web Scraping,2025-06-23,9875,9.19,2025-05-07 14:20:31
+621,Email Marketing Metrics 2021,Marketing,Company Database,2025-01-12,2679,2.2,2023-03-28 14:20:31
+622,Product Catalog 2023,E-commerce,Data.gov,2025-01-23,2992154,1395.43,2023-12-20 14:20:31
+623,Trending Topics 2022,Social Media,Google Dataset Search,2025-07-30,4136,2.46,2025-05-29 14:20:31
+624,Email Marketing Metrics 2024,Marketing,Google Dataset Search,2024-12-21,7164,3.78,2023-06-26 14:20:31
+625,Flight Schedules 2021,Transportation,GitHub,2025-07-08,5108,2.49,2023-07-14 14:20:31
+626,Inventory Management 2024,Retail,Kaggle,2025-07-31,2923709,1038.86,2023-08-09 14:20:31
+627,Patient Records 2023,Healthcare,Company Database,2025-07-14,5355087,1083.8,2024-12-14 14:20:31
+628,Trending Topics 2024,Social Media,Web Scraping,2025-03-26,15532,14.85,2023-08-28 14:20:31
+629,Stock Market Data 2022,Finance,AWS Open Data,2025-09-07,8047,2.38,2023-09-16 14:20:31
+630,Vehicle Telemetry 2021,IoT,UCI ML Repository,2025-11-08,2387,0.29,2024-04-11 14:20:31
+631,Public Transit Usage 2021,Transportation,Web Scraping,2025-10-31,87896,43.98,2025-05-20 14:20:31
+632,Course Enrollment 2024,Education,Company Database,2025-01-07,2989,0.5,2023-04-27 14:20:31
+633,Public Transit Usage 2020,Transportation,Internal,2025-10-05,97337,10.46,2025-03-27 14:20:31
+634,Course Enrollment 2022,Education,Company Database,2025-11-03,7053874,4480.31,2024-10-06 14:20:31
+635,Shipping Routes 2024,Transportation,Internal,2025-05-11,475852,420.49,2024-09-30 14:20:31
+636,Customer Behavior Analysis 2020,Marketing,Web Scraping,2025-07-02,822922,453.5,2025-02-16 14:20:31
+637,Quality Control 2021,Manufacturing,Google Dataset Search,2025-08-25,8639504,1125.81,2024-04-26 14:20:31
+638,Sentiment Analysis 2020,Social Media,GitHub,2024-12-19,24982,23.91,2024-06-27 14:20:31
+639,Learning Analytics 2024,Education,Company Database,2025-09-29,4850071,2683.68,2025-07-30 14:20:31
+640,Influencer Metrics 2022,Social Media,GitHub,2025-08-07,9458,8.25,2025-02-23 14:20:31
+641,Customer Foot Traffic 2022,Retail,Google Dataset Search,2025-05-19,8662,3.31,2024-10-20 14:20:31
+642,Environmental Monitoring 2024,IoT,AWS Open Data,2025-07-15,458669,159.21,2024-10-27 14:20:31
+643,Graduation Rates 2022,Education,UCI ML Repository,2025-11-23,775149,684.68,2024-10-05 14:20:31
+644,Medical Imaging 2024,Healthcare,AWS Open Data,2025-09-11,8982,7.63,2025-01-15 14:20:31
+645,Stock Market Data 2021,Finance,GitHub,2025-07-09,5547,4.04,2024-03-31 14:20:31
+646,Inventory Management 2023,Retail,Internal,2025-10-22,72189,35.11,2024-11-22 14:20:31
+647,User Interactions 2020,Social Media,UCI ML Repository,2025-07-10,147183,98.8,2024-06-29 14:20:31
+648,Sensor Readings 2021,IoT,Google Dataset Search,2025-07-28,9851778,9056.02,2025-04-06 14:20:31
+649,Graduation Rates 2023,Education,API Collection,2025-08-20,87702,73.76,2024-12-26 14:20:31
+650,Flight Schedules 2020,Transportation,Internal,2025-07-03,80570,36.65,2024-12-11 14:20:31
+651,Traffic Patterns 2020,Transportation,Company Database,2024-12-19,901064,619.81,2024-01-23 14:20:31
+652,Traffic Patterns 2021,Transportation,UCI ML Repository,2025-01-11,1155,0.48,2024-04-14 14:20:31
+653,Influencer Metrics 2022,Social Media,Data.gov,2025-04-25,714008,686.0,2023-10-28 14:20:31
+654,Graduation Rates 2024,Education,Company Database,2025-08-15,5759,1.48,2025-05-23 14:20:31
+655,Flight Schedules 2023,Transportation,Google Dataset Search,2025-08-13,20537,4.94,2024-03-04 14:20:31
+656,Traffic Patterns 2020,Transportation,Web Scraping,2025-03-31,6230293,5907.35,2023-06-27 14:20:31
+657,Stock Market Data 2020,Finance,Kaggle,2025-04-29,80528,72.33,2024-12-06 14:20:31
+658,Sensor Readings 2023,IoT,Data.gov,2024-12-29,11812,11.57,2024-09-26 14:20:31
+659,Smart Home Data 2024,IoT,API Collection,2025-06-18,9392867,2554.68,2023-07-27 14:20:31
+660,Public Transit Usage 2020,Transportation,Internal,2025-07-16,405008,293.93,2024-11-29 14:20:31
+661,Stock Market Data 2021,Finance,UCI ML Repository,2025-01-06,5744,5.38,2024-06-08 14:20:31
+662,Clinical Trials 2020,Healthcare,AWS Open Data,2025-07-23,2968,0.62,2024-08-29 14:20:31
+663,Equipment Maintenance 2023,Manufacturing,API Collection,2025-03-25,3103,1.34,2023-12-18 14:20:31
+664,Trending Topics 2020,Social Media,Company Database,2025-05-10,681099,494.84,2024-12-13 14:20:31
+665,Email Marketing Metrics 2022,Marketing,AWS Open Data,2025-03-15,8773139,5292.76,2024-01-05 14:20:31
+666,Trending Topics 2023,Social Media,API Collection,2025-05-25,4183401,1088.69,2024-10-19 14:20:31
+667,Sentiment Analysis 2022,Social Media,Internal,2025-10-02,6422,2.56,2024-11-02 14:20:31
+668,Trending Topics 2020,Social Media,API Collection,2025-01-16,99861,18.82,2024-06-05 14:20:31
+669,Clinical Trials 2022,Healthcare,Company Database,2025-04-27,13994,7.45,2024-06-17 14:20:31
+670,Sales Transactions 2022,Retail,Internal,2025-05-10,7303676,5990.51,2023-07-02 14:20:31
+671,Store Performance 2023,Retail,Kaggle,2025-05-16,823204,514.12,2025-02-24 14:20:31
+672,Medical Imaging 2023,Healthcare,Internal,2025-03-24,3289,2.25,2023-04-27 14:20:31
+673,User Interactions 2022,Social Media,Data.gov,2025-09-06,401612,198.68,2023-12-11 14:20:31
+674,Sensor Readings 2024,IoT,AWS Open Data,2025-04-07,19412,9.04,2024-06-11 14:20:31
+675,Influencer Metrics 2024,Social Media,AWS Open Data,2025-11-06,159515,137.82,2025-08-21 14:20:31
+676,Customer Foot Traffic 2024,Retail,AWS Open Data,2025-07-29,377451,272.92,2024-03-03 14:20:31
+677,Patient Records 2021,Healthcare,Web Scraping,2025-04-30,388817,160.85,2024-07-06 14:20:31
+678,Supply Chain 2023,Manufacturing,Internal,2025-03-01,761384,660.17,2024-02-16 14:20:31
+679,Medical Imaging 2023,Healthcare,Data.gov,2025-05-19,233798,160.63,2024-03-18 14:20:31
+680,Course Enrollment 2023,Education,Kaggle,2025-06-25,762155,180.21,2023-06-28 14:20:31
+681,Public Transit Usage 2022,Transportation,Kaggle,2025-09-30,492735,381.24,2024-01-13 14:20:31
+682,Stock Market Data 2023,Finance,Internal,2025-03-27,387968,130.19,2023-05-28 14:20:31
+683,Graduation Rates 2021,Education,Kaggle,2025-12-04,401731,88.33,2024-02-19 14:20:31
+684,User Purchase History 2022,E-commerce,Company Database,2025-02-15,9570329,6202.43,2023-04-06 14:20:31
+685,Campaign Performance 2022,Marketing,Data.gov,2025-01-15,39567,26.78,2023-08-09 14:20:31
+686,Patient Records 2022,Healthcare,Company Database,2025-01-18,760245,428.78,2023-01-26 14:20:31
+687,Public Transit Usage 2020,Transportation,API Collection,2024-12-19,7656,4.31,2024-04-01 14:20:31
+688,Campaign Performance 2023,Marketing,GitHub,2025-02-09,9575,3.66,2024-11-28 14:20:31
+689,Supply Chain 2022,Manufacturing,AWS Open Data,2024-12-29,229896,214.73,2023-02-18 14:20:31
+690,Vehicle Telemetry 2022,IoT,GitHub,2025-10-20,5005,2.5,2024-11-16 14:20:31
+691,Equipment Maintenance 2024,Manufacturing,GitHub,2025-05-31,2763416,378.68,2024-11-06 14:20:31
+692,Course Enrollment 2023,Education,Kaggle,2025-01-03,318768,74.43,2024-10-15 14:20:31
+693,Email Marketing Metrics 2024,Marketing,Company Database,2025-10-24,8251,1.02,2024-11-04 14:20:31
+694,Sentiment Analysis 2020,Social Media,Google Dataset Search,2025-03-28,9975146,2089.31,2024-06-11 14:20:31
+695,Inventory Management 2022,Retail,API Collection,2025-09-11,37701,29.91,2024-06-22 14:20:31
+696,Credit Risk Assessment 2024,Finance,Data.gov,2024-12-08,620754,395.09,2023-06-12 14:20:31
+697,User Purchase History 2022,E-commerce,Google Dataset Search,2025-11-12,135059,22.47,2024-08-07 14:20:31
+698,User Purchase History 2022,E-commerce,GitHub,2025-05-29,409769,310.78,2024-04-16 14:20:31
+699,Environmental Monitoring 2021,IoT,GitHub,2025-06-05,671651,222.25,2023-10-28 14:20:31
+700,Smart Home Data 2020,IoT,Company Database,2025-04-13,6258,2.46,2024-04-11 14:20:31
+701,Credit Risk Assessment 2020,Finance,GitHub,2025-10-12,79504,69.34,2023-11-12 14:20:31
+702,Equipment Maintenance 2021,Manufacturing,API Collection,2025-06-13,47741,29.89,2023-11-18 14:20:31
+703,Influencer Metrics 2020,Social Media,GitHub,2025-03-24,5619998,3532.28,2024-07-14 14:20:31
+704,Shipping Routes 2024,Transportation,UCI ML Repository,2025-09-23,35522,23.99,2024-11-13 14:20:31
+705,Clinical Trials 2021,Healthcare,AWS Open Data,2025-01-02,7571225,1903.78,2024-05-11 14:20:31
+706,Product Catalog 2022,E-commerce,GitHub,2025-06-11,832546,582.79,2023-10-07 14:20:31
+707,Vehicle Telemetry 2023,IoT,API Collection,2025-09-17,6945,2.01,2025-06-29 14:20:31
+708,Graduation Rates 2021,Education,Google Dataset Search,2025-02-26,5678994,4864.02,2023-12-19 14:20:31
+709,Product Catalog 2024,E-commerce,Internal,2024-12-19,820252,115.61,2024-03-21 14:20:31
+710,Inventory Management 2020,Retail,Data.gov,2025-06-13,362171,226.46,2024-09-18 14:20:31
+711,Investment Portfolio 2023,Finance,AWS Open Data,2025-02-20,3522,2.16,2023-03-30 14:20:31
+712,Environmental Monitoring 2023,IoT,Google Dataset Search,2025-04-28,696249,202.05,2024-06-18 14:20:31
+713,Trending Topics 2020,Social Media,Web Scraping,2025-02-13,37946,8.09,2023-03-11 14:20:31
+714,Patient Records 2021,Healthcare,GitHub,2025-09-15,1198,0.37,2023-11-16 14:20:31
+715,Customer Foot Traffic 2021,Retail,UCI ML Repository,2025-10-25,8278023,6542.04,2025-05-05 14:20:31
+716,Traffic Patterns 2020,Transportation,Kaggle,2025-10-29,5365015,4919.16,2024-02-27 14:20:31
+717,Customer Behavior Analysis 2024,Marketing,Kaggle,2025-11-19,4113,1.68,2025-04-23 14:20:31
+718,Flight Schedules 2022,Transportation,AWS Open Data,2025-05-04,6634,6.21,2024-07-13 14:20:31
+719,User Interactions 2020,Social Media,Data.gov,2025-02-06,7709734,1138.26,2023-02-17 14:20:31
+720,User Purchase History 2024,E-commerce,AWS Open Data,2025-08-14,650626,514.81,2025-07-03 14:20:31
+721,Equipment Maintenance 2024,Manufacturing,AWS Open Data,2025-09-22,255167,144.17,2024-05-16 14:20:31
+722,Store Performance 2023,Retail,GitHub,2025-09-09,4843292,1959.18,2023-09-18 14:20:31
+723,Shipping Routes 2023,Transportation,AWS Open Data,2025-09-02,20250,19.47,2025-02-24 14:20:31
+724,Supply Chain 2024,Manufacturing,AWS Open Data,2025-11-11,447083,164.29,2024-10-05 14:20:31
+725,Production Metrics 2022,Manufacturing,AWS Open Data,2025-09-25,1827599,680.33,2023-10-10 14:20:31
+726,Traffic Patterns 2022,Transportation,AWS Open Data,2025-01-03,46518,25.76,2024-03-28 14:20:31
+727,Clinical Trials 2023,Healthcare,UCI ML Repository,2025-05-31,42869,32.75,2024-12-15 14:20:31
+728,Trending Topics 2024,Social Media,Web Scraping,2025-09-30,263055,190.14,2025-02-12 14:20:31
+729,Drug Interactions 2020,Healthcare,API Collection,2025-09-10,4819758,4777.71,2025-05-17 14:20:31
+730,Patient Records 2020,Healthcare,Data.gov,2025-08-20,3726864,2524.93,2024-07-15 14:20:31
+731,Credit Risk Assessment 2020,Finance,AWS Open Data,2025-06-13,39347,29.06,2025-04-30 14:20:31
+732,Learning Analytics 2023,Education,Kaggle,2025-03-29,2339256,1915.09,2024-06-08 14:20:31
+733,Clinical Trials 2023,Healthcare,Google Dataset Search,2025-01-07,65404,29.6,2023-03-30 14:20:31
+734,Sales Transactions 2023,Retail,API Collection,2025-12-03,65793,58.91,2024-09-11 14:20:31
+735,Customer Foot Traffic 2021,Retail,Google Dataset Search,2025-11-05,9335,8.0,2024-05-15 14:20:31
+736,Clinical Trials 2024,Healthcare,GitHub,2025-04-24,6874480,4470.79,2024-04-22 14:20:31
+737,Vehicle Telemetry 2022,IoT,GitHub,2025-05-06,5311,3.05,2023-12-19 14:20:31
+738,Traffic Patterns 2023,Transportation,Data.gov,2025-05-04,85103,38.5,2024-02-29 14:20:31
+739,Email Marketing Metrics 2024,Marketing,Web Scraping,2025-06-23,2277480,750.42,2024-09-24 14:20:31
+740,Environmental Monitoring 2020,IoT,Data.gov,2025-06-13,15092,4.74,2025-04-23 14:20:31
+741,Learning Analytics 2021,Education,Internal,2025-10-20,72188,15.26,2024-06-14 14:20:31
+742,Medical Imaging 2024,Healthcare,Google Dataset Search,2025-09-14,9116383,3520.53,2024-07-30 14:20:31
+743,Stock Market Data 2023,Finance,Web Scraping,2025-08-28,3583043,2026.86,2024-12-02 14:20:31
+744,Drug Interactions 2020,Healthcare,Company Database,2025-09-18,230860,127.11,2024-12-13 14:20:31
+745,Shipping Routes 2024,Transportation,UCI ML Repository,2025-06-24,43761,41.54,2023-12-21 14:20:31
+746,Patient Records 2022,Healthcare,GitHub,2025-04-09,95707,74.6,2023-05-17 14:20:31
+747,Sensor Readings 2020,IoT,Company Database,2025-10-09,15504,6.17,2024-12-12 14:20:31
+748,Drug Interactions 2024,Healthcare,Kaggle,2025-10-04,6971,6.15,2023-10-23 14:20:31
+749,Sentiment Analysis 2020,Social Media,Data.gov,2025-02-10,5447,3.13,2024-08-07 14:20:31
+750,User Purchase History 2022,E-commerce,Internal,2025-07-05,26333,12.13,2023-11-03 14:20:31
+751,Flight Schedules 2023,Transportation,Internal,2025-11-22,19723,5.65,2024-03-05 14:20:31
+752,Trending Topics 2023,Social Media,Company Database,2025-03-26,8320,4.98,2024-12-08 14:20:31
+753,Product Catalog 2024,E-commerce,Kaggle,2025-11-29,326901,121.53,2024-08-01 14:20:31
+754,Credit Risk Assessment 2024,Finance,UCI ML Repository,2025-01-10,3780,2.41,2024-03-01 14:20:31
+755,Medical Imaging 2023,Healthcare,Company Database,2025-06-13,928348,250.64,2025-02-02 14:20:31
+756,Medical Imaging 2022,Healthcare,Internal,2025-08-17,9159588,8160.96,2025-01-28 14:20:31
+757,Sales Transactions 2024,Retail,Data.gov,2025-06-15,8815236,2873.9,2024-12-16 14:20:31
+758,Store Performance 2023,Retail,AWS Open Data,2025-05-04,7449480,5105.66,2024-01-07 14:20:31
+759,Investment Portfolio 2022,Finance,UCI ML Repository,2025-07-21,6186340,6156.65,2024-02-25 14:20:31
+760,Transaction Records 2024,Finance,AWS Open Data,2025-10-26,781333,219.18,2024-04-16 14:20:31
+761,Product Reviews 2022,E-commerce,Data.gov,2025-10-03,338007,106.6,2024-03-04 14:20:31
+762,Equipment Maintenance 2024,Manufacturing,Data.gov,2025-07-07,36033,31.69,2024-06-29 14:20:31
+763,Stock Market Data 2023,Finance,Internal,2025-02-01,7598,5.97,2024-12-05 14:20:31
+764,Email Marketing Metrics 2020,Marketing,Data.gov,2025-03-01,94497,51.94,2024-08-21 14:20:31
+765,Environmental Monitoring 2023,IoT,API Collection,2025-09-23,92727,55.66,2024-06-17 14:20:31
+766,Shopping Cart Abandonment 2022,E-commerce,Google Dataset Search,2025-11-29,6760,4.2,2024-09-16 14:20:31
+767,Public Transit Usage 2020,Transportation,Kaggle,2025-08-07,424181,311.24,2025-01-28 14:20:31
+768,Graduation Rates 2020,Education,UCI ML Repository,2025-03-20,54426,35.87,2023-05-25 14:20:31
+769,Email Marketing Metrics 2022,Marketing,AWS Open Data,2025-02-11,9701,6.45,2024-09-08 14:20:31
+770,Vehicle Telemetry 2021,IoT,AWS Open Data,2025-10-27,2803,2.5,2024-09-30 14:20:31
+771,Sensor Readings 2022,IoT,AWS Open Data,2025-11-01,951332,442.05,2024-04-12 14:20:31
+772,Environmental Monitoring 2024,IoT,GitHub,2025-03-06,421000,143.8,2023-10-04 14:20:31
+773,Medical Imaging 2021,Healthcare,AWS Open Data,2025-12-03,9987939,6051.61,2025-04-15 14:20:31
+774,Graduation Rates 2020,Education,UCI ML Repository,2025-05-05,79192,38.68,2024-09-01 14:20:31
+775,Flight Schedules 2020,Transportation,UCI ML Repository,2025-04-21,1662219,1451.56,2023-12-08 14:20:31
+776,Student Performance 2021,Education,Web Scraping,2025-04-28,6446104,3627.98,2025-03-26 14:20:31
+777,Course Enrollment 2023,Education,GitHub,2025-10-10,89349,71.57,2025-05-19 14:20:31
+778,Flight Schedules 2022,Transportation,GitHub,2025-10-19,877652,542.73,2024-04-08 14:20:31
+779,Trending Topics 2021,Social Media,AWS Open Data,2025-12-02,868920,107.75,2024-05-03 14:20:31
+780,Customer Behavior Analysis 2024,Marketing,Data.gov,2025-06-07,7109387,4754.09,2025-03-25 14:20:31
+781,Product Catalog 2021,E-commerce,AWS Open Data,2025-06-12,6858345,1485.84,2023-08-21 14:20:31
+782,Medical Imaging 2020,Healthcare,API Collection,2025-11-11,55746,15.45,2024-02-24 14:20:31
+783,Shipping Routes 2022,Transportation,Web Scraping,2024-12-16,9101955,6690.1,2023-07-18 14:20:31
+784,Customer Behavior Analysis 2024,Marketing,Internal,2025-10-23,120631,48.23,2023-12-30 14:20:31
+785,Product Reviews 2024,E-commerce,GitHub,2025-05-16,279523,34.13,2023-10-25 14:20:31
+786,Campaign Performance 2024,Marketing,API Collection,2025-05-02,30708,12.36,2024-02-06 14:20:31
+787,User Interactions 2022,Social Media,Data.gov,2025-08-09,4882614,4410.27,2025-06-08 14:20:31
+788,Quality Control 2020,Manufacturing,UCI ML Repository,2024-12-15,721867,621.71,2023-03-07 14:20:31
+789,User Purchase History 2023,E-commerce,Web Scraping,2025-07-06,68171,57.52,2023-08-18 14:20:31
+790,Drug Interactions 2024,Healthcare,Data.gov,2025-03-10,30626,25.16,2024-05-07 14:20:31
+791,Course Enrollment 2022,Education,Data.gov,2025-01-17,196336,181.08,2024-10-04 14:20:31
+792,Course Enrollment 2021,Education,Internal,2025-07-18,4149185,3442.09,2025-01-13 14:20:31
+793,Sensor Readings 2020,IoT,AWS Open Data,2025-07-21,5208,3.79,2024-12-13 14:20:31
+794,Traffic Patterns 2023,Transportation,Web Scraping,2025-03-19,2927455,1105.14,2023-08-19 14:20:31
+795,Social Media Engagement 2022,Marketing,API Collection,2025-04-03,191779,131.61,2025-02-13 14:20:31
+796,Patient Records 2022,Healthcare,Company Database,2025-11-25,567351,166.03,2024-08-11 14:20:31
+797,Credit Risk Assessment 2022,Finance,AWS Open Data,2025-06-08,9375378,2729.33,2024-12-14 14:20:31
+798,Inventory Management 2020,Retail,Internal,2025-05-22,5556501,4317.63,2024-03-12 14:20:31
+799,Student Performance 2020,Education,GitHub,2025-09-17,2872007,583.85,2024-10-10 14:20:31
+800,Customer Foot Traffic 2021,Retail,Kaggle,2025-06-07,23593,9.23,2023-10-04 14:20:31
+801,Equipment Maintenance 2022,Manufacturing,Kaggle,2025-08-06,116781,106.8,2025-04-21 14:20:31
+802,Shopping Cart Abandonment 2021,E-commerce,API Collection,2025-06-15,3143407,1688.02,2024-05-23 14:20:31
+803,Email Marketing Metrics 2020,Marketing,Web Scraping,2025-01-24,8142,6.94,2023-01-28 14:20:31
+804,Patient Records 2020,Healthcare,UCI ML Repository,2025-09-23,3391597,2772.35,2025-06-05 14:20:31
+805,Product Reviews 2020,E-commerce,AWS Open Data,2025-01-03,7455,0.87,2023-12-29 14:20:31
+806,Production Metrics 2021,Manufacturing,Kaggle,2025-01-12,512753,419.16,2023-07-16 14:20:31
+807,Public Transit Usage 2021,Transportation,Internal,2025-07-14,2217953,1772.57,2025-02-25 14:20:31
+808,Traffic Patterns 2022,Transportation,GitHub,2025-02-20,668269,184.86,2024-12-12 14:20:31
+809,Product Catalog 2022,E-commerce,Internal,2025-05-09,744302,453.72,2023-12-11 14:20:31
+810,Inventory Management 2022,Retail,Company Database,2025-10-22,4723671,497.63,2024-02-16 14:20:31
+811,Vehicle Telemetry 2022,IoT,API Collection,2025-08-25,854616,203.81,2023-12-19 14:20:31
+812,Course Enrollment 2022,Education,Internal,2025-08-07,7619382,5915.58,2024-12-02 14:20:31
+813,Equipment Maintenance 2022,Manufacturing,Google Dataset Search,2025-08-18,107806,95.95,2025-07-04 14:20:31
+814,Quality Control 2022,Manufacturing,Internal,2025-01-05,58506,5.98,2024-03-21 14:20:31
+815,User Interactions 2024,Social Media,Company Database,2025-11-29,5130122,4408.82,2024-11-10 14:20:31
+816,Influencer Metrics 2022,Social Media,Internal,2025-01-05,57301,32.54,2023-06-02 14:20:31
+817,Clinical Trials 2022,Healthcare,GitHub,2025-03-09,7083,1.16,2024-07-19 14:20:31
+818,Sales Transactions 2022,Retail,Kaggle,2025-05-05,1080,0.52,2024-04-15 14:20:31
+819,Course Enrollment 2021,Education,Google Dataset Search,2025-01-20,9413,9.09,2023-09-11 14:20:31
+820,Investment Portfolio 2024,Finance,API Collection,2025-04-14,3459320,371.31,2025-03-14 14:20:31
+821,Supply Chain 2020,Manufacturing,Kaggle,2025-09-19,6593143,3711.11,2024-08-13 14:20:31
+822,Shopping Cart Abandonment 2021,E-commerce,Web Scraping,2025-05-01,62275,53.95,2024-12-04 14:20:31
+823,Flight Schedules 2021,Transportation,Data.gov,2025-01-29,6407548,4874.72,2023-08-28 14:20:31
+824,Production Metrics 2020,Manufacturing,Data.gov,2025-07-30,5337,1.72,2023-11-05 14:20:31
+825,Public Transit Usage 2020,Transportation,API Collection,2025-07-18,1052,0.19,2023-12-24 14:20:31
+826,Quality Control 2024,Manufacturing,Data.gov,2025-11-09,45743,41.04,2024-01-11 14:20:31
+827,Supply Chain 2024,Manufacturing,Internal,2025-04-19,911692,319.63,2024-04-30 14:20:31
+828,Sales Transactions 2022,Retail,UCI ML Repository,2025-01-03,6106554,1019.91,2023-09-10 14:20:31
+829,Customer Foot Traffic 2023,Retail,Web Scraping,2025-10-31,9810,5.36,2024-11-13 14:20:31
+830,Sentiment Analysis 2022,Social Media,API Collection,2025-07-04,56716,6.94,2023-09-23 14:20:31
+831,Product Reviews 2023,E-commerce,Kaggle,2025-02-15,78701,47.81,2024-12-15 14:20:31
+832,Store Performance 2020,Retail,Company Database,2025-07-03,1041440,649.97,2024-07-19 14:20:31
+833,User Interactions 2020,Social Media,Kaggle,2025-04-28,202638,27.13,2024-05-13 14:20:31
+834,Trending Topics 2024,Social Media,Web Scraping,2025-02-15,62093,46.6,2023-06-13 14:20:31
+835,Transaction Records 2020,Finance,API Collection,2025-03-26,8004971,5760.67,2024-10-11 14:20:31
+836,Medical Imaging 2020,Healthcare,Google Dataset Search,2025-01-07,7906,3.2,2023-11-11 14:20:31
+837,Supply Chain 2024,Manufacturing,GitHub,2024-12-08,1277,1.0,2023-04-16 14:20:31
+838,User Interactions 2020,Social Media,Company Database,2025-12-03,7164,5.93,2024-07-24 14:20:31
+839,Course Enrollment 2021,Education,Kaggle,2025-07-12,11897,10.09,2025-02-18 14:20:31
+840,Quality Control 2023,Manufacturing,GitHub,2025-04-06,37962,23.39,2024-06-18 14:20:31
+841,Sensor Readings 2023,IoT,Web Scraping,2025-02-01,49335,5.74,2024-05-04 14:20:31
+842,Environmental Monitoring 2020,IoT,Google Dataset Search,2025-05-31,305440,52.46,2025-01-10 14:20:31
+843,Stock Market Data 2024,Finance,Company Database,2025-02-23,1170147,186.1,2023-10-02 14:20:31
+844,Equipment Maintenance 2020,Manufacturing,AWS Open Data,2025-03-22,4671920,1609.57,2025-02-01 14:20:31
+845,Smart Home Data 2024,IoT,Web Scraping,2025-09-03,30349,7.81,2025-06-01 14:20:31
+846,Customer Foot Traffic 2020,Retail,Internal,2025-03-26,20469,5.76,2023-05-30 14:20:31
+847,Product Catalog 2020,E-commerce,Internal,2025-06-27,1878345,675.2,2024-01-20 14:20:31
+848,Email Marketing Metrics 2020,Marketing,API Collection,2025-01-03,48785,39.46,2023-12-20 14:20:31
+849,Vehicle Telemetry 2022,IoT,Web Scraping,2025-06-04,3033493,1971.17,2023-06-11 14:20:31
+850,Drug Interactions 2022,Healthcare,UCI ML Repository,2025-12-04,7531331,5073.83,2025-03-22 14:20:31
+851,User Interactions 2024,Social Media,Company Database,2025-03-03,759757,484.93,2023-12-09 14:20:31
+852,Campaign Performance 2021,Marketing,Kaggle,2025-04-12,674342,98.59,2024-07-16 14:20:31
+853,Clinical Trials 2020,Healthcare,Kaggle,2025-09-02,2377072,1336.97,2024-12-04 14:20:31
+854,Product Catalog 2020,E-commerce,Company Database,2025-11-18,6694326,3991.94,2025-08-30 14:20:31
+855,Influencer Metrics 2023,Social Media,AWS Open Data,2025-05-19,92145,77.88,2023-06-23 14:20:31
+856,Social Media Engagement 2023,Marketing,GitHub,2025-05-23,9065,2.13,2024-11-13 14:20:31
+857,Medical Imaging 2024,Healthcare,Internal,2025-07-19,57251,43.41,2024-07-03 14:20:31
+858,Stock Market Data 2024,Finance,Google Dataset Search,2025-10-11,657193,450.61,2025-04-11 14:20:31
+859,Influencer Metrics 2020,Social Media,GitHub,2025-01-16,62740,39.67,2024-05-07 14:20:31
+860,Stock Market Data 2024,Finance,UCI ML Repository,2024-12-30,128001,69.7,2024-02-06 14:20:31
+861,Drug Interactions 2023,Healthcare,UCI ML Repository,2025-10-11,51931,31.2,2025-04-11 14:20:31
+862,Drug Interactions 2023,Healthcare,Google Dataset Search,2025-08-14,3866504,2769.74,2024-06-13 14:20:31
+863,Email Marketing Metrics 2021,Marketing,Data.gov,2025-06-02,1710,0.6,2023-10-15 14:20:31
+864,Supply Chain 2020,Manufacturing,Google Dataset Search,2025-05-27,1772680,203.86,2025-02-05 14:20:31
+865,Trending Topics 2024,Social Media,Company Database,2025-09-11,761272,654.75,2024-01-20 14:20:31
+866,Influencer Metrics 2023,Social Media,GitHub,2025-06-29,15883,2.05,2023-07-13 14:20:31
+867,User Interactions 2022,Social Media,Company Database,2025-03-02,8668,8.46,2023-07-04 14:20:31
+868,Store Performance 2021,Retail,AWS Open Data,2025-08-12,4998301,4695.3,2023-10-27 14:20:31
+869,Trending Topics 2024,Social Media,Google Dataset Search,2025-07-06,28303,23.1,2025-03-22 14:20:31
+870,Shipping Routes 2020,Transportation,Web Scraping,2025-03-10,8268,1.98,2023-07-06 14:20:31
+871,Influencer Metrics 2022,Social Media,UCI ML Repository,2025-03-04,440400,323.73,2023-05-15 14:20:31
+872,Shipping Routes 2020,Transportation,AWS Open Data,2025-02-19,358652,353.39,2023-07-31 14:20:31
+873,Quality Control 2020,Manufacturing,Kaggle,2025-03-05,353456,44.59,2023-06-23 14:20:31
+874,Environmental Monitoring 2020,IoT,Kaggle,2025-03-04,66231,48.21,2024-09-09 14:20:31
+875,Inventory Management 2020,Retail,AWS Open Data,2025-10-31,77366,45.74,2024-08-11 14:20:31
+876,Traffic Patterns 2022,Transportation,Company Database,2025-09-25,2372,1.8,2023-12-03 14:20:31
+877,Student Performance 2020,Education,Google Dataset Search,2025-07-15,5479,1.24,2025-05-31 14:20:31
+878,Traffic Patterns 2022,Transportation,API Collection,2025-10-18,9587,2.5,2025-03-20 14:20:31
+879,Customer Foot Traffic 2024,Retail,Kaggle,2025-10-16,1467361,1413.39,2024-02-15 14:20:31
+880,User Interactions 2020,Social Media,UCI ML Repository,2025-05-14,9045397,6067.84,2024-02-07 14:20:31
+881,Quality Control 2023,Manufacturing,Company Database,2024-12-13,2807971,1713.24,2024-05-17 14:20:31
+882,Product Reviews 2021,E-commerce,Company Database,2025-10-27,4089017,1220.81,2024-06-27 14:20:31
+883,Investment Portfolio 2023,Finance,GitHub,2025-09-04,139291,89.62,2025-07-16 14:20:31
+884,Inventory Management 2022,Retail,Internal,2025-09-17,8247636,6340.7,2024-05-27 14:20:31
+885,Clinical Trials 2024,Healthcare,Web Scraping,2025-01-26,3229,1.29,2023-12-22 14:20:31
+886,User Interactions 2023,Social Media,Web Scraping,2024-12-13,5762,0.96,2024-05-16 14:20:31
+887,User Purchase History 2021,E-commerce,Google Dataset Search,2025-11-22,8226336,2997.4,2024-11-02 14:20:31
+888,Environmental Monitoring 2021,IoT,Company Database,2025-08-05,99424,85.89,2024-11-11 14:20:31
+889,Smart Home Data 2020,IoT,Internal,2025-05-11,8332782,8327.64,2024-11-13 14:20:31
+890,Product Reviews 2020,E-commerce,Internal,2025-09-12,26765,20.26,2024-04-12 14:20:31
+891,Flight Schedules 2021,Transportation,Google Dataset Search,2025-11-14,4451,1.47,2023-12-09 14:20:31
+892,Learning Analytics 2021,Education,Google Dataset Search,2025-11-29,5432,4.04,2025-04-07 14:20:31
+893,Traffic Patterns 2024,Transportation,Google Dataset Search,2025-07-06,171525,154.44,2024-04-19 14:20:31
+894,Course Enrollment 2022,Education,Internal,2025-11-09,94374,50.16,2024-01-13 14:20:31
+895,Email Marketing Metrics 2022,Marketing,AWS Open Data,2025-05-15,4725,1.91,2025-04-09 14:20:31
+896,Equipment Maintenance 2020,Manufacturing,GitHub,2025-11-24,16465,7.53,2025-10-01 14:20:31
+897,Product Reviews 2022,E-commerce,Kaggle,2025-04-24,7998258,927.52,2023-10-19 14:20:31
+898,Supply Chain 2021,Manufacturing,Data.gov,2025-05-15,955479,940.89,2024-07-11 14:20:31
+899,Stock Market Data 2022,Finance,Data.gov,2025-01-18,948857,508.54,2024-08-19 14:20:31
+900,User Interactions 2023,Social Media,API Collection,2025-07-02,7556541,3906.77,2024-07-31 14:20:31
+901,Medical Imaging 2022,Healthcare,Data.gov,2025-06-13,4921417,1108.36,2025-03-04 14:20:31
+902,Inventory Management 2023,Retail,Google Dataset Search,2024-12-17,7198658,5738.01,2024-03-15 14:20:31
+903,Transaction Records 2022,Finance,Data.gov,2025-10-03,359511,310.45,2024-02-13 14:20:31
+904,Email Marketing Metrics 2021,Marketing,Data.gov,2025-08-21,731940,569.39,2024-01-11 14:20:31
+905,Student Performance 2022,Education,Company Database,2025-02-26,7762,7.72,2023-03-27 14:20:31
+906,Shipping Routes 2022,Transportation,UCI ML Repository,2025-12-01,4534094,1704.51,2024-08-13 14:20:31
+907,Investment Portfolio 2024,Finance,Company Database,2025-11-16,9350,6.17,2024-04-24 14:20:31
+908,Email Marketing Metrics 2022,Marketing,GitHub,2025-10-22,727702,190.81,2024-09-03 14:20:31
+909,Quality Control 2020,Manufacturing,Data.gov,2025-10-21,1329208,770.27,2024-09-12 14:20:31
+910,Patient Records 2021,Healthcare,Web Scraping,2025-08-15,8373,0.98,2025-02-12 14:20:31
+911,User Purchase History 2020,E-commerce,Web Scraping,2025-05-31,551023,241.99,2023-06-30 14:20:31
+912,Stock Market Data 2021,Finance,UCI ML Repository,2025-05-05,602955,522.21,2024-07-18 14:20:31
+913,Drug Interactions 2024,Healthcare,Company Database,2025-09-03,7312167,2572.77,2024-02-23 14:20:31
+914,Quality Control 2021,Manufacturing,Internal,2025-11-05,3865847,1246.44,2024-09-23 14:20:31
+915,Email Marketing Metrics 2023,Marketing,GitHub,2025-03-02,2428177,460.81,2023-11-02 14:20:31
+916,Environmental Monitoring 2021,IoT,Data.gov,2025-03-03,991081,519.87,2023-08-09 14:20:31
+917,Inventory Management 2020,Retail,Data.gov,2025-10-06,113462,51.93,2023-12-20 14:20:31
+918,Traffic Patterns 2020,Transportation,Data.gov,2025-11-06,75291,35.65,2024-03-28 14:20:31
+919,Production Metrics 2020,Manufacturing,Internal,2024-12-30,7281,6.78,2024-03-28 14:20:31
+920,Smart Home Data 2020,IoT,Google Dataset Search,2025-08-24,9067279,4114.58,2024-04-16 14:20:31
+921,Public Transit Usage 2020,Transportation,Google Dataset Search,2025-07-19,2716580,580.0,2024-02-05 14:20:31
+922,Sales Transactions 2021,Retail,Data.gov,2025-10-21,5005,4.09,2024-09-03 14:20:31
+923,Inventory Management 2022,Retail,Kaggle,2025-05-03,29267,16.03,2024-01-03 14:20:31
+924,Traffic Patterns 2023,Transportation,Kaggle,2024-12-28,1331389,1169.54,2023-02-26 14:20:31
+925,Product Catalog 2023,E-commerce,Kaggle,2025-05-28,1463175,1177.48,2023-07-23 14:20:31
+926,Inventory Management 2022,Retail,Kaggle,2025-03-23,1815,1.0,2024-10-12 14:20:31
+927,Sensor Readings 2022,IoT,Web Scraping,2025-10-03,9780457,5914.87,2024-05-13 14:20:31
+928,Graduation Rates 2024,Education,GitHub,2025-09-20,1337,0.73,2024-11-17 14:20:31
+929,Production Metrics 2020,Manufacturing,Kaggle,2025-07-25,1717515,1146.58,2024-10-05 14:20:31
+930,Sensor Readings 2023,IoT,Data.gov,2025-07-31,91466,18.07,2023-09-21 14:20:31
+931,Customer Foot Traffic 2024,Retail,Kaggle,2025-11-28,6839,1.55,2024-07-25 14:20:31
+932,Email Marketing Metrics 2021,Marketing,Company Database,2025-10-28,5815215,2095.38,2025-06-11 14:20:31
+933,Trending Topics 2023,Social Media,Kaggle,2025-10-16,5791932,1698.87,2025-05-25 14:20:31
+934,Inventory Management 2023,Retail,Company Database,2025-12-03,397914,121.15,2024-08-15 14:20:31
+935,Product Reviews 2024,E-commerce,Google Dataset Search,2024-12-29,2692560,1185.2,2024-07-21 14:20:31
+936,Email Marketing Metrics 2021,Marketing,GitHub,2025-11-15,7585652,4287.14,2025-04-30 14:20:31
+937,Patient Records 2021,Healthcare,UCI ML Repository,2025-10-21,8199462,3742.68,2023-12-24 14:20:31
+938,Customer Behavior Analysis 2023,Marketing,Internal,2025-06-06,91873,66.87,2023-12-13 14:20:31
+939,Supply Chain 2021,Manufacturing,Company Database,2025-09-30,29936,22.1,2024-08-20 14:20:31
+940,Student Performance 2023,Education,Web Scraping,2025-01-24,8968027,8683.93,2024-05-10 14:20:31
+941,Public Transit Usage 2020,Transportation,API Collection,2024-12-08,568177,208.01,2024-11-04 14:20:31
+942,Product Reviews 2023,E-commerce,Company Database,2025-05-26,48366,13.39,2024-08-24 14:20:31
+943,Patient Records 2020,Healthcare,AWS Open Data,2025-09-11,117162,32.08,2025-07-22 14:20:31
+944,Inventory Management 2020,Retail,Internal,2025-10-23,544834,375.83,2025-04-01 14:20:31
+945,Trending Topics 2024,Social Media,UCI ML Repository,2025-09-28,650312,545.24,2025-05-29 14:20:31
+946,Social Media Engagement 2021,Marketing,Web Scraping,2025-02-08,4682,3.96,2024-03-10 14:20:31
+947,Vehicle Telemetry 2023,IoT,Data.gov,2025-05-19,787391,414.83,2023-08-05 14:20:31
+948,Flight Schedules 2024,Transportation,Web Scraping,2025-04-19,6961,0.73,2024-07-01 14:20:31
+949,Credit Risk Assessment 2021,Finance,Data.gov,2025-06-07,8750162,8192.77,2024-06-06 14:20:31
+950,Quality Control 2022,Manufacturing,Google Dataset Search,2025-03-21,33155,21.67,2023-12-19 14:20:31
+951,Shopping Cart Abandonment 2024,E-commerce,UCI ML Repository,2025-08-28,973120,354.52,2024-05-18 14:20:31
+952,Email Marketing Metrics 2020,Marketing,Internal,2025-03-22,5036404,2436.65,2023-08-25 14:20:31
+953,Quality Control 2021,Manufacturing,Data.gov,2025-12-01,736266,155.47,2024-05-20 14:20:31
+954,Learning Analytics 2022,Education,Data.gov,2025-05-26,546257,394.7,2023-12-28 14:20:31
+955,Campaign Performance 2022,Marketing,Internal,2025-05-10,4614961,2845.6,2024-01-19 14:20:31
+956,Email Marketing Metrics 2021,Marketing,Company Database,2025-04-18,4651,4.11,2023-12-20 14:20:31
+957,Vehicle Telemetry 2023,IoT,AWS Open Data,2025-12-07,1424,0.21,2025-01-03 14:20:31
+958,Store Performance 2020,Retail,Web Scraping,2025-10-28,7206478,6981.5,2024-06-09 14:20:31
+959,Medical Imaging 2024,Healthcare,UCI ML Repository,2025-06-10,3005181,486.99,2023-10-25 14:20:31
+960,Transaction Records 2022,Finance,Google Dataset Search,2025-04-18,883382,792.73,2024-04-10 14:20:31
+961,Smart Home Data 2022,IoT,Google Dataset Search,2025-12-01,820384,279.91,2024-11-24 14:20:31
+962,Sales Transactions 2022,Retail,AWS Open Data,2025-07-03,6061,2.24,2024-08-19 14:20:31
+963,Store Performance 2022,Retail,Company Database,2025-04-17,531422,331.61,2025-01-25 14:20:31
+964,Sales Transactions 2021,Retail,AWS Open Data,2025-01-29,90743,90.2,2024-07-04 14:20:31
+965,Product Catalog 2020,E-commerce,Google Dataset Search,2025-06-15,5420831,2628.49,2023-12-06 14:20:31
+966,Supply Chain 2021,Manufacturing,Google Dataset Search,2025-01-05,672522,226.7,2023-07-07 14:20:31
+967,Store Performance 2021,Retail,Kaggle,2025-06-01,8218858,1141.45,2025-02-06 14:20:31
+968,Equipment Maintenance 2022,Manufacturing,AWS Open Data,2025-03-13,5939081,4202.11,2023-12-26 14:20:31
+969,Trending Topics 2024,Social Media,GitHub,2025-01-15,480301,478.77,2024-02-26 14:20:31
+970,Stock Market Data 2020,Finance,GitHub,2025-01-28,4612,2.63,2024-06-03 14:20:31
+971,Quality Control 2021,Manufacturing,AWS Open Data,2025-08-30,699479,672.68,2025-04-19 14:20:31
+972,Medical Imaging 2023,Healthcare,Company Database,2025-02-17,9439096,2375.45,2023-12-31 14:20:31
+973,User Purchase History 2024,E-commerce,Kaggle,2025-06-18,4620,0.8,2023-12-29 14:20:31
+974,Course Enrollment 2022,Education,Company Database,2025-10-05,87101,43.41,2024-09-20 14:20:31
+975,Clinical Trials 2023,Healthcare,Company Database,2024-12-19,4624848,2097.57,2023-10-12 14:20:31
+976,Learning Analytics 2020,Education,AWS Open Data,2025-05-23,730733,629.51,2024-12-21 14:20:31
+977,Shopping Cart Abandonment 2021,E-commerce,Kaggle,2025-05-02,4403826,760.69,2024-02-07 14:20:31
+978,Shipping Routes 2024,Transportation,Company Database,2025-01-01,8732342,3184.09,2023-12-28 14:20:31
+979,Credit Risk Assessment 2024,Finance,Kaggle,2024-12-17,413595,343.89,2023-09-26 14:20:31
+980,Production Metrics 2023,Manufacturing,GitHub,2025-03-29,835137,779.04,2024-06-03 14:20:31
+981,Environmental Monitoring 2022,IoT,UCI ML Repository,2025-10-17,83940,27.72,2025-01-13 14:20:31
+982,Store Performance 2024,Retail,AWS Open Data,2025-11-13,6389,5.74,2024-07-16 14:20:31
+983,Influencer Metrics 2020,Social Media,GitHub,2025-05-27,87324,83.61,2023-05-30 14:20:31
+984,Sales Transactions 2020,Retail,GitHub,2025-10-18,360455,81.19,2025-05-01 14:20:31
+985,Supply Chain 2024,Manufacturing,Web Scraping,2025-03-02,5337,5.15,2023-10-25 14:20:31
+986,Transaction Records 2022,Finance,Data.gov,2025-01-01,4033,1.31,2024-10-02 14:20:31
+987,Equipment Maintenance 2020,Manufacturing,Kaggle,2025-03-14,4048,0.41,2024-03-05 14:20:31
+988,Flight Schedules 2024,Transportation,GitHub,2025-04-10,825069,784.84,2023-04-29 14:20:31
+989,Supply Chain 2020,Manufacturing,Internal,2025-08-30,8487,2.96,2024-10-24 14:20:31
+990,Drug Interactions 2021,Healthcare,Kaggle,2025-06-13,320213,256.26,2023-08-19 14:20:31
+991,Traffic Patterns 2024,Transportation,GitHub,2025-02-01,5108818,1463.0,2024-05-26 14:20:31
+992,Email Marketing Metrics 2020,Marketing,Web Scraping,2025-01-02,1079148,684.82,2023-04-16 14:20:31
+993,Traffic Patterns 2024,Transportation,Internal,2025-01-03,93365,73.49,2023-08-15 14:20:31
+994,Public Transit Usage 2022,Transportation,GitHub,2025-10-30,8372153,6810.25,2025-04-13 14:20:31
+995,Transaction Records 2020,Finance,API Collection,2025-07-12,530922,186.52,2024-03-07 14:20:31
+996,Sensor Readings 2021,IoT,AWS Open Data,2025-01-19,2599,0.8,2023-04-29 14:20:31
+997,Vehicle Telemetry 2024,IoT,GitHub,2025-02-01,12019,2.53,2023-10-26 14:20:31
+998,Customer Behavior Analysis 2021,Marketing,Web Scraping,2025-07-01,5936,1.72,2024-12-18 14:20:31
+999,Student Performance 2020,Education,Kaggle,2025-03-12,6181,0.72,2024-05-05 14:20:31
+1000,Student Performance 2022,Education,Web Scraping,2025-06-18,7347,1.37,2025-04-07 14:20:31
