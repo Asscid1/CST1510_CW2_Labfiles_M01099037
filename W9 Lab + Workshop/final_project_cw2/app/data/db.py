@@ -1,40 +1,33 @@
-"""
-Database connection module
-Handles SQLite database connections for the Multi-Domain Intelligence Platform
-"""
-
 import sqlite3
+import pandas as pd
 from pathlib import Path
 
-# Database path
 DATA_DIR = Path("DATA")
-DB_PATH = Path("DATA") / "intelligence_platform.db"
+DB_PATH = DATA_DIR / "intelligence_platform.db"
+
 
 def connect_database(db_path=DB_PATH):
-    """
-    Connect to the SQLite database.
-    Creates the database file if it doesn't exist.
-    
-    Args:
-        db_path: Path to the database file
-        
-    Returns:
-        sqlite3.Connection: Database connection object
-    """
-    # Ensure DATA directory exists
     DATA_DIR.mkdir(parents=True, exist_ok=True)
-    
-    # Connect to database
+
     conn = sqlite3.connect(str(db_path))
-    
+
+    conn.execute("PRAGMA foreign_keys = ON")
+
     return conn
 
+
+def load_csv_to_table(conn, csv_path, table_name):
+    path = Path(csv_path)
+    if not path.exists():
+        print(f"Warning: {csv_path} not found.")
+        return 0
+
+    df = pd.read_csv(path)
+    df.to_sql(name=table_name, con=conn, if_exists="append", index=False)
+    print(f"Loaded {len(df)} rows into {table_name}")
+    return len(df)
+
+
 def close_connection(conn):
-    """
-    Close database connection safely.
-    
-    Args:
-        conn: Database connection to close
-    """
     if conn:
         conn.close()
